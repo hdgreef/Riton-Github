@@ -46,6 +46,7 @@ python code
 | `git status` | List all *new or modified* files |
 | `git diff` | Show file differences that **haven't been** staged |
 
+
 <details> #add open to detail to leave it open
 
 <summary>Tips for collapsed sections</summary>
@@ -71,7 +72,7 @@ Here is a Mermaid diagram :
 (more info here [Mermaid site](http://mermaid.js.org/#/).
 
 ```mermaid
-graph LR;
+graph TD;
     A(["Riton Starred Github"]);
     A-->B{"0. Klipper & Klippain"};
     A-->C{"1. Slicers & Tools"};
