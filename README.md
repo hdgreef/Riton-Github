@@ -1,7 +1,13 @@
-# Riton-Github (First-level heading)
-> (to quote the line) CheatSheet of ReadMe layout + Github organization
+# Riton-Github <!-- First-level heading -->
+> CheatSheet of ReadMe layout + Github organization #to quote line
 
-## Basic formatting syntax (Second-level heading)
+---
+
+<details>  <!-- to collapsed menu, add open to detail to leave it open -->
+
+<summary>Basic formatting syntax</summary>
+
+## Basic formatting syntax <!-- Second-level heading -->
 
 **This is bold text**
 
@@ -23,34 +29,32 @@ This is an <ins>underlined</ins> text
 python code
 ```
 
+```ruby
+   puts "Hello World"
+```
+
 - [ ] Task 1
 - [ ] Task 2 can be URL
-- [ ] Add delight to the experience when all tasks are complete :tada:
+- [X] Task DONE (+emoji :tada:)
+
+</details>
+
+---
+
+<details>
+
+<summary>Links & Images </summary>
 
 
-
-## Links & Images (Second-level heading)
-
-> [!NOTE]
-> Useful information that users should know, even when skimming content.
-
-> [!TIP]
-> Helpful advice for doing things better or more easily.
-
-> [!IMPORTANT]
-> Key information users need to know to achieve their goal.
-
-> [!WARNING]
-> Urgent info that needs immediate user attention to avoid problems.
-
-> [!CAUTION]
-> Advises about risks or negative outcomes of certain actions.
+## Links & Images <!-- Second-level heading -->
 
 | Command | Description | |
 | :---         |     :---:      |          ---: |
 | Left side aligned | Centered | Right side |
 | `git status` | List all *new or modified* files | |
 | `git diff` | Show file differences that **haven't been** staged | |
+
+---
 
 Here is a Mermaid diagram :
 (more info here [Mermaid site](http://mermaid.js.org/#/).
@@ -70,30 +74,37 @@ graph TD;
     A-->K{"999. Others"};
 ```
 
+---
+
 **The Cauchy-Schwarz Inequality**
 
 ```math
 \left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)
 ```
 
+---
+
 This site was built using [GitHub Pages](https://pages.github.com/).
+
+---
 
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
 
+</details>
 
+---
 
-<details> #add open to detail to leave it open
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
 
-<summary>Tips for collapsed sections</summary>
+> [!TIP]
+> Helpful advice for doing things better or more easily.
 
-### You can add a header (A third-level heading)
+> [!IMPORTANT]
+> Key information users need to know to achieve their goal.
 
-You can add text within a collapsed section.
+> [!WARNING]
+> Urgent info that needs immediate user attention to avoid problems.
 
-You can add an image or a code block, too.
-
-```ruby
-   puts "Hello World"
-```
-
-</details> 
+> [!CAUTION]
+> Advises about risks or negative outcomes of certain actions.
