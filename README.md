@@ -1,6 +1,8 @@
 # Riton-Github <!-- First-level heading -->
 > CheatSheet of ReadMe layout + Github organization #to quote line
 
+![Screepton](./docs/images/Logo.png)
+
 ---
 
 <details>  <!-- to collapsed menu, add open to detail to leave it open -->
