@@ -1,7 +1,50 @@
-# Riton-Github <!-- First-level heading -->
+# Riton-Github <!-- First-level heading --> <!-- TO COMMENT -->
 > CheatSheet of ReadMe layout + Github organization #to quote line
 
 ![Screepton](./docs/images/Logo.png)
+
+
+---
+
+<details>  <!-- to collapsed menu, add open to detail to leave it open -->
+
+<summary>3D Print Software Related</summary>
+
+## Klipper
+
+Klipper [Klipper GitHub](https://github.com/Klipper3d/klipper).
+
+Klippain [Klippain GitHub](https://github.com/Frix-x/klippain).
+
+Klippain Chocolate [Klippain-chocolate GitHub](https://github.com/elpopo-eng/klippain-chocolate).
+
+Kalico [Kalico GitHub](https://github.com/KalicoCrew/kalico).
+
+## Slicer & Tools
+
+</details>
+
+---
+
+---
+
+<details>  <!-- to collapsed menu, add open to detail to leave it open -->
+
+<summary>3D Print HW Related</summary>
+
+## ToolChanger
+
+## ToolHeads (TH) & Extruder
+
+## MMU
+
+## Mods
+
+## Filter
+
+</details>
+
+---
 
 ---
 
@@ -9,7 +52,7 @@
 
 <summary>Basic formatting syntax</summary>
 
-## Basic formatting syntax <!-- Second-level heading -->
+## Basic formatting syntax
 
 **This is bold text**
 
@@ -48,7 +91,7 @@ python code
 <summary>Links & Images </summary>
 
 
-## Links & Images <!-- Second-level heading -->
+## Links & Images
 
 | Command | Description | |
 | :---         |     :---:      |          ---: |
