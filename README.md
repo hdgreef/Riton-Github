@@ -59,15 +59,20 @@ Klipper ToolChanger [Klipper-Toolchanger](https://github.com/viesturz/klipper-to
 
 ## ToolChanger
 
-
+![DSD Logo]() [Draft Shift Design](https://github.com/DraftShift)
 
 ## ToolHeads (TH) & Extruder
 
 ## MMU
 
+![ERCF Logo](./docs/images/ercf_logo.png) [Enraged Rabbit Collective](https://github.com/Carrot-collective)
+
 ## Mods
 
-
+![VoronDesign Logo](./docs/images/voron_design_logo.png) [VoronUsers](https://github.com/VoronDesign/VoronUsers)
+![Monolith Logo](.docs/images/monolith_logo.png) [Monolith3D](https://github.com/Monolith3D)
+[MiniBFI]
+[Z Joint]
 
 ## Filter
 
