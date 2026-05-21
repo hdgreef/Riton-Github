@@ -16,13 +16,13 @@
 
 Klippain [Klippain GitHub](https://github.com/Frix-x/klippain).
 
-Klippain-🍫 Chocolate [Klippain-chocolate GitHub](https://github.com/elpopo-eng/klippain-chocolate).
+Klippain-🍫 [Klippain-chocolate GitHub](https://github.com/elpopo-eng/klippain-chocolate).
 
 ![Kalico Logo](./docs/images/kalico-32x32.png) [Kalico GitHub](https://github.com/KalicoCrew/kalico).
 
 ## Klipper Add-On Software
 
-![KIAUH Logo](./docs/images/kiauh-logo.png) [KIAUH](https://github.com/dw-0/kiauh)
+![KIAUH Logo](./docs/images/kiauh-logo-50px.png) [KIAUH](https://github.com/dw-0/kiauh)
 
 ![UKAM Logo](./docs/images/ukam-banner-60px.png) [UKAM](https://github.com/fbeauKmi/update_klipper_and_mcus/tree/main)
 
@@ -34,9 +34,18 @@ Klipper ToolChanger [Klipper-Toolchanger](https://github.com/viesturz/klipper-to
 
 ## Slicer
 
-![Susie Logo](./docs/images/SuperSlicer_32px.png) [Susie](https://github.com/supermerill/SuperSlicer)
+![Susie Logo](./docs/images/SuperSlicer_32px.png) [SuperSlicer](https://github.com/supermerill/SuperSlicer)
 
-![Orca Logo](./docs/images/OrcaSlicer_32px.png) [Orca](https://github.com/OrcaSlicer/OrcaSlicer)
+![Orca Logo](./docs/images/OrcaSlicer_32px.png) [OrcaSlicer](https://github.com/OrcaSlicer/OrcaSlicer)
+
+## Tuning
+
+[Ellis Print Tuning Guide](https://github.com/AndrewEllis93/Print-Tuning-Guide)
+
+## Others
+
+[stlTexturizer](https://github.com/CNCKitchen/stlTexturizer)
+
 
 </details>
 
@@ -58,7 +67,13 @@ Klipper ToolChanger [Klipper-Toolchanger](https://github.com/viesturz/klipper-to
 
 ## Mods
 
+
+
 ## Filter
+
+[Nevermore](https://github.com/nevermore3d)
+
+[TheFilter](https://github.com/nateb16/VoronUsers/tree/master/printer_mods/nateb16/THE_FILTER)
 
 </details>
 
