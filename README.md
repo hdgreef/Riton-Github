@@ -20,7 +20,23 @@ Klippain-🍫 Chocolate [Klippain-chocolate GitHub](https://github.com/elpopo-en
 
 ![Kalico Logo](./docs/images/kalico-32x32.png) [Kalico GitHub](https://github.com/KalicoCrew/kalico).
 
-## Slicer & Tools
+## Klipper Add-On Software
+
+![KIAUH Logo](./docs/images/kiauh-logo.png) [KIAUH](https://github.com/dw-0/kiauh)
+
+![UKAM Logo](./docs/images/ukam-logo.png) [UKAM](https://github.com/fbeauKmi/update_klipper_and_mcus/tree/main)
+
+Shake & Tune [Shake&Tune](https://github.com/Frix-x/klippain-shaketune)
+
+TMC Autotune [TMC Autotune](https://github.com/andrewmcgr/klipper_tmc_autotune)
+
+Klipper ToolChanger [Klipper-Toolchanger](https://github.com/viesturz/klipper-toolchanger)
+
+## Slicer
+
+![Susie Logo](./docs/images/SuperSlicer_32px.png) [Susie](https://github.com/supermerill/SuperSlicer)
+
+![Orca Logo](./docs/images/OrcaSlicer_32px.png) [Orca](https://github.com/OrcaSlicer/OrcaSlicer)
 
 </details>
 
@@ -33,6 +49,8 @@ Klippain-🍫 Chocolate [Klippain-chocolate GitHub](https://github.com/elpopo-en
 <summary>3D Print HW Related</summary>
 
 ## ToolChanger
+
+
 
 ## ToolHeads (TH) & Extruder
 
