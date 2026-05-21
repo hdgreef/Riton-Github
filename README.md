@@ -12,13 +12,13 @@
 
 ## Klipper
 
-![Klipper Logo](./docs/images/klipper-logo-small.png) Klipper [Klipper GitHub](https://github.com/Klipper3d/klipper).
+![Klipper Logo](./docs/images/klipper-logo-small.png) [Klipper GitHub](https://github.com/Klipper3d/klipper).
 
 Klippain [Klippain GitHub](https://github.com/Frix-x/klippain).
 
 Klippain-🍫 Chocolate [Klippain-chocolate GitHub](https://github.com/elpopo-eng/klippain-chocolate).
 
-Kalico [Kalico GitHub](https://github.com/KalicoCrew/kalico).
+![Kalico Logo](./docs/images/kalico-32x32.png) [Kalico GitHub](https://github.com/KalicoCrew/kalico).
 
 ## Slicer & Tools
 
@@ -80,7 +80,7 @@ python code
 
 - [ ] Task 1
 - [ ] Task 2 can be URL
-- [X] Task DONE (+emoji :tada:)
+- [X] Task DONE (+emoji :tada:) <!-- Emoji Cheat Sheet : https://gist.github.com/roachhd/1f029bd4b50b8a524f3c -->
 
 </details>
 
