@@ -24,7 +24,7 @@ Klippain-🍫 Chocolate [Klippain-chocolate GitHub](https://github.com/elpopo-en
 
 ![KIAUH Logo](./docs/images/kiauh-logo.png) [KIAUH](https://github.com/dw-0/kiauh)
 
-![UKAM Logo](./docs/images/ukam-banner.png) [UKAM](https://github.com/fbeauKmi/update_klipper_and_mcus/tree/main)
+![UKAM Logo](./docs/images/ukam-banner-60px.png) [UKAM](https://github.com/fbeauKmi/update_klipper_and_mcus/tree/main)
 
 Shake & Tune [Shake&Tune](https://github.com/Frix-x/klippain-shaketune)
 
