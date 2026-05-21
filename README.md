@@ -1,5 +1,5 @@
 # Riton-Github <!-- First-level heading --> <!-- TO COMMENT -->
-> CheatSheet of ReadMe layout + Github organization #to quote line
+> Screepton + CheatSheet of ReadMe layout + Github organization  <!-- to quote line -->
 
 ![Screepton](./docs/images/Logo.png)
 
@@ -12,11 +12,11 @@
 
 ## Klipper
 
-Klipper [Klipper GitHub](https://github.com/Klipper3d/klipper).
+![Klipper Logo](./docs/images/klipper-logo-small.png) Klipper [Klipper GitHub](https://github.com/Klipper3d/klipper).
 
 Klippain [Klippain GitHub](https://github.com/Frix-x/klippain).
 
-Klippain Chocolate [Klippain-chocolate GitHub](https://github.com/elpopo-eng/klippain-chocolate).
+Klippain-🍫 Chocolate [Klippain-chocolate GitHub](https://github.com/elpopo-eng/klippain-chocolate).
 
 Kalico [Kalico GitHub](https://github.com/KalicoCrew/kalico).
 
