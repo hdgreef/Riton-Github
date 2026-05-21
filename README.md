@@ -59,7 +59,7 @@ Klipper ToolChanger [Klipper-Toolchanger](https://github.com/viesturz/klipper-to
 
 ## ToolChanger
 
-![DSD Logo]() [Draft Shift Design](https://github.com/DraftShift)
+![DSD Logo](./docs/images/dsd_logo.png) [Draft Shift Design](https://github.com/DraftShift)
 
 ## ToolHeads (TH) & Extruder
 
@@ -70,8 +70,11 @@ Klipper ToolChanger [Klipper-Toolchanger](https://github.com/viesturz/klipper-to
 ## Mods
 
 ![VoronDesign Logo](./docs/images/voron_design_logo.png) [VoronUsers](https://github.com/VoronDesign/VoronUsers)
-![Monolith Logo](.docs/images/monolith_logo.png) [Monolith3D](https://github.com/Monolith3D)
+
+![Monolith Logo](./docs/images/Monolith_logo.png) [Monolith3D](https://github.com/Monolith3D)
+
 [MiniBFI]
+
 [Z Joint]
 
 ## Filter
