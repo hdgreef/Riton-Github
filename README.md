@@ -67,17 +67,17 @@ Klipper ToolChanger [Klipper-Toolchanger](https://github.com/viesturz/klipper-to
 
 ## MMU
 
-![Happy Hare](./docs/images/HappyHare-logo.png)(https://github.com/moggieuk/Happy-Hare)
+![Happy Hare](./docs/images/happy_hare_logo.jpg) [HappyHare](https://github.com/moggieuk/Happy-Hare)
 
 ![ERCF Logo](./docs/images/ercf_logo.png) [Enraged Rabbit Collective](https://github.com/Carrot-collective)
 
-![ArmoredTurtle_Logo](./docs/images/AT-logo-small.png) [Box Turtle](https://github.com/ArmoredTurtle/BoxTurtle)
+![ArmoredTurtle_Logo](./docs/images/AT-logo.png) [BoxTurtle](https://github.com/ArmoredTurtle/BoxTurtle)
 
 [EMU](https://github.com/DW-Tas/EMU)
 
 [QuattroBox](https://github.com/Batalhoti/QuattroBox)
 
-![TradRack_Logo](./docs/images/tradrack-logo.png) [Trad Rack](https://github.com/Annex-Engineering/TradRack)
+![TradRack_Logo](./docs/images/tradrack-logo.png) [TradRack](https://github.com/Annex-Engineering/TradRack)
 
 
 ## Mods
