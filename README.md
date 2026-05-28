@@ -73,7 +73,7 @@ Klipper ToolChanger [Klipper-Toolchanger](https://github.com/viesturz/klipper-to
 
 ![ArmoredTurtle_Logo](./docs/images/AT-logo.png) [BoxTurtle](https://github.com/ArmoredTurtle/BoxTurtle)
 
-[EMU](https://github.com/DW-Tas/EMU)
+[Expandable Multi-color Unit](https://github.com/DW-Tas/EMU)
 
 [QuattroBox](https://github.com/Batalhoti/QuattroBox)
 
