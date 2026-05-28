@@ -24,6 +24,8 @@ Klippain-🍫 [Klippain-chocolate GitHub](https://github.com/elpopo-eng/klippain
 
 ![KIAUH Logo](./docs/images/kiauh-logo-50px.png) [KIAUH](https://github.com/dw-0/kiauh)
 
+![Esoterical Logo](./docs/images/esoterical-logo.png) [Esoterical CAN Bus](https://github.com/Esoterical/voron_canbus)
+
 ![UKAM Logo](./docs/images/ukam-banner-60px.png) [UKAM](https://github.com/fbeauKmi/update_klipper_and_mcus/tree/main)
 
 Shake & Tune [Shake&Tune](https://github.com/Frix-x/klippain-shaketune)
@@ -65,7 +67,18 @@ Klipper ToolChanger [Klipper-Toolchanger](https://github.com/viesturz/klipper-to
 
 ## MMU
 
+![Happy Hare](./docs/images/HappyHare-logo.png)(https://github.com/moggieuk/Happy-Hare)
+
 ![ERCF Logo](./docs/images/ercf_logo.png) [Enraged Rabbit Collective](https://github.com/Carrot-collective)
+
+![ArmoredTurtle_Logo](./docs/images/AT-logo-small.png) [Box Turtle](https://github.com/ArmoredTurtle/BoxTurtle)
+
+[EMU](https://github.com/DW-Tas/EMU)
+
+[QuattroBox](https://github.com/Batalhoti/QuattroBox)
+
+![TradRack_Logo](./docs/images/tradrack-logo.png) [Trad Rack](https://github.com/Annex-Engineering/TradRack)
+
 
 ## Mods
 
