@@ -79,6 +79,8 @@ Klipper ToolChanger [Klipper-Toolchanger](https://github.com/viesturz/klipper-to
 
 ![TradRack_Logo](./docs/images/tradrack-logo.png) [TradRack](https://github.com/Annex-Engineering/TradRack)
 
+[OpenAMS](https://openams.si-forge.com/)
+
 
 ## Mods
 
