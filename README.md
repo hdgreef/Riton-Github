@@ -1,7 +1,16 @@
-# Riton-Github <!-- First-level heading --> <!-- TO COMMENT -->
-> Screepton + CheatSheet of ReadMe layout + Github organization  <!-- to quote line -->
+<!-- # Riton-Github <!-- First-level heading --> <!-- TO COMMENT --> 
 
-![Screepton](./docs/images/Logo.png)
+<p align="center">
+   <h1 align="center">Riton-Github</h1>
+</p>
+
+ > Screepton + CheatSheet of ReadMe layout + Github organization   <!-- to quote line -->
+
+<p align="center">
+  <img src="https://github.com/hdgreef/Riton-Github/blob/main/docs/images/Logo.png" alt='Screepton' width='30%'>
+   <!-- ![Screepton](./docs/images/Logo.png) -->
+   <h1 align="center">Screepton</h1>
+</p>
 
 
 ---
@@ -10,7 +19,12 @@
 
 <summary>3D Print Software Related</summary>
 
-## Klipper
+<!--## Klipper-->
+
+<p align="center">
+   <h2 align="center">Klipper</h2>
+</p>
+
 
 ![Klipper Logo](./docs/images/klipper-logo-small.png) [Klipper GitHub](https://github.com/Klipper3d/klipper).
 
@@ -20,7 +34,11 @@ Klippain-🍫 [Klippain-chocolate GitHub](https://github.com/elpopo-eng/klippain
 
 ![Kalico Logo](./docs/images/kalico-32x32.png) [Kalico GitHub](https://github.com/KalicoCrew/kalico).
 
-## Klipper Add-On Software
+<!--## Klipper Add-On Software-->
+
+<p align="center">
+   <h2 align="center">Klipper Add-On Software</h2>
+</p>
 
 ![KIAUH Logo](./docs/images/kiauh-logo-50px.png) [KIAUH](https://github.com/dw-0/kiauh)
 
@@ -34,17 +52,29 @@ TMC Autotune [TMC Autotune](https://github.com/andrewmcgr/klipper_tmc_autotune)
 
 Klipper ToolChanger [Klipper-Toolchanger](https://github.com/viesturz/klipper-toolchanger)
 
-## Slicer
+<!--## Slicer-->
+
+<p align="center">
+   <h2 align="center">Slicer</h2>
+</p>
 
 ![Susie Logo](./docs/images/SuperSlicer_32px.png) [SuperSlicer](https://github.com/supermerill/SuperSlicer)
 
 ![Orca Logo](./docs/images/OrcaSlicer_32px.png) [OrcaSlicer](https://github.com/OrcaSlicer/OrcaSlicer)
 
-## Tuning
+<!--## Tuning-->
+
+<p align="center">
+   <h2 align="center">Print Tuning</h2>
+</p>
 
 [Ellis Print Tuning Guide](https://github.com/AndrewEllis93/Print-Tuning-Guide)
 
-## Others
+<!--## Others-->
+
+<p align="center">
+   <h2 align="center">Others</h2>
+</p>
 
 [stlTexturizer](https://github.com/CNCKitchen/stlTexturizer)
 
@@ -59,13 +89,25 @@ Klipper ToolChanger [Klipper-Toolchanger](https://github.com/viesturz/klipper-to
 
 <summary>3D Print HW Related</summary>
 
-## ToolChanger
+<!--## ToolChanger-->
+
+<p align="center">
+   <h2 align="center">ToolChanger [TC]</h2>
+</p>
 
 ![DSD Logo](./docs/images/dsd_logo.png) [Draft Shift Design](https://github.com/DraftShift)
 
-## ToolHeads (TH) & Extruder
+<!--## ToolHeads (TH) & Extruder-->
 
-## MMU
+<p align="center">
+   <h2 align="center">ToolHeads [TH] & Extruder</h2>
+</p>
+
+<!--## MMU-->
+
+<p align="center">
+   <h2 align="center">Multi Material Unit [MMU]</h2>
+</p>
 
 ![Happy Hare](./docs/images/happy_hare_logo.jpg) [HappyHare](https://github.com/moggieuk/Happy-Hare)
 
@@ -82,7 +124,11 @@ Klipper ToolChanger [Klipper-Toolchanger](https://github.com/viesturz/klipper-to
 [OpenAMS](https://openams.si-forge.com/)
 
 
-## Mods
+<!--## Mods-->
+
+<p align="center">
+   <h2 align="center">Voron Mods</h2>
+</p>
 
 ![VoronDesign Logo](./docs/images/voron_design_logo.png) [VoronUsers](https://github.com/VoronDesign/VoronUsers)
 
@@ -92,7 +138,11 @@ Klipper ToolChanger [Klipper-Toolchanger](https://github.com/viesturz/klipper-to
 
 [Z Joint]
 
-## Filter
+<!--## Filter-->
+
+<p align="center">
+   <h2 align="center">Filter</h2>
+</p>
 
 [Nevermore](https://github.com/nevermore3d)
 
