@@ -1,20 +1,18 @@
 <!-- # Riton-Github <!-- First-level heading --> <!-- TO COMMENT --> 
 
-<h1 align="center">Riton-Github</h1>
+<h1 align="center">Screepton</h1>
 
  > Screepton + CheatSheet of ReadMe layout + Github organization   <!-- to quote line -->
 
 <p align="center">
   <img src="https://github.com/hdgreef/Riton-Github/blob/main/docs/images/Logo.png" alt='Screepton' width='30%'>
    <!-- ![Screepton](./docs/images/Logo.png) -->
-   <h1 align="center">Screepton</h1>
 </p>
 
 <details><summary>3D Print Software Related</summary>  <!-- to collapsed menu, add open to detail to leave it open -->
 
 
 <!--## Klipper-->
-
 <h2 align="center">1.Klipper</h2>
 
 <table align=center>
@@ -43,24 +41,46 @@
 </table>
 
 <!--## Klipper Add-On Software-->
+<h2 align="center">2.Klipper Add-On Software</h2>
+<table align=center>
+<tr>
+ <td align=center>
+  <p><h3><a href=https://github.com/dw-0/kiauh>KIAUH</a></h3></p>
+  <a href="https://github.com/dw-0/kiauh"> 
+  <img src="https://github.com/dw-0/kiauh/blob/master/docs/assets/logo-large.png" style="height: 100px;" target=_blank alt="KIAUH">
+  </a>
+ </td>
 
-<h1 align="center">2.Klipper Add-On Software</h1>
+ <td align=center>
+  <p><h3><a href=https://github.com/Esoterical/voron_canbus>Esoterical CAN Bus Guide</a></h3></p>
+  <a href="https://github.com/dw-0/kiauh"> 
+  <img src="https://github.com/Esoterical/voron_canbus/blob/main/assets/esoterical-logo.png" style="height: 100px;" target=_blank alt="Esoterical CAN Bus Guide">
+  </a>
+ </td>
 
-## [<img src="https://github.com/dw-0/kiauh/blob/master/docs/assets/logo-large.png" height="100" align="top" style="height: 100px;" /> KIAUH](https://github.com/dw-0/kiauh)
+ <td align=center>
+  <p><h3><a href=https://github.com/fbeauKmi/update_klipper_and_mcus/tree/main>UKAM</a></h3></p>
+  <a href="https://github.com/fbeauKmi/update_klipper_and_mcus/tree/main"> 
+  <img src="https://github.com/fbeauKmi/update_klipper_and_mcus/blob/main/images/banner.png" style="height: 100px;" target=_blank alt="UKAM">
+  </a>
+ </td>
+</tr>
 
-## [<img src="https://github.com/Esoterical/voron_canbus/blob/main/assets/esoterical-logo.png" height="100" align="top" style="height: 100px;" /> Esoterical CAN Bus Guide](https://github.com/Esoterical/voron_canbus)
-
-## [<img src="https://github.com/fbeauKmi/update_klipper_and_mcus/blob/main/images/banner.png" height="100" align="top" style="height: 100px;" /> UKAM](https://github.com/fbeauKmi/update_klipper_and_mcus/tree/main)
-
-## [Shake & Tune](https://github.com/Frix-x/klippain-shaketune)
-
-## [TMC Autotune](https://github.com/andrewmcgr/klipper_tmc_autotune)
-
-## [Klipper-Toolchanger](https://github.com/viesturz/klipper-toolchanger)
+<tr>
+ <td align=center>
+  <h3><a href=https://github.com/Frix-x/klippain-shaketune target=_blank>Shake & Tune</a></h3>
+ </td>
+ <td align=center> 
+  <h3><a href=https://github.com/andrewmcgr/klipper_tmc_autotune target=_blank>TMC Autotune</a></h3>
+ </td>
+ <td align=center> 
+  <h3><a href=https://github.com/viesturz/klipper-toolchanger target=_blank>Klipper ToolChanger</a></h3>
+ </td>
+</tr>
+</table>
 
 <!--## Slicer-->
-
-<h1 align="center">3.Slicer</h1>
+<h2 align="center">3.Slicer</h2>
 
 ![Susie Logo](./docs/images/SuperSlicer_32px.png) [SuperSlicer](https://github.com/supermerill/SuperSlicer)
 
@@ -69,18 +89,13 @@
 [preFlight](https://github.com/oozebot/preFlight)
 
 <!--## Tuning-->
-
-<p align="center">
-   <h2 align="center">Print Tuning</h2>
-</p>
+<h2 align="center">Print Tuning</h2>
 
 [Ellis Print Tuning Guide](https://github.com/AndrewEllis93/Print-Tuning-Guide)
 
 <!--## Others-->
+<h2 align="center">Others</h2>
 
-<p align="center">
-   <h2 align="center">Others</h2>
-</p>
 
 [stlTexturizer](https://github.com/CNCKitchen/stlTexturizer)
 
