@@ -1,8 +1,6 @@
 <!-- # Riton-Github <!-- First-level heading --> <!-- TO COMMENT --> 
 
-<p align="center">
-   <h1 align="center">Riton-Github</h1>
-</p>
+<h1 align="center">Riton-Github</h1>
 
  > Screepton + CheatSheet of ReadMe layout + Github organization   <!-- to quote line -->
 
@@ -12,51 +10,39 @@
    <h1 align="center">Screepton</h1>
 </p>
 
+<details><summary>3D Print Software Related</summary>  <!-- to collapsed menu, add open to detail to leave it open -->
 
----
 
-<details>  <!-- to collapsed menu, add open to detail to leave it open -->
-
-<summary>3D Print Software Related</summary>
 
 <!--## Klipper-->
 
-<p align="center">
-   <h2 align="center">Klipper</h2>
-</p>
+<h2 align="center">1.Klipper</h2>
 
+### [<img src="https://github.com/Klipper3d/klipper/blob/master/docs/img/klipper-logo-small.png" height="100" align="top" style="height: 100px;" /> Klipper](https://github.com/Klipper3d/klipper)
 
-![Klipper Logo](./docs/images/klipper-logo-small.png) [Klipper GitHub](https://github.com/Klipper3d/klipper).
+### [<img src="https://github.com/Frix-x/klippain/blob/main/docs/klippain.png" height="100" align="top" style="height: 100px;" /> Klippain](https://github.com/Frix-x/klippain) & [Klippain-🍫](https://github.com/elpopo-eng/klippain-chocolate)
 
-Klippain [Klippain GitHub](https://github.com/Frix-x/klippain).
-
-Klippain-🍫 [Klippain-chocolate GitHub](https://github.com/elpopo-eng/klippain-chocolate).
-
-![Kalico Logo](./docs/images/kalico-32x32.png) [Kalico GitHub](https://github.com/KalicoCrew/kalico).
+## [<img src="https://github.com/KalicoCrew/kalico/blob/main/docs/logo/kalico-big.png" height="100" align="top" style="height: 100px;" />Kalico GitHub](https://github.com/KalicoCrew/kalico)
 
 <!--## Klipper Add-On Software-->
 
-<p align="center">
-   <h2 align="center">Klipper Add-On Software</h2>
-</p>
+<h1 align="center">2.Klipper Add-On Software</h1>
 
-![KIAUH Logo](./docs/images/kiauh-logo-50px.png) [KIAUH](https://github.com/dw-0/kiauh)
+## [<img src="https://github.com/dw-0/kiauh/blob/master/docs/assets/logo-large.png" height="100" align="top" style="height: 100px;" /> KIAUH](https://github.com/dw-0/kiauh)
 
-![Esoterical Logo](./docs/images/esoterical-logo.png) [Esoterical CAN Bus](https://github.com/Esoterical/voron_canbus)
+## [<img src="https://github.com/Esoterical/voron_canbus/blob/main/assets/esoterical-logo.png" height="100" align="top" style="height: 100px;" /> Esoterical CAN Bus Guide](https://github.com/Esoterical/voron_canbus)
 
-![UKAM Logo](./docs/images/ukam-banner-60px.png) [UKAM](https://github.com/fbeauKmi/update_klipper_and_mcus/tree/main)
+## [<img src="https://github.com/fbeauKmi/update_klipper_and_mcus/blob/main/images/banner.png" height="100" align="top" style="height: 100px;" /> UKAM](https://github.com/fbeauKmi/update_klipper_and_mcus/tree/main)
 
-Shake & Tune [Shake&Tune](https://github.com/Frix-x/klippain-shaketune)
+## [Shake & Tune](https://github.com/Frix-x/klippain-shaketune)
 
-TMC Autotune [TMC Autotune](https://github.com/andrewmcgr/klipper_tmc_autotune)
+## [TMC Autotune](https://github.com/andrewmcgr/klipper_tmc_autotune)
 
-Klipper ToolChanger [Klipper-Toolchanger](https://github.com/viesturz/klipper-toolchanger)
+## [Klipper-Toolchanger](https://github.com/viesturz/klipper-toolchanger)
 
 <!--## Slicer-->
 
-<p align="center">
-   <h2 align="center">Slicer</h2>
-</p>
+<h1 align="center">3.Slicer</h1>
 
 ![Susie Logo](./docs/images/SuperSlicer_32px.png) [SuperSlicer](https://github.com/supermerill/SuperSlicer)
 
