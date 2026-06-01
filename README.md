@@ -13,55 +13,55 @@
 
 
 <!--## Klipper-->
-<h2 align=center>1. Klipper</h2>
+<h2 align=center>1. Klipper Base</h2>
 
 <table align=center>
 <tr>
  <td align=center>
   <p><h3><a href="https://github.com/Klipper3d/klipper">Klipper</a></h3></p>
   <a href="https://github.com/Klipper3d/klipper"> 
-  <img src="https://github.com/Klipper3d/klipper/blob/master/docs/img/klipper-logo.png" style=height: 200px; alt="Klipper">
+  <img src="https://github.com/Klipper3d/klipper/blob/master/docs/img/klipper-logo.png" style="height: 150px; width: auto;" alt="Klipper">
   </a>
  </td>
 
  <td align=center>
   <p><h3><a href="https://github.com/Frix-x/klippain">Klippain</a> & <a href="https://github.com/elpopo-eng/klippain-chocolate">Klippain-🍫</a></h3></p>
   <a href="https://github.com/Frix-x/klippain"> 
-  <img src="https://github.com/Frix-x/klippain/blob/main/docs/klippain.png" style=height: 150px; alt="Klippain">
+  <img src="https://github.com/Frix-x/klippain/blob/main/docs/klippain.png" style="height: 150px; width: auto;" alt="Klippain">
   </a>
  </td>
 
 <td align=center>
   <p> <h3> <a href=https://github.com/KalicoCrew/kalico target=_blanck>Kalico</a></h3></p>
   <a href=https://github.com/Frix-x/klippain> 
-  <img src=https://github.com/KalicoCrew/kalico/blob/main/docs/logo/kalico-big.png style=height: 100px; alt="Kalico">
+  <img src=https://github.com/KalicoCrew/kalico/blob/main/docs/logo/kalico-big.png style="height: 150px; width: auto;" alt="Kalico">
   </a>
  </td>
 </tr>
 </table>
 
 <!--## Klipper Add-On Software-->
-<h2 align=center>2.Klipper Add-On Software</h2>
+<h2 align=center>2. MCU & RPi & Klipper Add-On</h2>
 <table align=center>
 <tr>
  <td align=center>
   <p><h3><a href="https://github.com/dw-0/kiauh">KIAUH</a></h3></p>
   <a href="https://github.com/dw-0/kiauh"> 
-  <img src="https://github.com/dw-0/kiauh/blob/master/docs/assets/logo-large.png" style=height: 100px; alt="KIAUH">
+  <img src="https://github.com/dw-0/kiauh/blob/master/docs/assets/logo-large.png" style="height: 150px; width: auto;" alt="KIAUH">
   </a>
  </td>
 
  <td align=center>
   <p><h3><a href="https://github.com/Esoterical/voron_canbus">Esoterical CAN Bus Guide</a></h3></p>
   <a href="https://github.com/dw-0/kiauh"> 
-  <img src="https://github.com/Esoterical/voron_canbus/blob/main/assets/esoterical-logo.png" style=height: 100px; alt="Esoterical CAN Bus Guide">
+  <img src="https://github.com/Esoterical/voron_canbus/blob/main/assets/esoterical-logo.png" style="height: 150px; width: auto;" alt="Esoterical CAN Bus Guide">
   </a>
  </td>
 
  <td align=center>
   <p><h3><a href="https://github.com/fbeauKmi/update_klipper_and_mcus/tree/main">UKAM</a></h3></p>
   <a href="https://github.com/fbeauKmi/update_klipper_and_mcus/tree/main"> 
-  <img src="https://github.com/fbeauKmi/update_klipper_and_mcus/blob/main/images/banner.png" style height: 100px; alt="UKAM">
+  <img src="https://github.com/fbeauKmi/update_klipper_and_mcus/blob/main/images/banner.png" style="height: 150px; width: auto;" alt="UKAM">
   </a>
  </td>
 </tr>
@@ -80,7 +80,7 @@
 </table>
 
 <!--## Slicer-->
-<h2 align=center>3.Slicer</h2>
+<h2 align=center>3. Slicer</h2>
 
 <table align=center>
 <tr>
@@ -92,30 +92,37 @@
  </td>
 
  <td align=center>
-    <p><h3><a href="https://github.com/OrcaSlicer/OrcaSlicer">OrcaSlicer</a></h3></p>
+  <p><h3><a href="https://github.com/OrcaSlicer/OrcaSlicer">OrcaSlicer</a></h3></p>
   <a href="https://github.com/OrcaSlicer/OrcaSlicer"> 
   <img src="https://github.com/OrcaSlicer/OrcaSlicer/blob/main/resources/images/OrcaSlicer.png" style="height: 150px; width: auto;" alt="OrcaSlicer">
   </a>
  </td>
 
 <td align=center>
-    <p><h3><a href="https://github.com/oozebot/preFlight">preFlight</a></h3></p>
+  <p><h3><a href="https://github.com/oozebot/preFlight">preFlight</a></h3></p>
   <a href="https://github.com/oozebot/preFlight"> 
   <img src="https://github.com/oozebot/preFlight/blob/main/images/preFlight.png" style="height: 150px; width: auto;" alt="preFlight">
+  </a>
+ </td>
+
+<td align=center>
+  <p><h3><a href="https://github.com/Ultimaker/Cura/tree/main">Cura</a></h3></p>
+  <a href="https://github.com/Ultimaker/Cura/tree/main"> 
+  <img src="https://github.com/Ultimaker/Cura/blob/main/resources/images/cura-icon.png" style="height: 150px; width: auto;" alt="Cura">
   </a>
  </td>
 
 </tr>
 </table>
 
+<table align=center>
+<tr>
 <!--## Tuning-->
-<h2 align="center">Print Tuning</h2>
+<h2 align="center">4. Print Tuning</h2>
 
 [Ellis Print Tuning Guide](https://github.com/AndrewEllis93/Print-Tuning-Guide)
 
 <!--## Others-->
-<h2 align="center">Others</h2>
-
 
 [stlTexturizer](https://github.com/CNCKitchen/stlTexturizer)
 
