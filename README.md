@@ -18,16 +18,16 @@
 <table align=center>
 <tr>
  <td align=center>
-  <p><h3><a href="https://github.com/Klipper3d/klipper" target="_blank">Klipper</a></h3></p>
-  <a href="https://github.com/Klipper3d/klipper" target="_blank"> 
-  <img src="https://github.com/Klipper3d/klipper/blob/master/docs/img/klipper-logo.png" style="height: 200px"; target="_blank" alt="Klipper">
+  <p><h3><a href="https://github.com/Klipper3d/klipper">Klipper</a></h3></p>
+  <a href="https://github.com/Klipper3d/klipper"> 
+  <img src="https://github.com/Klipper3d/klipper/blob/master/docs/img/klipper-logo.png" style="height: 200px;" target="_blank" alt="Klipper">
   </a>
  </td>
 
  <td align=center>
-  <p><h3><a href=https://github.com/Frix-x/klippain target=_blank>Klippain</a> & <a href=https://github.com/elpopo-eng/klippain-chocolate target=_blank>Klippain-🍫</a></h3></p>
-  <a href=https://github.com/Frix-x/klippain> 
-  <img src=https://github.com/Frix-x/klippain/blob/main/docs/klippain.png style=height: 150px; target=_blank alt=Klippain>
+  <p><h3><a href="https://github.com/Frix-x/klippain target=_blank">Klippain</a> & <a href="https://github.com/elpopo-eng/klippain-chocolate" target="_blank">Klippain-🍫</a></h3></p>
+  <a href="https://github.com/Frix-x/klippain"> 
+  <img src="https://github.com/Frix-x/klippain/blob/main/docs/klippain.png" style="height: 150px;" target="_blank" alt="Klippain">
   </a>
  </td>
 
