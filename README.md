@@ -1,11 +1,11 @@
 <!-- # Riton-Github <!-- First-level heading --> <!-- TO COMMENT --> 
 
-<h1 align="center">Screepton</h1>
+<h1 align=center>Screepton</h1>
 
  > Screepton + CheatSheet of ReadMe layout + Github organization   <!-- to quote line -->
 
-<p align="center">
-  <img src="https://github.com/hdgreef/Riton-Github/blob/main/docs/images/Logo.png" alt='Screepton' width='30%'>
+<p align=center>
+  <img src=https://github.com/hdgreef/Riton-Github/blob/main/docs/images/Logo.png alt='Screepton' width='30%'>
    <!-- ![Screepton](./docs/images/Logo.png) -->
 </p>
 
@@ -18,23 +18,23 @@
 <table align=center>
 <tr>
  <td align=center>
-  <p><h3><a href=https://github.com/Klipper3d/klipper>Klipper</a></h3></p>
-  <a href="https://github.com/Klipper3d/klipper"> 
+  <p><h3><a href=https://github.com/Klipper3d/klipper target=_blank>Klipper</a></h3></p>
+  <a href=https://github.com/Klipper3d/klipper target=_blank> 
   <img src="https://github.com/Klipper3d/klipper/blob/master/docs/img/klipper-logo.png" style="height: 100px;" target=_blank alt="Klipper">
   </a>
  </td>
 
  <td align=center>
-  <p><h3><a href=https://github.com/Frix-x/klippain>Klippain</a> & <a href=https://github.com/elpopo-eng/klippain-chocolate>Klippain-🍫</a></h3></p>
-  <a href="https://github.com/Frix-x/klippain"> 
+  <p><h3><a href=https://github.com/Frix-x/klippain target=_blank>Klippain</a> & <a href=https://github.com/elpopo-eng/klippain-chocolate target=_blank>Klippain-🍫</a></h3></p>
+  <a href=https://github.com/Frix-x/klippain> 
   <img src="https://github.com/Frix-x/klippain/blob/main/docs/klippain.png" style="height: 150px;" target=_blank alt="Klippain">
   </a>
  </td>
 
 <td align=center>
-  <p> <h3> <a href=https://github.com/KalicoCrew/kalico>Kalico</a></h3></p>
-  <a href="https://github.com/Frix-x/klippain"> 
-  <img src="https://github.com/KalicoCrew/kalico/blob/main/docs/logo/kalico-big.png" style="height: 100px;" target=_blank alt="Kalico">
+  <p> <h3> <a href=https://github.com/KalicoCrew/kalico target=_blanck>Kalico</a></h3></p>
+  <a href=https://github.com/Frix-x/klippain> 
+  <img src=https://github.com/KalicoCrew/kalico/blob/main/docs/logo/kalico-big.png style="height: 100px;" target=_blank alt="Kalico">
   </a>
  </td>
 </tr>
@@ -45,21 +45,21 @@
 <table align=center>
 <tr>
  <td align=center>
-  <p><h3><a href=https://github.com/dw-0/kiauh>KIAUH</a></h3></p>
+  <p><h3><a href=https://github.com/dw-0/kiauh target=_blank>KIAUH</a></h3></p>
   <a href="https://github.com/dw-0/kiauh"> 
   <img src="https://github.com/dw-0/kiauh/blob/master/docs/assets/logo-large.png" style="height: 100px;" target=_blank alt="KIAUH">
   </a>
  </td>
 
  <td align=center>
-  <p><h3><a href=https://github.com/Esoterical/voron_canbus>Esoterical CAN Bus Guide</a></h3></p>
+  <p><h3><a href=https://github.com/Esoterical/voron_canbus target=_blank>Esoterical CAN Bus Guide</a></h3></p>
   <a href="https://github.com/dw-0/kiauh"> 
   <img src="https://github.com/Esoterical/voron_canbus/blob/main/assets/esoterical-logo.png" style="height: 100px;" target=_blank alt="Esoterical CAN Bus Guide">
   </a>
  </td>
 
  <td align=center>
-  <p><h3><a href=https://github.com/fbeauKmi/update_klipper_and_mcus/tree/main>UKAM</a></h3></p>
+  <p><h3><a href=https://github.com/fbeauKmi/update_klipper_and_mcus/tree/main target=_blank>UKAM</a></h3></p>
   <a href="https://github.com/fbeauKmi/update_klipper_and_mcus/tree/main"> 
   <img src="https://github.com/fbeauKmi/update_klipper_and_mcus/blob/main/images/banner.png" style="height: 100px;" target=_blank alt="UKAM">
   </a>
@@ -82,7 +82,14 @@
 <!--## Slicer-->
 <h2 align="center">3.Slicer</h2>
 
-![Susie Logo](./docs/images/SuperSlicer_32px.png) [SuperSlicer](https://github.com/supermerill/SuperSlicer)
+<table align=center>
+<tr>
+ <td align=center>
+  <p><h3><a href=https://github.com/supermerill/SuperSlicer>SuperSlicer</a></h3></p>
+  <a href=https://github.com/supermerill/SuperSlicer> 
+  <img src="https://github.com/Klipper3d/klipper/blob/master/docs/img/klipper-logo.png" style="height: 100px;" target=_blank alt="Susie">
+  </a>
+ </td>
 
 ![Orca Logo](./docs/images/OrcaSlicer_32px.png) [OrcaSlicer](https://github.com/OrcaSlicer/OrcaSlicer)
 
@@ -99,6 +106,8 @@
 
 [stlTexturizer](https://github.com/CNCKitchen/stlTexturizer)
 
+</tr>
+</table>
 
 </details>
 
