@@ -13,12 +13,12 @@
 
 
 <!--## Klipper-->
-<h2 align="center">1.Klipper</h2>
+<h2 align=center>1.Klipper</h2>
 
 <table align=center>
 <tr>
  <td align=center>
-  <p><h3><a href=https://github.com/Klipper3d/klipper target=_blank>Klipper</a></h3></p>
+  <p><h3><a href="https://github.com/Klipper3d/klipper" target=_blank>Klipper</a></h3></p>
   <a href=https://github.com/Klipper3d/klipper target=_blank> 
   <img src="https://github.com/Klipper3d/klipper/blob/master/docs/img/klipper-logo.png" style="height: 100px;" target=_blank alt="Klipper">
   </a>
