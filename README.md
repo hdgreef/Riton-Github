@@ -13,16 +13,34 @@
 <details><summary>3D Print Software Related</summary>  <!-- to collapsed menu, add open to detail to leave it open -->
 
 
-
 <!--## Klipper-->
 
 <h2 align="center">1.Klipper</h2>
 
-### [<img src="https://github.com/Klipper3d/klipper/blob/master/docs/img/klipper-logo-small.png" height="100" align="top" style="height: 100px;" /> Klipper](https://github.com/Klipper3d/klipper)
+<table align=center>
+<tr>
+ <td align=center width=33%>
+  <p><h3><a href=https://github.com/Klipper3d/klipper>Klipper</a></h3></p>
+  <a href="https://github.com/Klipper3d/klipper"> 
+  <img src="https://github.com/Klipper3d/klipper/blob/master/docs/img/klipper-logo-small.png" style="height: 100px;" target=_blank alt="Klipper">
+  </a>
+ </td>
 
-### [<img src="https://github.com/Frix-x/klippain/blob/main/docs/klippain.png" height="100" align="top" style="height: 100px;" /> Klippain](https://github.com/Frix-x/klippain) & [Klippain-🍫](https://github.com/elpopo-eng/klippain-chocolate)
+ <td align=center width=33%>
+  <p><h3><a href=https://github.com/Frix-x/klippain>Klippain</a> & <a href=https://github.com/elpopo-eng/klippain-chocolate>Klippain-🍫</a></h3></p>
+  <a href="https://github.com/Frix-x/klippain"> 
+  <img src="https://github.com/Frix-x/klippain/blob/main/docs/klippain.png" style="height: 150px;" target=_blank alt="Klippain">
+  </a>
+ </td>
 
-## [<img src="https://github.com/KalicoCrew/kalico/blob/main/docs/logo/kalico-big.png" height="100" align="top" style="height: 100px;" />Kalico GitHub](https://github.com/KalicoCrew/kalico)
+<td align=center width=33%>
+  <p> <h3> <a href=https://github.com/KalicoCrew/kalico>Kalico</a></h3></p>
+  <a href="https://github.com/Frix-x/klippain"> 
+  <img src="https://github.com/KalicoCrew/kalico/blob/main/docs/logo/kalico-big.png" style="height: 100px;" target=_blank alt="Kalico">
+  </a>
+ </td>
+</tr>
+</table>
 
 <!--## Klipper Add-On Software-->
 
@@ -71,8 +89,6 @@
 
 ---
 
----
-
 <details>  <!-- to collapsed menu, add open to detail to leave it open -->
 
 <summary>3D Print HW Related</summary>
@@ -111,7 +127,6 @@
 
 [OpenAMS](https://openams.si-forge.com/)
 
-
 <!--## Mods-->
 
 <p align="center">
@@ -137,8 +152,6 @@
 [TheFilter](https://github.com/nateb16/VoronUsers/tree/master/printer_mods/nateb16/THE_FILTER)
 
 </details>
-
----
 
 ---
 
