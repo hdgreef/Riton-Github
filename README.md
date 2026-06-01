@@ -20,21 +20,21 @@
  <td align=center>
   <p><h3><a href="https://github.com/Klipper3d/klipper">Klipper</a></h3></p>
   <a href="https://github.com/Klipper3d/klipper"> 
-  <img src="https://github.com/Klipper3d/klipper/blob/master/docs/img/klipper-logo.png" style="height: 200px;" target="_blank" alt="Klipper">
+  <img src="https://github.com/Klipper3d/klipper/blob/master/docs/img/klipper-logo.png" style=height: 200px; alt="Klipper">
   </a>
  </td>
 
  <td align=center>
-  <p><h3><a href="https://github.com/Frix-x/klippain target=_blank">Klippain</a> & <a href="https://github.com/elpopo-eng/klippain-chocolate" target="_blank">Klippain-🍫</a></h3></p>
+  <p><h3><a href="https://github.com/Frix-x/klippain">Klippain</a> & <a href="https://github.com/elpopo-eng/klippain-chocolate">Klippain-🍫</a></h3></p>
   <a href="https://github.com/Frix-x/klippain"> 
-  <img src="https://github.com/Frix-x/klippain/blob/main/docs/klippain.png" style="height: 150px;" target="_blank" alt="Klippain">
+  <img src="https://github.com/Frix-x/klippain/blob/main/docs/klippain.png" style=height: 150px; alt="Klippain">
   </a>
  </td>
 
 <td align=center>
   <p> <h3> <a href=https://github.com/KalicoCrew/kalico target=_blanck>Kalico</a></h3></p>
   <a href=https://github.com/Frix-x/klippain> 
-  <img src=https://github.com/KalicoCrew/kalico/blob/main/docs/logo/kalico-big.png style=height: 100px; target=_blank alt="Kalico">
+  <img src=https://github.com/KalicoCrew/kalico/blob/main/docs/logo/kalico-big.png style=height: 100px; alt="Kalico">
   </a>
  </td>
 </tr>
@@ -45,55 +45,68 @@
 <table align=center>
 <tr>
  <td align=center>
-  <p><h3><a href=https://github.com/dw-0/kiauh target=_blank>KIAUH</a></h3></p>
-  <a href=https://github.com/dw-0/kiauh> 
-  <img src=https://github.com/dw-0/kiauh/blob/master/docs/assets/logo-large.png style=height: 100px; target=_blank alt=KIAUH>
+  <p><h3><a href="https://github.com/dw-0/kiauh">KIAUH</a></h3></p>
+  <a href="https://github.com/dw-0/kiauh"> 
+  <img src="https://github.com/dw-0/kiauh/blob/master/docs/assets/logo-large.png" style=height: 100px; alt="KIAUH">
   </a>
  </td>
 
  <td align=center>
-  <p><h3><a href=https://github.com/Esoterical/voron_canbus target=_blank>Esoterical CAN Bus Guide</a></h3></p>
-  <a href=https://github.com/dw-0/kiauh> 
-  <img src="https://github.com/Esoterical/voron_canbus/blob/main/assets/esoterical-logo.png" style=height: 100px; target=_blank alt=Esoterical CAN Bus Guide>
+  <p><h3><a href="https://github.com/Esoterical/voron_canbus">Esoterical CAN Bus Guide</a></h3></p>
+  <a href="https://github.com/dw-0/kiauh"> 
+  <img src="https://github.com/Esoterical/voron_canbus/blob/main/assets/esoterical-logo.png" style=height: 100px; alt="Esoterical CAN Bus Guide">
   </a>
  </td>
 
  <td align=center>
-  <p><h3><a href=https://github.com/fbeauKmi/update_klipper_and_mcus/tree/main target=_blank>UKAM</a></h3></p>
-  <a href=https://github.com/fbeauKmi/update_klipper_and_mcus/tree/main> 
-  <img src=https://github.com/fbeauKmi/update_klipper_and_mcus/blob/main/images/banner.png style height: 100px; target=_blank alt=UKAM>
+  <p><h3><a href="https://github.com/fbeauKmi/update_klipper_and_mcus/tree/main">UKAM</a></h3></p>
+  <a href="https://github.com/fbeauKmi/update_klipper_and_mcus/tree/main"> 
+  <img src="https://github.com/fbeauKmi/update_klipper_and_mcus/blob/main/images/banner.png" style height: 100px; alt="UKAM">
   </a>
  </td>
 </tr>
 
 <tr>
  <td align=center>
-  <h3><a href=https://github.com/Frix-x/klippain-shaketune target=_blank>Shake & Tune</a></h3>
+  <h3><a href="https://github.com/Frix-x/klippain-shaketune">Shake & Tune</a></h3>
  </td>
  <td align=center> 
-  <h3><a href=https://github.com/andrewmcgr/klipper_tmc_autotune target=_blank>TMC Autotune</a></h3>
+  <h3><a href="https://github.com/andrewmcgr/klipper_tmc_autotune">TMC Autotune</a></h3>
  </td>
  <td align=center> 
-  <h3><a href=https://github.com/viesturz/klipper-toolchanger target=_blank>Klipper ToolChanger</a></h3>
+  <h3><a href="https://github.com/viesturz/klipper-toolchanger">Klipper ToolChanger</a></h3>
  </td>
 </tr>
 </table>
 
 <!--## Slicer-->
-<h2 align="center">3.Slicer</h2>
+<h2 align=center>3.Slicer</h2>
 
 <table align=center>
 <tr>
  <td align=center>
-  <p><h3><a href=https://github.com/supermerill/SuperSlicer>SuperSlicer</a></h3></p>
+  <p><h3><a href="https://github.com/supermerill/SuperSlicer">SuperSlicer</a></h3></p>
   <a href=https://github.com/supermerill/SuperSlicer> 
-  <img src=https://github.com/Klipper3d/klipper/blob/master/docs/img/klipper-logo.png style=height: 100px; target=_blank alt="Susie">
+  <img src=https://github.com/supermerill/SuperSlicer/blob/master_27/resources/icons/SuperSlicer.png style="height: 150px; width: auto;" target=_blank alt="Susie">
   </a>
  </td>
 
-![Orca Logo](./docs/images/OrcaSlicer_32px.png) [OrcaSlicer](https://github.com/OrcaSlicer/OrcaSlicer)
+ <td align=center>
+    <p><h3><a href="https://github.com/OrcaSlicer/OrcaSlicer">OrcaSlicer</a></h3></p>
+  <a href="https://github.com/OrcaSlicer/OrcaSlicer"> 
+  <img src="https://github.com/OrcaSlicer/OrcaSlicer/blob/main/resources/images/OrcaSlicer.png" style="height: 150px; width: auto;" alt="OrcaSlicer">
+  </a>
+ </td>
 
-[preFlight](https://github.com/oozebot/preFlight)
+<td align=center>
+    <p><h3><a href="https://github.com/oozebot/preFlight">preFlight</a></h3></p>
+  <a href="https://github.com/oozebot/preFlight"> 
+  <img src="https://github.com/oozebot/preFlight/blob/main/images/preFlight.png" style="height: 150px; width: auto;" alt="preFlight">
+  </a>
+ </td>
+
+</tr>
+</table>
 
 <!--## Tuning-->
 <h2 align="center">Print Tuning</h2>
