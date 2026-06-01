@@ -19,21 +19,21 @@
 
 <table align=center>
 <tr>
- <td align=center width=33%>
+ <td align=center>
   <p><h3><a href=https://github.com/Klipper3d/klipper>Klipper</a></h3></p>
   <a href="https://github.com/Klipper3d/klipper"> 
-  <img src="https://github.com/Klipper3d/klipper/blob/master/docs/img/klipper-logo-small.png" style="height: 100px;" target=_blank alt="Klipper">
+  <img src="https://github.com/Klipper3d/klipper/blob/master/docs/img/klipper-logo.png" style="height: 100px;" target=_blank alt="Klipper">
   </a>
  </td>
 
- <td align=center width=33%>
+ <td align=center>
   <p><h3><a href=https://github.com/Frix-x/klippain>Klippain</a> & <a href=https://github.com/elpopo-eng/klippain-chocolate>Klippain-🍫</a></h3></p>
   <a href="https://github.com/Frix-x/klippain"> 
   <img src="https://github.com/Frix-x/klippain/blob/main/docs/klippain.png" style="height: 150px;" target=_blank alt="Klippain">
   </a>
  </td>
 
-<td align=center width=33%>
+<td align=center>
   <p> <h3> <a href=https://github.com/KalicoCrew/kalico>Kalico</a></h3></p>
   <a href="https://github.com/Frix-x/klippain"> 
   <img src="https://github.com/KalicoCrew/kalico/blob/main/docs/logo/kalico-big.png" style="height: 100px;" target=_blank alt="Kalico">
