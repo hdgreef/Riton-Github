@@ -62,6 +62,8 @@ Klipper ToolChanger [Klipper-Toolchanger](https://github.com/viesturz/klipper-to
 
 ![Orca Logo](./docs/images/OrcaSlicer_32px.png) [OrcaSlicer](https://github.com/OrcaSlicer/OrcaSlicer)
 
+[preFlight](https://github.com/oozebot/preFlight)
+
 <!--## Tuning-->
 
 <p align="center">
