@@ -115,16 +115,19 @@
 </tr>
 </table>
 
+<!--## Tuning-->
+<h2 align="center">4. Print Tuning & Modificator</h2>
+
 <table align=center>
 <tr>
-<!--## Tuning-->
-<h2 align="center">4. Print Tuning</h2>
-
-[Ellis Print Tuning Guide](https://github.com/AndrewEllis93/Print-Tuning-Guide)
+ <td align=center>
+  <h3><a href=https://github.com/AndrewEllis93/Print-Tuning-Guide>Ellis Print Tuning Guide</a></h3>
+ </td>
 
 <!--## Others-->
-
-[stlTexturizer](https://github.com/CNCKitchen/stlTexturizer)
+ <td align=center>
+  <h3><a href=https://github.com/CNCKitchen/stlTexturizer>Stl Texturizer</a></h3>
+ </td>
 
 </tr>
 </table>
@@ -133,29 +136,31 @@
 
 ---
 
-<details>  <!-- to collapsed menu, add open to detail to leave it open -->
+<details open>  <!-- to collapsed menu, add open to detail to leave it open -->
 
 <summary>3D Print HW Related</summary>
 
 <!--## ToolChanger-->
+<h2 align="center">1. ToolChanger [TC]</h2>
 
-<p align="center">
-   <h2 align="center">ToolChanger [TC]</h2>
-</p>
+<table align=center>
+<tr>
+ <td align=center>
+  <h3><a href=https://github.com/DraftShift>DraftShift Design</a></h3>
+  <a href="https://github.com/DraftShift"> 
+  <img src="https://github.com/hdgreef/Riton-Github/blob/main/docs/images/dsd_logo.png" style="height: 150px; width: auto;" alt="DraftShift">
+  </a>
+ </td>
 
-![DSD Logo](./docs/images/dsd_logo.png) [Draft Shift Design](https://github.com/DraftShift)
+</tr>
+</table>
 
 <!--## ToolHeads (TH) & Extruder-->
+<h2 align="center">2. ToolHeads [TH] & Extruder</h2>
 
-<p align="center">
-   <h2 align="center">ToolHeads [TH] & Extruder</h2>
-</p>
 
 <!--## MMU-->
-
-<p align="center">
-   <h2 align="center">Multi Material Unit [MMU]</h2>
-</p>
+<h2 align="center">3. Multi Material Unit [MMU]</h2>
 
 ![Happy Hare](./docs/images/happy_hare_logo.jpg) [HappyHare](https://github.com/moggieuk/Happy-Hare)
 
@@ -172,10 +177,7 @@
 [OpenAMS](https://openams.si-forge.com/)
 
 <!--## Mods-->
-
-<p align="center">
-   <h2 align="center">Voron Mods</h2>
-</p>
+<h2 align="center">4. Voron Mods</h2>
 
 ![VoronDesign Logo](./docs/images/voron_design_logo.png) [VoronUsers](https://github.com/VoronDesign/VoronUsers)
 
@@ -186,10 +188,7 @@
 [Z Joint]
 
 <!--## Filter-->
-
-<p align="center">
-   <h2 align="center">Filter</h2>
-</p>
+<h2 align="center">Filter</h2>
 
 [Nevermore](https://github.com/nevermore3d)
 
