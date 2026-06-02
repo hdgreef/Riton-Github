@@ -9,7 +9,7 @@
    <!-- ![Screepton](./docs/images/Logo.png) -->
 </p>
 
-<details><summary>3D Print Software Related</summary>  <!-- to collapsed menu, add open to detail to leave it open -->
+<details><summary>3D Print - Basics</summary>  <!-- to collapsed menu, add open to detail to leave it open -->
 
 
 <!--## Klipper-->
@@ -40,8 +40,8 @@
 </tr>
 </table>
 
-<!--## Klipper Add-On Software-->
-<h2 align=center>2. MCU & RPi & Klipper Add-On</h2>
+<!--## MCU & RPi -->
+<h2 align=center>2. MCU & RPi</h2>
 <table align=center>
 <tr>
  <td align=center>
@@ -64,17 +64,12 @@
   <img src="https://github.com/fbeauKmi/update_klipper_and_mcus/blob/main/images/banner.png" style="height: 150px; width: auto;" alt="UKAM">
   </a>
  </td>
-</tr>
 
-<tr>
  <td align=center>
-  <h3><a href="https://github.com/Frix-x/klippain-shaketune">Shake & Tune</a></h3>
- </td>
- <td align=center> 
-  <h3><a href="https://github.com/andrewmcgr/klipper_tmc_autotune">TMC Autotune</a></h3>
- </td>
- <td align=center> 
-  <h3><a href="https://github.com/viesturz/klipper-toolchanger">Klipper ToolChanger</a></h3>
+  <p><h3><a href="https://github.com/Extrutex/KATANA-Klipper-Installer">Katana</a></h3></p>
+  <a href="https://github.com/Extrutex/KATANA-Klipper-Installer"> 
+  <img src="https://github.com/Extrutex/KATANA-Klipper-Installer/blob/main/docs/images/logo.png" style="height: 150px; width: auto;" alt="Katana">
+  </a>
  </td>
 </tr>
 </table>
@@ -99,23 +94,40 @@
  </td>
 
 <td align=center>
+  <p><h3><a href="https://github.com/Ultimaker/Cura/tree/main">Cura</a></h3></p>
+  <a href="https://github.com/Ultimaker/Cura/tree/main"> 
+  <img src="https://github.com/Ultimaker/Cura/blob/main/resources/images/cura-icon.png" style="height: 150px; width: auto;" alt="Cura">
+  </a>
+ </td>
+</tr>
+
+<tr>
+<td align=center>
+  <p><h3><a href="https://github.com/prusa3d/PrusaSlicer">PrusaSlicer</a></h3></p>
+  <a href="https://github.com/prusa3d/PrusaSlicer"> 
+  <img src="https://github.com/prusa3d/PrusaSlicer/blob/master/resources/icons/PrusaSlicer.png" style="height: 150px; width: auto;" alt="PrusaSlicer">
+  </a>
+ </td>
+
+<td align=center>
+  <p><h3><a href="https://github.com/slic3r/Slic3r">Slic3r</a></h3></p>
+  <a href="https://github.com/slic3r/Slic3r"> 
+  <img src="https://github.com/slic3r/Slic3r/blob/master/var/Slic3r.png" style="height: 150px; width: auto;" alt="Slic3r">
+  </a>
+ </td>
+ 
+<td align=center>
   <p><h3><a href="https://github.com/oozebot/preFlight">preFlight</a></h3></p>
   <a href="https://github.com/oozebot/preFlight"> 
   <img src="https://github.com/oozebot/preFlight/blob/main/images/preFlight.png" style="height: 150px; width: auto;" alt="preFlight">
   </a>
  </td>
 
-<td align=center>
-  <p><h3><a href="https://github.com/Ultimaker/Cura/tree/main">Cura</a></h3></p>
-  <a href="https://github.com/Ultimaker/Cura/tree/main"> 
-  <img src="https://github.com/Ultimaker/Cura/blob/main/resources/images/cura-icon.png" style="height: 150px; width: auto;" alt="Cura">
-  </a>
- </td>
-
+ 
 </tr>
 </table>
 
-<!--## Tuning-->
+<!--## Tuning & Klipper Add-On-->
 <h2 align="center">4. Print Tuning & Modificator</h2>
 
 <table align=center>
@@ -123,8 +135,19 @@
  <td align=center>
   <h3><a href=https://github.com/AndrewEllis93/Print-Tuning-Guide>Ellis Print Tuning Guide</a></h3>
  </td>
+ <td align=center>
+  <h3><a href="https://github.com/Frix-x/klippain-shaketune">Shake & Tune</a></h3>
+ </td>
+ <td align=center> 
+  <h3><a href="https://github.com/andrewmcgr/klipper_tmc_autotune">TMC Autotune</a></h3>
+ </td>
+ <td align=center> 
+  <h3><a href="https://github.com/viesturz/klipper-toolchanger">Klipper ToolChanger</a></h3>
+ </td>
+</tr>
 
 <!--## Others-->
+<tr>
  <td align=center>
   <h3><a href=https://github.com/CNCKitchen/stlTexturizer>Stl Texturizer</a></h3>
  </td>
@@ -138,7 +161,7 @@
 
 <details open>  <!-- to collapsed menu, add open to detail to leave it open -->
 
-<summary>3D Print HW Related</summary>
+<summary>3D Print - Advanced</summary>
 
 <!--## ToolChanger-->
 <h2 align="center">1. ToolChanger [TC]</h2>
