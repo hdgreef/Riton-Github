@@ -9,7 +9,8 @@
    <!-- ![Screepton](./docs/images/Logo.png) -->
 </p>
 
-<details><summary>3D Print - Basics</summary>  <!-- to collapsed menu, add open to detail to leave it open -->
+<details open>
+ <summary>3D Print - SW & Tuning</summary>  <!-- to collapsed menu, add open to detail to leave it open -->
 
 
 <!--## Klipper-->
@@ -32,9 +33,9 @@
  </td>
 
 <td align=center>
-  <p> <h3> <a href=https://github.com/KalicoCrew/kalico target=_blanck>Kalico</a></h3></p>
-  <a href=https://github.com/Frix-x/klippain> 
-  <img src=https://github.com/KalicoCrew/kalico/blob/main/docs/logo/kalico-big.png style="height: 150px; width: auto;" alt="Kalico">
+  <p> <h3> <a href="https://github.com/KalicoCrew/kalico">Kalico</a></h3></p>
+  <a href="https://github.com/Frix-x/klippain"> 
+  <img src="https://github.com/KalicoCrew/kalico/blob/main/docs/logo/kalico-big.png" style="height: 150px; width: auto;" alt="Kalico">
   </a>
  </td>
 </tr>
@@ -141,13 +142,8 @@
  <td align=center> 
   <h3><a href="https://github.com/andrewmcgr/klipper_tmc_autotune">TMC Autotune</a></h3>
  </td>
- <td align=center> 
-  <h3><a href="https://github.com/viesturz/klipper-toolchanger">Klipper ToolChanger</a></h3>
- </td>
-</tr>
 
 <!--## Others-->
-<tr>
  <td align=center>
   <h3><a href=https://github.com/CNCKitchen/stlTexturizer>Stl Texturizer</a></h3>
  </td>
@@ -161,26 +157,100 @@
 
 <details open>  <!-- to collapsed menu, add open to detail to leave it open -->
 
-<summary>3D Print - Advanced</summary>
+<summary>3D Print - HW & Advanced</summary>
 
-<!--## ToolChanger-->
-<h2 align="center">1. ToolChanger [TC]</h2>
+<!--## ToolHeads (TH) & Extruder-->
+<h2 align="center">1. ToolHeads [TH] & Extruder</h2>
 
 <table align=center>
 <tr>
  <td align=center>
-  <h3><a href=https://github.com/DraftShift>DraftShift Design</a></h3>
+  <h3><a href="https://github.com/VoronDesign/Voron-Afterburner">AfterBurner [AB]</a></h3>
+  <a href="https://github.com/VoronDesign/Voron-Afterburner"> 
+  <img src="https://user-images.githubusercontent.com/4352664/147157259-2a683c30-b242-47c7-95d8-954a4ff7a490.png" style="height: 150px; width: auto;" alt="AB">
+  </a>
+ </td>
+
+ <td align=center>
+  <h3><a href="https://github.com/VoronDesign/Voron-Stealthburner">StealthBurner [SB]</a></h3>
+  <a href="https://github.com/VoronDesign/Voron-Stealthburner"> 
+  <img src="https://github.com/VoronDesign/Voron-Stealthburner/blob/main/Images/Voron_Stealthburner.JPG" style="height: 150px; width: auto;" alt="SB">
+  </a>
+ </td>
+
+  <td align=center>
+  <h3><a href="https://github.com/Armchair-Heavy-Industries/A4T">[A4T]</a></h3>
+  <a href="https://github.com/Armchair-Heavy-Industries/A4T"> 
+  <img src="https://github.com/Armchair-Heavy-Industries/A4T/blob/main/docs/images/A4T_single_render.png" style="height: 150px; width: auto;" alt="A4T">
+  </a>
+ </td>
+</tr>
+
+<tr>
+ <td align=center>
+  <h3><a href="https://github.com/PrintersForAnts/AntHead">AntHead [AH]</a></h3>
+  <a href="https://github.com/PrintersForAnts/AntHead"> 
+  <img src="https://private-user-images.githubusercontent.com/12398294/483779030-aeba7a5b-7b23-4ddc-95bf-e3ce7ebd24ae.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODA0OTMyNjksIm5iZiI6MTc4MDQ5Mjk2OSwicGF0aCI6Ii8xMjM5ODI5NC80ODM3NzkwMzAtYWViYTdhNWItN2IyMy00ZGRjLTk1YmYtZTNjZTdlYmQyNGFlLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA2MDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNjAzVDEzMjI0OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWFmMTlmNzg5NDRlNGMyNTYzZWIxMGM2OTM2YjA5N2RkMmRhNjFhNDlmMjViYzhlYzJkZWVlNzFmZjgyZmE3OGUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.3gv1KN7i0htmJgLkbhyNyYSGQ8-NiZr7FbrbQfLy_RY" style="height: 150px; width: auto;" alt="AH">
+  </a>
+ </td>
+
+  <td align=center>
+  <h3><a href="https://github.com/kinematicdigit/Jabberwocky">JabberWocky [JW]</a></h3>
+  <a href="https://github.com/kinematicdigit/Jabberwocky"> 
+  <img src="https://github.com/kinematicdigit/Jabberwocky/blob/main/Images/JabberWocky_Render.png" style="height: 150px; width: auto;" alt="JW">
+  </a>
+ </td>
+
+  <td align=center>
+  <h3><a href="https://github.com/chirpy2605/voron/tree/main/V0/Dragon_Burner">DragonBurner [DB]</a></h3>
+  <a href="https://github.com/chirpy2605/voron/tree/main/V0/Dragon_Burner"> 
+  <img src="https://github.com/chirpy2605/voron/blob/main/V0/Dragon_Burner/images/dragonburner.png" style="height: 150px; width: auto;" alt="DB">
+  </a>
+ </td>
+ </tr>
+
+ <tr>
+ <td align=center>
+  <h3><a href="https://github.com/chirpy2605/voron/tree/main/V0/Rapid_Burner">RapidBurner [RB]</a></h3>
+  <a href="https://github.com/chirpy2605/voron/tree/main/V0/Rapid_Burner"> 
+  <img src="https://github.com/chirpy2605/voron/blob/main/V0/Rapid_Burner/images/rapidburner.png" style="height: 150px; width: auto;" alt="RB">
+  </a>
+ </td>
+
+  <td align=center>
+  <h3><a href="https://github.com/Armchair-Heavy-Industries/Xol-Toolhead">[Xol]</a></h3>
+  <a href="https://github.com/Armchair-Heavy-Industries/Xol-Toolhead"> 
+  <img src="https://github.com/Armchair-Heavy-Industries/Xol-Toolhead/blob/main/docs/assets/images/Xol-Toolhead_render_with_both.png" style="height: 150px; width: auto;" alt="Xol">
+  </a>
+ </td>
+
+  <td align=center>
+  <h3><a href="https://github.com/chirpy2605/voron/tree/main/V0/Yavoth">Yavoth</a></h3>
+  <a href="https://github.com/chirpy2605/voron/tree/main/V0/Yavoth"> 
+  <img src="https://github.com/chirpy2605/voron/blob/main/V0/Yavoth/images/yavoth_front.png" style="height: 150px; width: auto;" alt="Yavoth">
+  </a>
+ </td>
+ </tr>
+</table>
+
+
+<!--## ToolChanger-->
+<h2 align="center">2. ToolChanger [TC]</h2>
+
+<table align=center>
+<tr>
+ <td align=center>
+  <h3><a href="https://github.com/DraftShift">DraftShift Design</a></h3>
   <a href="https://github.com/DraftShift"> 
   <img src="https://github.com/hdgreef/Riton-Github/blob/main/docs/images/dsd_logo.png" style="height: 150px; width: auto;" alt="DraftShift">
   </a>
  </td>
 
+ <td align=center> 
+  <h3><a href="https://github.com/viesturz/klipper-toolchanger">Klipper ToolChanger</a></h3>
+ </td>
 </tr>
 </table>
-
-<!--## ToolHeads (TH) & Extruder-->
-<h2 align="center">2. ToolHeads [TH] & Extruder</h2>
-
 
 <!--## MMU-->
 <h2 align="center">3. Multi Material Unit [MMU]</h2>
