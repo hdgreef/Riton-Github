@@ -9,7 +9,7 @@
    <!-- ![Screepton](./docs/images/Logo.png) -->
 </p>
 
-<details open>
+<details>
  <summary>3D Print - SW & Tuning</summary>  <!-- to collapsed menu, add open to detail to leave it open -->
 
 
@@ -191,7 +191,7 @@
 <summary>3D Print - HW & Advanced</summary>
 
 <!--## ToolHeads (TH) & Extruder-->
-<h2 align="center">1. ToolHeads [TH] & Extruder</h2>
+<h2 align="center">1. ToolHeads [TH]</h2>
 
 <table align=center>
 <tr>
@@ -262,6 +262,24 @@
   </a>
  </td>
  </tr>
+</table>
+
+<!--## Extruder-->
+<h2 align=center>2. Extruder</h2>
+
+<table align=center>
+<tr>
+ <td align=center>
+  <h3><a href="https://github.com/JaredC01/Galileo2">Galileo2 [G2E] & [G2SA]</a></h3>
+  <a href="https://github.com/JaredC01/Galileo2"> 
+  <img src="https://github.com/JaredC01/Galileo2/blob/main/images/g2extruders.png" style="height: 150px; width: auto;" alt="G2">
+  </a>
+ </td>
+
+ <td align=center> 
+  <h3><a href="https://www.orbiterprojects.com/projects/">Orbiter</a></h3>
+ </td>
+</tr>
 </table>
 
 
