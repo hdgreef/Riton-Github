@@ -39,6 +39,29 @@
   </a>
  </td>
 </tr>
+
+<tr>
+ <td align=center>
+  <p><h3><a href="https://github.com/MarlinFirmware/Marlin">Marlin</a></h3></p>
+  <a href="https://github.com/MarlinFirmware/Marlin"> 
+  <img src="https://github.com/MarlinFirmware/Marlin/blob/bugfix-2.1.x/buildroot/share/pixmaps/logo/marlin-outrun-nf-500.png" style="height: 150px; width: auto;" alt="Marlin">
+  </a>
+ </td>
+
+ <td align=center>
+  <p><h3><a href="https://doctor-klipper.clmntw.fr/">Doctor-Klipper</a></h3></p>
+  <a href="https://doctor-klipper.clmntw.fr/"> 
+  <img src="https://github.com/hdgreef/Riton-Github/blob/main/docs/images/logo.svg" style="height: 150px; width: auto;" alt="DoctorKlipper">
+  </a>
+ </td>
+
+  <td align=center>
+  <p><h3><a href="https://github.com/Duet3D/RepRapFirmware">Duet3D - RepRap</a></h3></p>
+  <a href="https://github.com/Duet3D/RepRapFirmware"> 
+  <img src="https://github.com/hdgreef/Riton-Github/blob/main/docs/images/Duet3D_Logo.png" style="height: 150px; width: auto;" alt="Klipper">
+  </a>
+ </td>
+</tr>
 </table>
 
 <!--## MCU & RPi -->
@@ -60,18 +83,26 @@
  </td>
 
  <td align=center>
+  <p><h3><a href="https://github.com/Extrutex/KATANA-Klipper-Installer">Katana</a></h3></p>
+  <a href="https://github.com/Extrutex/KATANA-Klipper-Installer"> 
+  <img src="https://github.com/Extrutex/KATANA-Klipper-Installer/blob/main/docs/images/logo.png" style="height: 150px; width: auto;" alt="Katana">
+  </a>
+ </td>
+</tr>
+
+<tr>
+ <td align=center>
+ </td>
+
+ <td align=center>
   <p><h3><a href="https://github.com/fbeauKmi/update_klipper_and_mcus/tree/main">UKAM</a></h3></p>
   <a href="https://github.com/fbeauKmi/update_klipper_and_mcus/tree/main"> 
   <img src="https://github.com/fbeauKmi/update_klipper_and_mcus/blob/main/images/banner.png" style="height: 150px; width: auto;" alt="UKAM">
   </a>
  </td>
 
- <td align=center>
-  <p><h3><a href="https://github.com/Extrutex/KATANA-Klipper-Installer">Katana</a></h3></p>
-  <a href="https://github.com/Extrutex/KATANA-Klipper-Installer"> 
-  <img src="https://github.com/Extrutex/KATANA-Klipper-Installer/blob/main/docs/images/logo.png" style="height: 150px; width: auto;" alt="Katana">
-  </a>
- </td>
+<td align=center>
+</td>
 </tr>
 </table>
 
