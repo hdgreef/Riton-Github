@@ -193,8 +193,34 @@
 <!--## ToolHeads (TH) & Extruder-->
 <h2 align="center">1. ToolHeads [TH]</h2>
 
-<table align=center>
-<tr>
+<table align=center> 
+ <th colspan="3">
+  <h3><a href="https://github.com/SartorialGrunt0/Awesome-Toolheads">=> Awesome ToolHeads List<=</a></h3>
+ </th> 
+ <tr>
+ <td align=center>
+  <h3><a href="https://github.com/PrintersForAnts/AntHead">AntHead [AH]</a></h3>
+  <a href="https://github.com/PrintersForAnts/AntHead"> 
+  <img src="https://github.com/hdgreef/Riton-Github/blob/main/docs/images/AH_Logo.png" style="height: 150px; width: auto;" alt="AH">
+  </a>
+ </td>
+
+  <td align=center>
+  <h3><a href="https://github.com/Armchair-Heavy-Industries/A4T">[A4T]</a></h3>
+  <a href="https://github.com/Armchair-Heavy-Industries/A4T"> 
+  <img src="https://github.com/Armchair-Heavy-Industries/A4T/blob/main/docs/images/A4T_single_render.png" style="height: 150px; width: auto;" alt="A4T">
+  </a>
+ </td>
+
+   <td align=center>
+  <h3><a href="https://github.com/kinematicdigit/Jabberwocky">JabberWocky [JW]</a></h3>
+  <a href="https://github.com/kinematicdigit/Jabberwocky"> 
+  <img src="https://github.com/kinematicdigit/Jabberwocky/blob/main/Images/JabberWocky_Render.png" style="height: 150px; width: auto;" alt="JW">
+  </a>
+ </td>
+</tr>
+
+ <tr>
  <td align=center>
   <h3><a href="https://github.com/VoronDesign/Voron-Afterburner">AfterBurner [AB]</a></h3>
   <a href="https://github.com/VoronDesign/Voron-Afterburner"> 
@@ -208,30 +234,7 @@
   <img src="https://github.com/VoronDesign/Voron-Stealthburner/blob/main/Images/Voron_Stealthburner.JPG" style="height: 150px; width: auto;" alt="SB">
   </a>
  </td>
-
-  <td align=center>
-  <h3><a href="https://github.com/Armchair-Heavy-Industries/A4T">[A4T]</a></h3>
-  <a href="https://github.com/Armchair-Heavy-Industries/A4T"> 
-  <img src="https://github.com/Armchair-Heavy-Industries/A4T/blob/main/docs/images/A4T_single_render.png" style="height: 150px; width: auto;" alt="A4T">
-  </a>
- </td>
-</tr>
-
-<tr>
- <td align=center>
-  <h3><a href="https://github.com/PrintersForAnts/AntHead">AntHead [AH]</a></h3>
-  <a href="https://github.com/PrintersForAnts/AntHead"> 
-  <img src="https://github.com/hdgreef/Riton-Github/blob/main/docs/images/AH_Logo.png" style="height: 150px; width: auto;" alt="AH">
-  </a>
- </td>
-
-  <td align=center>
-  <h3><a href="https://github.com/kinematicdigit/Jabberwocky">JabberWocky [JW]</a></h3>
-  <a href="https://github.com/kinematicdigit/Jabberwocky"> 
-  <img src="https://github.com/kinematicdigit/Jabberwocky/blob/main/Images/JabberWocky_Render.png" style="height: 150px; width: auto;" alt="JW">
-  </a>
- </td>
-
+ 
   <td align=center>
   <h3><a href="https://github.com/chirpy2605/voron/tree/main/V0/Dragon_Burner">DragonBurner [DB]</a></h3>
   <a href="https://github.com/chirpy2605/voron/tree/main/V0/Dragon_Burner"> 
@@ -262,15 +265,22 @@
   </a>
  </td>
  </tr>
+  <th colspan="3">
+  <a href="https://github.com/Armchair-Heavy-Industries/Archetype/tree/main"> 
+  <img src="https://github.com/Armchair-Heavy-Industries/Archetype/blob/main/archetype-options.png" style="height: 250px; width: auto;" alt="Archetype">
+ </th>
 </table>
 
 <!--## Extruder-->
 <h2 align=center>2. Extruder</h2>
 
 <table align=center>
+  <th colspan="3">
+  <h3><a href="https://github.com/SartorialGrunt0/Awesome-Extruders">=> Awesome Extruders List<=</a></h3>
+ </th> 
 <tr>
  <td align=center>
-  <h3><a href="https://github.com/JaredC01/Galileo2">Galileo2 [G2E] & [G2SA]</a></h3>
+  <h3><a href="https://github.com/JaredC01/Galileo2">Galileo2 [G2E]</a></h3>
   <a href="https://github.com/JaredC01/Galileo2"> 
   <img src="https://github.com/JaredC01/Galileo2/blob/main/images/g2extruders.png" style="height: 150px; width: auto;" alt="G2">
   </a>
