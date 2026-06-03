@@ -221,7 +221,7 @@
  <td align=center>
   <h3><a href="https://github.com/PrintersForAnts/AntHead">AntHead [AH]</a></h3>
   <a href="https://github.com/PrintersForAnts/AntHead"> 
-  <img src="https://private-user-images.githubusercontent.com/12398294/483779030-aeba7a5b-7b23-4ddc-95bf-e3ce7ebd24ae.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODA0OTMyNjksIm5iZiI6MTc4MDQ5Mjk2OSwicGF0aCI6Ii8xMjM5ODI5NC80ODM3NzkwMzAtYWViYTdhNWItN2IyMy00ZGRjLTk1YmYtZTNjZTdlYmQyNGFlLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA2MDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNjAzVDEzMjI0OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWFmMTlmNzg5NDRlNGMyNTYzZWIxMGM2OTM2YjA5N2RkMmRhNjFhNDlmMjViYzhlYzJkZWVlNzFmZjgyZmE3OGUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.3gv1KN7i0htmJgLkbhyNyYSGQ8-NiZr7FbrbQfLy_RY" style="height: 150px; width: auto;" alt="AH">
+  <img src="https://github.com/hdgreef/Riton-Github/blob/main/docs/images/AH_Logo.png" style="height: 150px; width: auto;" alt="AH">
   </a>
  </td>
 
