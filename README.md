@@ -201,7 +201,7 @@
  <tr>
  <td align=center>
   <h3><a href="https://github.com/PrintersForAnts/AntHead">AntHead [AH]</a></h3>
-  <a href="https://github.com/PrintersForAnts/AntHead"> 
+  <a href="https://github.com/PrintersForAnts/AntHead">
   <img src="https://github.com/hdgreef/Riton-Github/blob/main/docs/images/AH_Logo.png" style="height: 150px; width: auto;" alt="AH">
   </a>
  </td>
@@ -346,8 +346,26 @@
 </table>
 
 
+<!--## Hotend-->
+<h2 align=center>3. Hotend</h2>
+
+<table align=center>
+  <th colspan="3">
+  <h3><a href="https://github.com/SartorialGrunt0/Awesome-Hotends">=> Awesome Hotends List<=</a></h3>
+ </th>
+</table>
+   
+ <!--## ToolHead Board-->
+<h2 align=center>4. Toolhead Board</h2>
+
+<table align=center>
+  <th colspan="3">
+  <h3><a href="">=> Awesome Toolhead Board List<=</a></h3>
+ </th>
+</table>
+
 <!--## ToolChanger-->
-<h2 align="center">2. ToolChanger [TC]</h2>
+<h2 align="center">5. ToolChanger [TC]</h2>
 
 <table align=center>
 <tr>
