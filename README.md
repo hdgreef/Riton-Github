@@ -196,7 +196,8 @@
 <table align=center> 
  <th colspan="3">
   <h3><a href="https://github.com/SartorialGrunt0/Awesome-Toolheads">=> Awesome ToolHeads List<=</a></h3>
- </th> 
+ </th>
+   
  <tr>
  <td align=center>
   <h3><a href="https://github.com/PrintersForAnts/AntHead">AntHead [AH]</a></h3>
@@ -277,15 +278,40 @@
 <table align=center>
   <th colspan="3">
   <h3><a href="https://github.com/SartorialGrunt0/Awesome-Extruders">=> Awesome Extruders List<=</a></h3>
- </th> 
+ </th>
+   
 <tr>
  <td align=center>
-  <h3><a href="https://github.com/JaredC01/Galileo2">Galileo2 [G2E]</a></h3>
-  <a href="https://github.com/JaredC01/Galileo2"> 
-  <img src="https://github.com/JaredC01/Galileo2/blob/main/images/g2extruders.png" style="height: 150px; width: auto;" alt="G2">
+  <h3><a href="https://github.com/JaredC01/Galileo2/tree/main/galileo2_standalone">Galileo2 StandAlone [G2SA]</a></h3>
+  <a href="https://github.com/JaredC01/Galileo2/tree/main/galileo2_standalone"> 
+  <img src="https://github.com/JaredC01/Galileo2/blob/main/images/g2sa.png" style="height: 150px; width: auto;" alt="G2SA">
   </a>
  </td>
 
+ <td align=center>
+  <h3><a href="https://github.com/tetsu97/WristWatch-G2-Extruder">WristWatch G2 [WWG2]</a></h3>
+  <a href="https://github.com/tetsu97/WristWatch-G2-Extruder"> 
+  <img src="https://github.com/tetsu97/WristWatch-G2-Extruder/blob/main/images/WWG2_render.png" style="height: 150px; width: auto;" alt="WWG2">
+  </a>
+ </td>
+ 
+ <td align=center>
+  <h3><a href="https://github.com/JaredC01/Galileo2/tree/main/galileo2_extruder">Galileo2 [G2E]</a></h3>
+  <a href="https://github.com/JaredC01/Galileo2/tree/main/galileo2_extruder"> 
+  <img src="https://github.com/JaredC01/Galileo2/blob/main/images/g2extruder.png" style="height: 150px; width: auto;" alt="G2E">
+  </a>
+ </td>
+ </tr>
+
+<tr>
+
+ <td align=center>
+  <h3><a href="https://github.com/VzBoT3D/Vz-HextrudORT">HextrudORT</a></h3>
+  <a href="https://github.com/VzBoT3D/Vz-HextrudORT"> 
+  <img src="https://github.com/hdgreef/Riton-Github/blob/main/docs/images/VZ_HextrudORT_Logo.jpg" style="height: 150px; width: auto;" alt="VZ-HextrudORT">
+  </a>
+ </td>
+ 
  <td align=center> 
   <h3><a href="https://www.orbiterprojects.com/projects/">Orbiter</a></h3>
  </td>
