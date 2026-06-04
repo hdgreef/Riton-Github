@@ -360,8 +360,30 @@
 
 <table align=center>
   <th colspan="3">
-  <h3><a href="">=> Awesome Toolhead Board List<=</a></h3>
+  <h3><a href="https://canbus.esoterical.online/toolhead_flashing/common_hardware.html">=> Awesome Toolhead Board List<=</a></h3>
  </th>
+
+ <tr>
+  <td align=center>
+  <h3><a href="https://docs.ldomotors.com/en/Toolboard/nitehawk-36">Nitehawk-36</a></h3>
+  <a href="https://docs.ldomotors.com/en/Toolboard/nitehawk-36"> 
+  <img src="https://stealthchanger.com/assets/tool_boards/nitehawk-36.jpg" style="height: 150px; width: auto;" alt="Nitehawk36">
+  </a>
+ </td>
+ 
+  <td align=center> 
+  <h3><a href="https://global.bttwiki.com/EBB36_GEN2.html">EBB36 Gen2</a></h3>
+    <a href="https://global.bttwiki.com/EBB36_GEN2.html"> 
+   <img src="https://github.com/hdgreef/Riton-Github/blob/main/docs/images/EBB36_GEN2.jpg" style="height: 150px; width: auto;" alt="EBB Gen2">
+ </td>
+
+  <td align=center> 
+  <h3><a href="https://mellow-3d.github.io/fly-sht36_v2_general.html">Fly STH-36 V2</a></h3>
+    <a href="https://mellow-3d.github.io/fly-sht36_v2_general.html"> 
+   <img src="https://mellow-3d.github.io/images/fly-sht36_v2/sht36_v2.png" style="height: 150px; width: auto;" alt="WWE">
+ </td>
+</tr>
+   
 </table>
 
 <!--## ToolChanger-->
