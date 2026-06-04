@@ -1,17 +1,11 @@
 <!-- # Riton-Github <!-- First-level heading --> <!-- TO COMMENT --> 
-
 <h1 align=center>Screepton</h1>
-
  > Screepton + CheatSheet of ReadMe layout + Github organization   <!-- to quote line -->
 
-<p align=center>
-  <img src=https://github.com/hdgreef/Riton-Github/blob/main/docs/images/Logo.png alt='Screepton' width='30%'>
+<p align=center><img src=https://github.com/hdgreef/Riton-Github/blob/main/docs/images/Logo.png alt='Screepton' width='30%'></p>
    <!-- ![Screepton](./docs/images/Logo.png) -->
-</p>
 
-<details>
- <summary>3D Print - SW & Tuning</summary>  <!-- to collapsed menu, add open to detail to leave it open -->
-
+<details> <summary>3D Print - SW & Tuning</summary>  <!-- to collapsed menu, add open to detail to leave it open -->
 
 <!--## Klipper-->
 <h2 align=center>1. Klipper Base</h2>
@@ -21,22 +15,19 @@
  <td align=center>
   <p><h3><a href="https://github.com/Klipper3d/klipper">Klipper</a></h3></p>
   <a href="https://github.com/Klipper3d/klipper"> 
-  <img src="https://github.com/Klipper3d/klipper/blob/master/docs/img/klipper-logo.png" style="height: 150px; width: auto;" alt="Klipper">
-  </a>
+  <img src="https://github.com/Klipper3d/klipper/blob/master/docs/img/klipper-logo.png" style="height: 150px; width: auto;" alt="Klipper"></a>
  </td>
 
  <td align=center>
   <p><h3><a href="https://github.com/Frix-x/klippain">Klippain</a> & <a href="https://github.com/elpopo-eng/klippain-chocolate">Klippain-🍫</a></h3></p>
   <a href="https://github.com/Frix-x/klippain"> 
-  <img src="https://github.com/Frix-x/klippain/blob/main/docs/klippain.png" style="height: 150px; width: auto;" alt="Klippain">
-  </a>
+  <img src="https://github.com/Frix-x/klippain/blob/main/docs/klippain.png" style="height: 150px; width: auto;" alt="Klippain"></a>
  </td>
 
 <td align=center>
   <p> <h3> <a href="https://github.com/KalicoCrew/kalico">Kalico</a></h3></p>
   <a href="https://github.com/Frix-x/klippain"> 
-  <img src="https://github.com/KalicoCrew/kalico/blob/main/docs/logo/kalico-big.png" style="height: 150px; width: auto;" alt="Kalico">
-  </a>
+  <img src="https://github.com/KalicoCrew/kalico/blob/main/docs/logo/kalico-big.png" style="height: 150px; width: auto;" alt="Kalico"></a>
  </td>
 </tr>
 
@@ -44,22 +35,19 @@
  <td align=center>
   <p><h3><a href="https://github.com/MarlinFirmware/Marlin">Marlin</a></h3></p>
   <a href="https://github.com/MarlinFirmware/Marlin"> 
-  <img src="https://github.com/MarlinFirmware/Marlin/blob/bugfix-2.1.x/buildroot/share/pixmaps/logo/marlin-outrun-nf-500.png" style="height: 150px; width: auto;" alt="Marlin">
-  </a>
+  <img src="https://github.com/MarlinFirmware/Marlin/blob/bugfix-2.1.x/buildroot/share/pixmaps/logo/marlin-outrun-nf-500.png" style="height: 150px; width: auto;" alt="Marlin"></a>
  </td>
 
  <td align=center>
   <p><h3><a href="https://doctor-klipper.clmntw.fr/">Doctor-Klipper</a></h3></p>
   <a href="https://doctor-klipper.clmntw.fr/"> 
-  <img src="https://github.com/hdgreef/Riton-Github/blob/main/docs/images/logo.svg" style="height: 150px; width: auto;" alt="DoctorKlipper">
-  </a>
+  <img src="https://github.com/hdgreef/Riton-Github/blob/main/docs/images/logo.svg" style="height: 150px; width: auto;" alt="DoctorKlipper"></a>
  </td>
 
   <td align=center>
   <p><h3><a href="https://github.com/Duet3D/RepRapFirmware">Duet3D - RepRap</a></h3></p>
   <a href="https://github.com/Duet3D/RepRapFirmware"> 
-  <img src="https://github.com/hdgreef/Riton-Github/blob/main/docs/images/Duet3D_Logo.png" style="height: 150px; width: auto;" alt="Klipper">
-  </a>
+  <img src="https://github.com/hdgreef/Riton-Github/blob/main/docs/images/Duet3D_Logo.png" style="height: 150px; width: auto;" alt="RepRap Firmware"></a>
  </td>
 </tr>
 </table>
@@ -71,38 +59,32 @@
  <td align=center>
   <p><h3><a href="https://github.com/dw-0/kiauh">KIAUH</a></h3></p>
   <a href="https://github.com/dw-0/kiauh"> 
-  <img src="https://github.com/dw-0/kiauh/blob/master/docs/assets/logo-large.png" style="height: 150px; width: auto;" alt="KIAUH">
-  </a>
+  <img src="https://github.com/dw-0/kiauh/blob/master/docs/assets/logo-large.png" style="height: 150px; width: auto;" alt="KIAUH"></a>
  </td>
 
  <td align=center>
   <p><h3><a href="https://github.com/Esoterical/voron_canbus">Esoterical CAN Bus Guide</a></h3></p>
   <a href="https://github.com/dw-0/kiauh"> 
-  <img src="https://github.com/Esoterical/voron_canbus/blob/main/assets/esoterical-logo.png" style="height: 150px; width: auto;" alt="Esoterical CAN Bus Guide">
-  </a>
+  <img src="https://github.com/Esoterical/voron_canbus/blob/main/assets/esoterical-logo.png" style="height: 150px; width: auto;" alt="Esoterical CAN Bus Guide"></a>
  </td>
 
  <td align=center>
   <p><h3><a href="https://github.com/Extrutex/KATANA-Klipper-Installer">Katana</a></h3></p>
   <a href="https://github.com/Extrutex/KATANA-Klipper-Installer"> 
-  <img src="https://github.com/Extrutex/KATANA-Klipper-Installer/blob/main/docs/images/logo.png" style="height: 150px; width: auto;" alt="Katana">
-  </a>
+  <img src="https://github.com/Extrutex/KATANA-Klipper-Installer/blob/main/docs/images/logo.png" style="height: 150px; width: auto;" alt="Katana"></a>
  </td>
 </tr>
 
 <tr>
- <td align=center>
- </td>
+ <td align=center></td>
 
  <td align=center>
   <p><h3><a href="https://github.com/fbeauKmi/update_klipper_and_mcus/tree/main">UKAM</a></h3></p>
   <a href="https://github.com/fbeauKmi/update_klipper_and_mcus/tree/main"> 
-  <img src="https://github.com/fbeauKmi/update_klipper_and_mcus/blob/main/images/banner.png" style="height: 150px; width: auto;" alt="UKAM">
-  </a>
+  <img src="https://github.com/fbeauKmi/update_klipper_and_mcus/blob/main/images/banner.png" style="height: 150px; width: auto;" alt="UKAM"></a>
  </td>
 
-<td align=center>
-</td>
+<td align=center></td>
 </tr>
 </table>
 
@@ -114,22 +96,19 @@
  <td align=center>
   <p><h3><a href="https://github.com/supermerill/SuperSlicer">SuperSlicer</a></h3></p>
   <a href=https://github.com/supermerill/SuperSlicer> 
-  <img src=https://github.com/supermerill/SuperSlicer/blob/master_27/resources/icons/SuperSlicer.png style="height: 150px; width: auto;" target=_blank alt="Susie">
-  </a>
+  <img src=https://github.com/supermerill/SuperSlicer/blob/master_27/resources/icons/SuperSlicer.png style="height: 150px; width: auto;" target=_blank alt="Susie"></a>
  </td>
 
  <td align=center>
   <p><h3><a href="https://github.com/OrcaSlicer/OrcaSlicer">OrcaSlicer</a></h3></p>
   <a href="https://github.com/OrcaSlicer/OrcaSlicer"> 
-  <img src="https://github.com/OrcaSlicer/OrcaSlicer/blob/main/resources/images/OrcaSlicer.png" style="height: 150px; width: auto;" alt="OrcaSlicer">
-  </a>
+  <img src="https://github.com/OrcaSlicer/OrcaSlicer/blob/main/resources/images/OrcaSlicer.png" style="height: 150px; width: auto;" alt="OrcaSlicer"></a>
  </td>
 
 <td align=center>
   <p><h3><a href="https://github.com/Ultimaker/Cura/tree/main">Cura</a></h3></p>
   <a href="https://github.com/Ultimaker/Cura/tree/main"> 
-  <img src="https://github.com/Ultimaker/Cura/blob/main/resources/images/cura-icon.png" style="height: 150px; width: auto;" alt="Cura">
-  </a>
+  <img src="https://github.com/Ultimaker/Cura/blob/main/resources/images/cura-icon.png" style="height: 150px; width: auto;" alt="Cura"></a>
  </td>
 </tr>
 
@@ -137,25 +116,20 @@
 <td align=center>
   <p><h3><a href="https://github.com/prusa3d/PrusaSlicer">PrusaSlicer</a></h3></p>
   <a href="https://github.com/prusa3d/PrusaSlicer"> 
-  <img src="https://github.com/prusa3d/PrusaSlicer/blob/master/resources/icons/PrusaSlicer.png" style="height: 150px; width: auto;" alt="PrusaSlicer">
-  </a>
+  <img src="https://github.com/prusa3d/PrusaSlicer/blob/master/resources/icons/PrusaSlicer.png" style="height: 150px; width: auto;" alt="PrusaSlicer"></a>
  </td>
 
 <td align=center>
   <p><h3><a href="https://github.com/slic3r/Slic3r">Slic3r</a></h3></p>
   <a href="https://github.com/slic3r/Slic3r"> 
-  <img src="https://github.com/slic3r/Slic3r/blob/master/var/Slic3r.png" style="height: 150px; width: auto;" alt="Slic3r">
-  </a>
+  <img src="https://github.com/slic3r/Slic3r/blob/master/var/Slic3r.png" style="height: 150px; width: auto;" alt="Slic3r"></a>
  </td>
  
 <td align=center>
   <p><h3><a href="https://github.com/oozebot/preFlight">preFlight</a></h3></p>
   <a href="https://github.com/oozebot/preFlight"> 
-  <img src="https://github.com/oozebot/preFlight/blob/main/images/preFlight.png" style="height: 150px; width: auto;" alt="preFlight">
-  </a>
+  <img src="https://github.com/oozebot/preFlight/blob/main/images/preFlight.png" style="height: 150px; width: auto;" alt="preFlight"></a>
  </td>
-
- 
 </tr>
 </table>
 
@@ -164,24 +138,16 @@
 
 <table align=center>
 <tr>
- <td align=center>
-  <h3><a href=https://github.com/AndrewEllis93/Print-Tuning-Guide>Ellis Print Tuning Guide</a></h3>
- </td>
- <td align=center>
-  <h3><a href="https://github.com/Frix-x/klippain-shaketune">Shake & Tune</a></h3>
- </td>
- <td align=center> 
-  <h3><a href="https://github.com/andrewmcgr/klipper_tmc_autotune">TMC Autotune</a></h3>
- </td>
+ <td align=center><h3><a href=https://github.com/AndrewEllis93/Print-Tuning-Guide>Ellis Print Tuning Guide</a></h3></td>
+ 
+ <td align=center><h3><a href="https://github.com/Frix-x/klippain-shaketune">Shake & Tune</a></h3></td>
+ 
+ <td align=center> <h3><a href="https://github.com/andrewmcgr/klipper_tmc_autotune">TMC Autotune</a></h3></td>
 
 <!--## Others-->
- <td align=center>
-  <h3><a href=https://github.com/CNCKitchen/stlTexturizer>Stl Texturizer</a></h3>
- </td>
-
+ <td align=center><h3><a href=https://github.com/CNCKitchen/stlTexturizer>Stl Texturizer</a></h3></td>
 </tr>
 </table>
-
 </details>
 
 ---
@@ -202,22 +168,19 @@
  <td align=center>
   <h3><a href="https://github.com/PrintersForAnts/AntHead">AntHead [AH]</a></h3>
   <a href="https://github.com/PrintersForAnts/AntHead">
-  <img src="https://github.com/hdgreef/Riton-Github/blob/main/docs/images/AH_Logo.png" style="height: 150px; width: auto;" alt="AH">
-  </a>
+  <img src="https://github.com/hdgreef/Riton-Github/blob/main/docs/images/AH_Logo.png" style="height: 150px; width: auto;" alt="AH"></a>
  </td>
 
   <td align=center>
   <h3><a href="https://github.com/Armchair-Heavy-Industries/A4T">[A4T]</a></h3>
   <a href="https://github.com/Armchair-Heavy-Industries/A4T"> 
-  <img src="https://github.com/Armchair-Heavy-Industries/A4T/blob/main/docs/images/A4T_single_render.png" style="height: 150px; width: auto;" alt="A4T">
-  </a>
+  <img src="https://github.com/Armchair-Heavy-Industries/A4T/blob/main/docs/images/A4T_single_render.png" style="height: 150px; width: auto;" alt="A4T"></a>
  </td>
 
    <td align=center>
   <h3><a href="https://github.com/kinematicdigit/Jabberwocky">JabberWocky [JW]</a></h3>
   <a href="https://github.com/kinematicdigit/Jabberwocky"> 
-  <img src="https://github.com/kinematicdigit/Jabberwocky/blob/main/Images/JabberWocky_Render.png" style="height: 150px; width: auto;" alt="JW">
-  </a>
+  <img src="https://github.com/kinematicdigit/Jabberwocky/blob/main/Images/JabberWocky_Render.png" style="height: 150px; width: auto;" alt="JW"></a>
  </td>
 </tr>
 
@@ -225,22 +188,19 @@
  <td align=center>
   <h3><a href="https://github.com/VoronDesign/Voron-Afterburner">AfterBurner [AB]</a></h3>
   <a href="https://github.com/VoronDesign/Voron-Afterburner"> 
-  <img src="https://user-images.githubusercontent.com/4352664/147157259-2a683c30-b242-47c7-95d8-954a4ff7a490.png" style="height: 150px; width: auto;" alt="AB">
-  </a>
+  <img src="https://user-images.githubusercontent.com/4352664/147157259-2a683c30-b242-47c7-95d8-954a4ff7a490.png" style="height: 150px; width: auto;" alt="AB"></a>
  </td>
 
  <td align=center>
   <h3><a href="https://github.com/VoronDesign/Voron-Stealthburner">StealthBurner [SB]</a></h3>
   <a href="https://github.com/VoronDesign/Voron-Stealthburner"> 
-  <img src="https://github.com/VoronDesign/Voron-Stealthburner/blob/main/Images/Voron_Stealthburner.JPG" style="height: 150px; width: auto;" alt="SB">
-  </a>
+  <img src="https://github.com/VoronDesign/Voron-Stealthburner/blob/main/Images/Voron_Stealthburner.JPG" style="height: 150px; width: auto;" alt="SB"></a>
  </td>
  
   <td align=center>
   <h3><a href="https://github.com/chirpy2605/voron/tree/main/V0/Dragon_Burner">DragonBurner [DB]</a></h3>
   <a href="https://github.com/chirpy2605/voron/tree/main/V0/Dragon_Burner"> 
-  <img src="https://github.com/chirpy2605/voron/blob/main/V0/Dragon_Burner/images/dragonburner.png" style="height: 150px; width: auto;" alt="DB">
-  </a>
+  <img src="https://github.com/chirpy2605/voron/blob/main/V0/Dragon_Burner/images/dragonburner.png" style="height: 150px; width: auto;" alt="DB"></a>
  </td>
  </tr>
 
@@ -248,27 +208,25 @@
  <td align=center>
   <h3><a href="https://github.com/chirpy2605/voron/tree/main/V0/Rapid_Burner">RapidBurner [RB]</a></h3>
   <a href="https://github.com/chirpy2605/voron/tree/main/V0/Rapid_Burner"> 
-  <img src="https://github.com/chirpy2605/voron/blob/main/V0/Rapid_Burner/images/rapidburner.png" style="height: 150px; width: auto;" alt="RB">
-  </a>
+  <img src="https://github.com/chirpy2605/voron/blob/main/V0/Rapid_Burner/images/rapidburner.png" style="height: 150px; width: auto;" alt="RB"></a>
  </td>
 
   <td align=center>
   <h3><a href="https://github.com/Armchair-Heavy-Industries/Xol-Toolhead">[Xol]</a></h3>
   <a href="https://github.com/Armchair-Heavy-Industries/Xol-Toolhead"> 
-  <img src="https://github.com/Armchair-Heavy-Industries/Xol-Toolhead/blob/main/docs/assets/images/Xol-Toolhead_render_with_both.png" style="height: 150px; width: auto;" alt="Xol">
-  </a>
+  <img src="https://github.com/Armchair-Heavy-Industries/Xol-Toolhead/blob/main/docs/assets/images/Xol-Toolhead_render_with_both.png" style="height: 150px; width: auto;" alt="Xol"></a>
  </td>
 
   <td align=center>
   <h3><a href="https://github.com/chirpy2605/voron/tree/main/V0/Yavoth">Yavoth</a></h3>
   <a href="https://github.com/chirpy2605/voron/tree/main/V0/Yavoth"> 
-  <img src="https://github.com/chirpy2605/voron/blob/main/V0/Yavoth/images/yavoth_front.png" style="height: 150px; width: auto;" alt="Yavoth">
-  </a>
+  <img src="https://github.com/chirpy2605/voron/blob/main/V0/Yavoth/images/yavoth_front.png" style="height: 150px; width: auto;" alt="Yavoth"></a>
  </td>
  </tr>
+ 
   <th colspan="3">
   <a href="https://github.com/Armchair-Heavy-Industries/Archetype/tree/main"> 
-  <img src="https://github.com/Armchair-Heavy-Industries/Archetype/blob/main/archetype-options.png" style="height: 250px; width: auto;" alt="Archetype">
+  <img src="https://github.com/Armchair-Heavy-Industries/Archetype/blob/main/archetype-options.png" style="height: 250px; width: auto;" alt="Archetype"></a>
  </th>
 </table>
 
@@ -284,21 +242,19 @@
  <td align=center>
   <h3><a href="https://github.com/JaredC01/Galileo2/tree/main/galileo2_standalone">Galileo2 StandAlone [G2SA]</a></h3>
   <a href="https://github.com/JaredC01/Galileo2/tree/main/galileo2_standalone"> 
-  <img src="https://github.com/JaredC01/Galileo2/blob/main/images/g2sa.png" style="height: 150px; width: auto;" alt="G2SA">
-  </a>
+  <img src="https://github.com/JaredC01/Galileo2/blob/main/images/g2sa.png" style="height: 150px; width: auto;" alt="G2SA"></a>
  </td>
 
  <td align=center>
   <h3><a href="https://github.com/tetsu97/WristWatch-G2-Extruder">WristWatch G2 [WWG2]</a></h3>
   <a href="https://github.com/tetsu97/WristWatch-G2-Extruder"> 
-  <img src="https://github.com/tetsu97/WristWatch-G2-Extruder/blob/main/images/WWG2_render.png" style="height: 150px; width: auto;" alt="WWG2">
-  </a>
+  <img src="https://github.com/tetsu97/WristWatch-G2-Extruder/blob/main/images/WWG2_render.png" style="height: 150px; width: auto;" alt="WWG2"></a>
  </td>
 
  <td align=center> 
   <h3><a href="https://github.com/nhchiu/3DPrinter-Designs/tree/main/ProtoXtruder_2.0">ProtoXtruder 2.0 [PX2]</a></h3>
     <a href="https://github.com/nhchiu/3DPrinter-Designs/tree/main/ProtoXtruder_2.0"> 
-   <img src="https://github.com/nhchiu/3DPrinter-Designs/blob/main/ProtoXtruder_2.0/Images/Thumbnail.jpg" style="height: 150px; width: auto;" alt="PX2">
+   <img src="https://github.com/nhchiu/3DPrinter-Designs/blob/main/ProtoXtruder_2.0/Images/Thumbnail.jpg" style="height: 150px; width: auto;" alt="PX2"></a>
  </td>
  </tr>
 
@@ -306,20 +262,19 @@
    <td align=center> 
   <h3><a href="https://github.com/Annex-Engineering/Sherpa_Mini-Extruder">Sherpa Mini</a></h3>
     <a href="https://github.com/Annex-Engineering/Sherpa_Mini-Extruder"> 
-   <img src="https://raw.githubusercontent.com/Annex-Engineering/Sherpa_Mini-Extruder/refs/heads/master/Images/sherpa_mini_rc1.jpg" style="height: 150px; width: auto;" alt="Sherpa">
+   <img src="https://raw.githubusercontent.com/Annex-Engineering/Sherpa_Mini-Extruder/refs/heads/master/Images/sherpa_mini_rc1.jpg" style="height: 150px; width: auto;" alt="Sherpa"></a>
  </td>
  
  <td align=center>
   <h3><a href="https://github.com/VzBoT3D/HextrudORT">HextrudORT</a></h3>
   <a href="https://github.com/VzBoT3D/Vz-HextrudORT"> 
-  <img src="https://user-images.githubusercontent.com/37383368/209605890-b0a13c7c-f22c-4c7e-b018-bfcebc3aeefa.png" style="height: 150px; width: auto;" alt="VZ-HextrudORT">
-  </a>
+  <img src="https://user-images.githubusercontent.com/37383368/209605890-b0a13c7c-f22c-4c7e-b018-bfcebc3aeefa.png" style="height: 150px; width: auto;" alt="VZ-HextrudORT"></a>
  </td>
 
   <td align=center> 
   <h3><a href="https://www.orbiterprojects.com/projects/">Orbiter V2.5</a></h3>
     <a href="https://www.orbiterprojects.com/orbiter-v2-5/"> 
-   <img src="https://github.com/hdgreef/Riton-Github/blob/main/docs/images/Orbiter-2.5-rotate.gif" style="height: 150px; width: auto;" alt="Orbiter">
+   <img src="https://github.com/hdgreef/Riton-Github/blob/main/docs/images/Orbiter-2.5-rotate.gif" style="height: 150px; width: auto;" alt="Orbiter"></a>
  </td>
 </tr>
      
@@ -327,20 +282,19 @@
   <td align=center>
   <h3><a href="https://github.com/JaredC01/Galileo2/tree/main/galileo2_extruder">Galileo2 [G2E]</a></h3>
   <a href="https://github.com/JaredC01/Galileo2/tree/main/galileo2_extruder"> 
-  <img src="https://github.com/JaredC01/Galileo2/blob/main/images/g2extruder.png" style="height: 150px; width: auto;" alt="G2E">
-  </a>
+  <img src="https://github.com/JaredC01/Galileo2/blob/main/images/g2extruder.png" style="height: 150px; width: auto;" alt="G2E"></a>
  </td>
  
   <td align=center> 
   <h3><a href="https://github.com/nhchiu/VoronMods/tree/main/Extruders/Large_Gear_Clockwork2">Large Gear ClockWork2 [CW2]</a></h3>
     <a href="https://github.com/nhchiu/VoronMods/tree/main/Extruders/Large_Gear_Clockwork2"> 
-   <img src="https://github.com/nhchiu/VoronMods/blob/main/Extruders/Large_Gear_Clockwork2/Images/Thumbnail.png" style="height: 150px; width: auto;" alt="Orbiter">
+   <img src="https://github.com/nhchiu/VoronMods/blob/main/Extruders/Large_Gear_Clockwork2/Images/Thumbnail.png" style="height: 150px; width: auto;" alt="CW2"></a>
  </td>
 
   <td align=center> 
   <h3><a href="https://github.com/abigexplosion/WATERHWEEL-EXTRUDER/tree/main">WaterWheel Extruder [WWE]</a></h3>
     <a href="https://github.com/abigexplosion/WATERHWEEL-EXTRUDER/tree/main"> 
-   <img src="https://github.com/hdgreef/Riton-Github/blob/main/docs/images/WWExtruder.png" style="height: 150px; width: auto;" alt="WWE">
+   <img src="https://github.com/hdgreef/Riton-Github/blob/main/docs/images/WWExtruder.png" style="height: 150px; width: auto;" alt="WWE"></a>
  </td>
 </tr>
 </table>
@@ -367,23 +321,36 @@
   <td align=center>
   <h3><a href="https://docs.ldomotors.com/en/Toolboard/nitehawk-36">Nitehawk-36</a></h3>
   <a href="https://docs.ldomotors.com/en/Toolboard/nitehawk-36"> 
-  <img src="https://stealthchanger.com/assets/tool_boards/nitehawk-36.jpg" style="height: 150px; width: auto;" alt="Nitehawk36">
-  </a>
+  <img src="https://stealthchanger.com/assets/tool_boards/nitehawk-36.jpg" style="height: 150px; width: auto;" alt="Nitehawk36"></a>
  </td>
  
   <td align=center> 
   <h3><a href="https://global.bttwiki.com/EBB36_GEN2.html">EBB36 Gen2</a></h3>
     <a href="https://global.bttwiki.com/EBB36_GEN2.html"> 
-   <img src="https://github.com/hdgreef/Riton-Github/blob/main/docs/images/EBB36_GEN2.jpg" style="height: 150px; width: auto;" alt="EBB Gen2">
+   <img src="https://github.com/hdgreef/Riton-Github/blob/main/docs/images/EBB36_GEN2.jpg" style="height: 150px; width: auto;" alt="EBB Gen2"></a>
  </td>
+
+  <td align=center> 
+  <h3><a href="https://github.com/FYSETC/H36_Combo">H36 Combo</a></h3>
+    <a href=" https://github.com/FYSETC/H36_Combo"> 
+   <img src="https://stealthchanger.com/assets/tool_boards/h36_combo.png" style="height: 150px; width: auto;" alt="H36"></a>
+ </td>
+
 
   <td align=center> 
   <h3><a href="https://mellow-3d.github.io/fly-sht36_v2_general.html">Fly STH-36 V2</a></h3>
     <a href="https://mellow-3d.github.io/fly-sht36_v2_general.html"> 
-   <img src="https://mellow-3d.github.io/images/fly-sht36_v2/sht36_v2.png" style="height: 150px; width: auto;" alt="WWE">
+   <img src="https://mellow-3d.github.io/images/fly-sht36_v2/sht36_v2.png" style="height: 150px; width: auto;" alt="STH36 V2"></a>
  </td>
 </tr>
-   
+
+<tr>
+  <td align=center> 
+  <h3><a href="https://mellow-3d.github.io/fly-sht36_v2_general.html">Fly STH-36 V2</a></h3>
+    <a href="https://mellow-3d.github.io/fly-sht36_v2_general.html"> 
+   <img src="https://mellow-3d.github.io/images/fly-sht36_v2/sht36_v2.png" style="height: 150px; width: auto;" alt="STH36 V2"></a>
+ </td>
+</tr>  
 </table>
 
 <!--## ToolChanger-->
@@ -394,8 +361,7 @@
  <td align=center>
   <h3><a href="https://github.com/DraftShift">DraftShift Design</a></h3>
   <a href="https://github.com/DraftShift"> 
-  <img src="https://github.com/hdgreef/Riton-Github/blob/main/docs/images/dsd_logo.png" style="height: 150px; width: auto;" alt="DraftShift">
-  </a>
+  <img src="https://github.com/hdgreef/Riton-Github/blob/main/docs/images/dsd_logo.png" style="height: 150px; width: auto;" alt="DraftShift"></a>
  </td>
 
  <td align=center> 
