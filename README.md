@@ -294,26 +294,53 @@
   <img src="https://github.com/tetsu97/WristWatch-G2-Extruder/blob/main/images/WWG2_render.png" style="height: 150px; width: auto;" alt="WWG2">
   </a>
  </td>
+
+ <td align=center> 
+  <h3><a href="https://github.com/nhchiu/3DPrinter-Designs/tree/main/ProtoXtruder_2.0">ProtoXtruder 2.0 [PX2]</a></h3>
+    <a href="https://github.com/nhchiu/3DPrinter-Designs/tree/main/ProtoXtruder_2.0"> 
+   <img src="https://github.com/nhchiu/3DPrinter-Designs/blob/main/ProtoXtruder_2.0/Images/Thumbnail.jpg" style="height: 150px; width: auto;" alt="PX2">
+ </td>
+ </tr>
+
+<tr>
+   <td align=center> 
+  <h3><a href="https://github.com/Annex-Engineering/Sherpa_Mini-Extruder">Sherpa Mini</a></h3>
+    <a href="https://github.com/Annex-Engineering/Sherpa_Mini-Extruder"> 
+   <img src="https://raw.githubusercontent.com/Annex-Engineering/Sherpa_Mini-Extruder/refs/heads/master/Images/sherpa_mini_rc1.jpg" style="height: 150px; width: auto;" alt="Sherpa">
+ </td>
  
  <td align=center>
+  <h3><a href="https://github.com/VzBoT3D/HextrudORT">HextrudORT</a></h3>
+  <a href="https://github.com/VzBoT3D/Vz-HextrudORT"> 
+  <img src="https://user-images.githubusercontent.com/37383368/209605890-b0a13c7c-f22c-4c7e-b018-bfcebc3aeefa.png" style="height: 150px; width: auto;" alt="VZ-HextrudORT">
+  </a>
+ </td>
+
+  <td align=center> 
+  <h3><a href="https://www.orbiterprojects.com/projects/">Orbiter V2.5</a></h3>
+    <a href="https://www.orbiterprojects.com/orbiter-v2-5/"> 
+   <img src="https://github.com/hdgreef/Riton-Github/blob/main/docs/images/Orbiter-2.5-rotate.gif" style="height: 150px; width: auto;" alt="Orbiter">
+ </td>
+</tr>
+     
+<tr>
+  <td align=center>
   <h3><a href="https://github.com/JaredC01/Galileo2/tree/main/galileo2_extruder">Galileo2 [G2E]</a></h3>
   <a href="https://github.com/JaredC01/Galileo2/tree/main/galileo2_extruder"> 
   <img src="https://github.com/JaredC01/Galileo2/blob/main/images/g2extruder.png" style="height: 150px; width: auto;" alt="G2E">
   </a>
  </td>
- </tr>
-
-<tr>
-
- <td align=center>
-  <h3><a href="https://github.com/VzBoT3D/Vz-HextrudORT">HextrudORT</a></h3>
-  <a href="https://github.com/VzBoT3D/Vz-HextrudORT"> 
-  <img src="https://github.com/hdgreef/Riton-Github/blob/main/docs/images/VZ_HextrudORT_Logo.jpg" style="height: 150px; width: auto;" alt="VZ-HextrudORT">
-  </a>
- </td>
  
- <td align=center> 
-  <h3><a href="https://www.orbiterprojects.com/projects/">Orbiter</a></h3>
+  <td align=center> 
+  <h3><a href="https://github.com/nhchiu/VoronMods/tree/main/Extruders/Large_Gear_Clockwork2">Large Gear ClockWork2 [CW2]</a></h3>
+    <a href="https://github.com/nhchiu/VoronMods/tree/main/Extruders/Large_Gear_Clockwork2"> 
+   <img src="https://github.com/nhchiu/VoronMods/blob/main/Extruders/Large_Gear_Clockwork2/Images/Thumbnail.png" style="height: 150px; width: auto;" alt="Orbiter">
+ </td>
+
+  <td align=center> 
+  <h3><a href="https://github.com/abigexplosion/WATERHWEEL-EXTRUDER/tree/main">WaterWheel Extruder [WWE]</a></h3>
+    <a href="https://github.com/abigexplosion/WATERHWEEL-EXTRUDER/tree/main"> 
+   <img src="https://github.com/hdgreef/Riton-Github/blob/main/docs/images/WWExtruder.png" style="height: 150px; width: auto;" alt="WWE">
  </td>
 </tr>
 </table>
