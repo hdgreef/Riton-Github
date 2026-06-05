@@ -205,7 +205,7 @@
 
 <tr>
   <td align=center> 
-  <h3><a href="https://github.com/FYSETC/FYSETC-SPIDER">Spider V3.0</a></h3>
+  <h3><a href="https://github.com/FYSETC/FYSETC-SPIDER">Spider V3.0</a> & <a href="https://github.com/FYSETC/FYSETC-SPIDER-H7">H7</h3>
     <a href="https://github.com/FYSETC/FYSETC-SPIDER"> 
    <img src="https://github.com/FYSETC/FYSETC-SPIDER/blob/main/images/Spider.png" style="height: 150px; width: auto;" alt="Spider V3"></a>
  </td>
