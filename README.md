@@ -485,7 +485,7 @@
 
 ---
 
-<details>  <!-- to collapsed menu, add open to detail to leave it open -->
+<details open>  <!-- to collapsed menu, add open to detail to leave it open -->
 <summary>3D Print - Advanced</summary>
 
 <!--## MMU-->
@@ -511,18 +511,29 @@
 <table align=center>
 <tr>
  <td align=center>
-  <h3><a href="https://github.com/DraftShift">DraftShift Design</a></h3>
-  <a href="https://github.com/DraftShift"> 
-  <img src="https://github.com/hdgreef/Riton-Github/blob/main/docs/images/dsd_logo.png" style="height: 150px; width: auto;" alt="DraftShift"></a>
+  <h3><a href="https://github.com/DraftShift"> DraftShift Design</a><a href="https://github.com/DraftShift"><img src="https://github.com/hdgreef/Riton-Github/blob/main/docs/images/dsd_logo.png" style="height: 50px; width: auto;" alt="DraftShift"></a></h3>
+   <a><img src="https://raw.githubusercontent.com/DraftShift/StealthChanger/refs/heads/main/media/docking.gif" style="height: 150px; width: auto;" alt="DraftShift"></a>
  </td>
 
+  <td align=center>
+  <h3><a href="https://github.com/viesturz/tapchanger">TapChanger</a></h3>
+  <a href="https://github.com/viesturz/tapchanger"> 
+  <img src="https://github.com/viesturz/tapchanger/blob/main/images/Animation.gif" style="height: 150px; width: auto;" alt="TapChanger"></a>
+ </td>
+
+  <td align=center>
+  <h3><a href="https://github.com/BondtechAB/INDX">INDX</a></h3>
+  <a href="https://github.com/BondtechAB/INDX"> 
+  <img src="https://tse4.mm.bing.net/th/id/OIP.UfNB6ZmGbUi8fhNlAUxULgHaE8?pid=Api" style="height: 150px; width: auto;" alt="INDX"></a>
+ </td>
+</tr>
+ 
+<tr>
  <td align=center> 
   <h3><a href="https://github.com/viesturz/klipper-toolchanger">Klipper ToolChanger</a></h3>
  </td>
 </tr>
 </table>
-
-
 
 <!--## Mods-->
 <h2 align="center">3. Voron Mods</h2>
