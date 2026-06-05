@@ -63,8 +63,8 @@
  </td>
 
  <td align=center>
-  <p><h3><a href="https://github.com/Esoterical/voron_canbus">Esoterical CAN Bus Guide</a></h3></p>
-  <a href="https://github.com/dw-0/kiauh"> 
+  <p><h3><a href="https://canbus.esoterical.online/">Esoterical CAN Bus Guide</a></h3></p>
+  <a href="https://canbus.esoterical.online/"> 
   <img src="https://github.com/Esoterical/voron_canbus/blob/main/assets/esoterical-logo.png" style="height: 150px; width: auto;" alt="Esoterical CAN Bus Guide"></a>
  </td>
 
@@ -152,9 +152,8 @@
 
 ---
 
-<details open>  <!-- to collapsed menu, add open to detail to leave it open -->
-
-<summary>3D Print - HW & Advanced</summary>
+<details>  <!-- to collapsed menu, add open to detail to leave it open -->
+<summary>3D Print - Common HW</summary>
 
 <!--## ToolHeads (TH) & Extruder-->
 <h2 align="center">1. ToolHeads [TH]</h2>
@@ -299,7 +298,6 @@
 </tr>
 </table>
 
-
 <!--## Hotend-->
 <h2 align=center>3. Hotend</h2>
 
@@ -373,8 +371,50 @@
 </tr>  
 </table>
 
+<!--## MCU-->
+<h2 align="center">5. MotherBoard</h2>
+
+<table align=center>
+<th colspan="3">
+  <h3><a href="https://canbus.esoterical.online/mainboard_flashing/common_hardware.html">=> Awesome MotherBoard List<=</a></h3>
+ </th>
+   
+<tr>
+  <td align=center> 
+  <h3><a href="https://global.bttwiki.com/Octopus%20Pro.html">BTT Octopus</a></h3>
+    <a href="https://global.bttwiki.com/Octopus%20Pro.html"> 
+   <img src="https://global.bttwiki.com/img/Octopus_Pro/Octopus_Pro_Title.webp" style="height: 150px; width: auto;" alt="Octopus"></a>
+ </td>
+
+ 
+</tr>
+</table>
+</details>
+
+---
+
+<details>  <!-- to collapsed menu, add open to detail to leave it open -->
+<summary>3D Print - Advanced</summary>
+
+<!--## MMU-->
+<h2 align="center">1. Multi Material Unit [MMU]</h2>
+
+![Happy Hare](./docs/images/happy_hare_logo.jpg) [HappyHare](https://github.com/moggieuk/Happy-Hare)
+
+![ERCF Logo](./docs/images/ercf_logo.png) [Enraged Rabbit Collective](https://github.com/Carrot-collective)
+
+![ArmoredTurtle_Logo](./docs/images/AT-logo.png) [BoxTurtle](https://github.com/ArmoredTurtle/BoxTurtle)
+
+[Expandable Multi-color Unit](https://github.com/DW-Tas/EMU)
+
+[QuattroBox](https://github.com/Batalhoti/QuattroBox)
+
+![TradRack_Logo](./docs/images/tradrack-logo.png) [TradRack](https://github.com/Annex-Engineering/TradRack)
+
+[OpenAMS](https://openams.si-forge.com/)
+ 
 <!--## ToolChanger-->
-<h2 align="center">5. ToolChanger [TC]</h2>
+<h2 align="center">2. ToolChanger [TC]</h2>
 
 <table align=center>
 <tr>
@@ -390,25 +430,10 @@
 </tr>
 </table>
 
-<!--## MMU-->
-<h2 align="center">3. Multi Material Unit [MMU]</h2>
 
-![Happy Hare](./docs/images/happy_hare_logo.jpg) [HappyHare](https://github.com/moggieuk/Happy-Hare)
-
-![ERCF Logo](./docs/images/ercf_logo.png) [Enraged Rabbit Collective](https://github.com/Carrot-collective)
-
-![ArmoredTurtle_Logo](./docs/images/AT-logo.png) [BoxTurtle](https://github.com/ArmoredTurtle/BoxTurtle)
-
-[Expandable Multi-color Unit](https://github.com/DW-Tas/EMU)
-
-[QuattroBox](https://github.com/Batalhoti/QuattroBox)
-
-![TradRack_Logo](./docs/images/tradrack-logo.png) [TradRack](https://github.com/Annex-Engineering/TradRack)
-
-[OpenAMS](https://openams.si-forge.com/)
 
 <!--## Mods-->
-<h2 align="center">4. Voron Mods</h2>
+<h2 align="center">3. Voron Mods</h2>
 
 ![VoronDesign Logo](./docs/images/voron_design_logo.png) [VoronUsers](https://github.com/VoronDesign/VoronUsers)
 
