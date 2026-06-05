@@ -313,21 +313,15 @@
 <h2 align=center>4. Toolhead Board</h2>
 
 <table align=center>
-  <th colspan="3">
+  <th colspan="4">
   <h3><a href="https://canbus.esoterical.online/toolhead_flashing/common_hardware.html">=> Awesome Toolhead Board List<=</a></h3>
  </th>
 
- <tr>
+ <tr> <!--STM36-->
   <td align=center>
   <h3><a href="https://docs.ldomotors.com/en/Toolboard/nitehawk-36">Nitehawk-36</a></h3>
   <a href="https://docs.ldomotors.com/en/Toolboard/nitehawk-36"> 
   <img src="https://stealthchanger.com/assets/tool_boards/nitehawk-36.jpg" style="height: 150px; width: auto;" alt="Nitehawk36"></a>
- </td>
- 
-  <td align=center> 
-  <h3><a href="https://global.bttwiki.com/EBB36_GEN2.html">EBB36 Gen2</a></h3>
-    <a href="https://global.bttwiki.com/EBB36_GEN2.html"> 
-   <img src="https://github.com/hdgreef/Riton-Github/blob/main/docs/images/EBB36_GEN2.jpg" style="height: 150px; width: auto;" alt="EBB Gen2"></a>
  </td>
 
   <td align=center> 
@@ -342,14 +336,40 @@
     <a href="https://mellow-3d.github.io/fly-sht36_v2_general.html"> 
    <img src="https://mellow-3d.github.io/images/fly-sht36_v2/sht36_v2.png" style="height: 150px; width: auto;" alt="STH36 V2"></a>
  </td>
+
+   <td align=center> 
+  <h3><a href="https://global.bttwiki.com/EBB36_GEN2.html">EBB36 Gen2</a></h3>
+    <a href="https://global.bttwiki.com/EBB36_GEN2.html"> 
+   <img src="https://github.com/hdgreef/Riton-Github/blob/main/docs/images/EBB36_GEN2.jpg" style="height: 150px; width: auto;" alt="EBB Gen2"></a>
+ </td>
 </tr>
 
-<tr>
-  <td align=center> 
-  <h3><a href="https://mellow-3d.github.io/fly-sht36_v2_general.html">Fly STH-36 V2</a></h3>
-    <a href="https://mellow-3d.github.io/fly-sht36_v2_general.html"> 
-   <img src="https://mellow-3d.github.io/images/fly-sht36_v2/sht36_v2.png" style="height: 150px; width: auto;" alt="STH36 V2"></a>
+<tr> <!--RP2209 & 2040-->
+   <td align=center> 
+  <h3><a href="https://global.bttwiki.com/EBB%2042%20CAN.html">EBB42 Gen2</a></h3>
+    <a href="https://global.bttwiki.com/EBB%2042%20CAN.html"> 
+   <img src="https://global.bttwiki.com/img/EBB42CAN/072/EBB42_072_Title.webp" style="height: 150px; width: auto;" alt="EBB Gen2"></a>
  </td>
+ 
+ <td align=center> 
+  <h3><a href="https://docs.ldomotors.com/en/Toolboard/nitehawk-sb-v2">NiteHawk SB V2</a></h3>
+    <a href="https://docs.ldomotors.com/en/Toolboard/nitehawk-sb-v2"> 
+   <img src="https://stealthchanger.com/assets/tool_boards/nitehawk_sb.webp" style="height: 150px; width: auto;" alt="NH SB V2"></a>
+ </td>
+ 
+  <td align=center> 
+  <h3><a href="https://global.bttwiki.com/EBB%202240%202209%20CAN.html">EBB SB2209/2040</a></h3>
+    <a href="https://global.bttwiki.com/EBB%202240%202209%20CAN.html"> 
+   <img src="https://stealthchanger.com/assets/tool_boards/sb2209.webp" style="height: 150px; width: auto;" alt="EBB SB"></a>
+ </td>
+
+   <td align=center> 
+  <h3><a href="https://mellow-3d.github.io/fly_sb2040_v2_general.html">Fly SB2209/2240</a></h3>
+    <a href="https://mellow-3d.github.io/fly_sb2040_v2_general.html"> 
+   <img src="https://mellow-3d.github.io/images/fly_sb2040_v2/general_image.jpg" style="height: 150px; width: auto;" alt="Fly SB"></a>
+ </td>
+
+<td></td>
 </tr>  
 </table>
 
