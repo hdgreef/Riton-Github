@@ -170,7 +170,57 @@
    <img src="https://global.bttwiki.com/img/Octopus_Pro/Octopus_Pro_Title.webp" style="height: 150px; width: auto;" alt="Octopus"></a>
  </td>
 
+   <td align=center> 
+  <h3><a href="https://global.bttwiki.com/M8P-V2_0.html">BTT Manta 8P V2</a></h3>
+    <a href="https://global.bttwiki.com/M8P-V2_0.html"> 
+   <img src="https://global.bttwiki.com/img/m8p-v2_0/m8p_v2_0_title.webp" style="height: 150px; width: auto;" alt="Manta"></a>
+ </td>
+
+  <td align=center> 
+  <h3><a href="https://global.bttwiki.com/Kraken.html">BTT Kraken</a></h3>
+    <a href="https://global.bttwiki.com/Kraken.html"> 
+   <img src="https://global.bttwiki.com/img/Kraken/kraken_title.webp" style="height: 150px; width: auto;" alt="Kraken"></a>
+ </td>
+</tr>
+
+<tr>
+  <td align=center> 
+  <h3><a href="https://mellow-3d.github.io/fly_super8_pro_h723_general.html">Fly Super8Pro</a></h3>
+    <a href="https://mellow-3d.github.io/fly_super8_pro_h723_general.html"> 
+   <img src="https://github.com/hdgreef/Riton-Github/blob/main/docs/images/FlySuper8Pro.png" style="height: 150px; width: auto;" alt="Fly Super8"></a>
+ </td>
+
+  <td align=center> 
+  <h3><a href="https://mellow-3d.github.io/fly_dp5.html">Fly DP5</a></h3>
+    <a href="https://mellow-3d.github.io/fly_dp5.html"> 
+   <img src="https://mellow-3d.github.io/images/fly-dp5/fly_dp5.png" style="height: 150px; width: auto;" alt="Fly DP5"></a>
+ </td> 
+
+   <td align=center> 
+  <h3><a href="https://github.com/makerbase-mks/mks-monster8">MKS Monster 8 V2</a></h3>
+    <a href="https://github.com/makerbase-mks/mks-monster8"> 
+   <img src="https://github.com/makerbase-mks/MKS-Monster8/blob/main/hardware/Image/MKS%20Monster8%20V1.0_002.jpg" style="height: 150px; width: auto;" alt="MKS Monter 8"></a>
+ </td> 
+</tr>
+
+<tr>
+  <td align=center> 
+  <h3><a href="https://github.com/FYSETC/FYSETC-SPIDER">Spider V3.0</a></h3>
+    <a href="https://github.com/FYSETC/FYSETC-SPIDER"> 
+   <img src="https://github.com/FYSETC/FYSETC-SPIDER/blob/main/images/Spider.png" style="height: 150px; width: auto;" alt="Spider V3"></a>
+ </td>
+
+   <td align=center> 
+  <h3><a href="https://github.com/FYSETC/FYSETC-SPIDER-KING">Spider King</a></h3>
+    <a href="https://github.com/FYSETC/FYSETC-SPIDER-KING"> 
+   <img src="https://github.com/FYSETC/FYSETC-SPIDER-KING/blob/main/images/SpiderKing.jpg" style="height: 150px; width: auto;" alt="Spider"></a>
+ </td> 
  
+  <td align=center> 
+  <h3><a href="https://github.com/MotorDynamicsLab/Leviathan">LDO Leviathan V3</a></h3>
+    <a href="https://github.com/MotorDynamicsLab/Leviathan"> 
+   <img src="https://raw.githubusercontent.com/MotorDynamicsLab/Leviathan/refs/heads/master/Media/product_img_web2.avif" style="height: 150px; width: auto;" alt="Leviathan"></a>
+ </td> 
 </tr>
 </table>
 
