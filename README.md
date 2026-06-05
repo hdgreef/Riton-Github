@@ -154,9 +154,28 @@
 
 <details>  <!-- to collapsed menu, add open to detail to leave it open -->
 <summary>3D Print - Common HW</summary>
+ 
+<!--## MCU-->
+<h2 align="center">1. MotherBoard</h2>
+
+<table align=center>
+<th colspan="3">
+  <h3><a href="https://canbus.esoterical.online/mainboard_flashing/common_hardware.html">=> Awesome MotherBoard List<=</a></h3>
+ </th>
+   
+<tr>
+  <td align=center> 
+  <h3><a href="https://global.bttwiki.com/Octopus%20Pro.html">BTT Octopus</a></h3>
+    <a href="https://global.bttwiki.com/Octopus%20Pro.html"> 
+   <img src="https://global.bttwiki.com/img/Octopus_Pro/Octopus_Pro_Title.webp" style="height: 150px; width: auto;" alt="Octopus"></a>
+ </td>
+
+ 
+</tr>
+</table>
 
 <!--## ToolHeads (TH) & Extruder-->
-<h2 align="center">1. ToolHeads [TH]</h2>
+<h2 align="center">2. ToolHeads [TH]</h2>
 
 <table align=center> 
  <th colspan="3">
@@ -230,7 +249,7 @@
 </table>
 
 <!--## Extruder-->
-<h2 align=center>2. Extruder</h2>
+<h2 align=center>3. Extruder</h2>
 
 <table align=center>
   <th colspan="3">
@@ -299,16 +318,16 @@
 </table>
 
 <!--## Hotend-->
-<h2 align=center>3. Hotend</h2>
+<h2 align=center>4. Hotend</h2>
 
 <table align=center>
-  <th colspan="3">
+  <th colspan="3" align=center>
   <h3><a href="https://github.com/SartorialGrunt0/Awesome-Hotends">=> Awesome Hotends List<=</a></h3>
  </th>
 </table>
    
  <!--## ToolHead Board-->
-<h2 align=center>4. Toolhead Board</h2>
+<h2 align=center>5. Toolhead Board</h2>
 
 <table align=center>
   <th colspan="4">
@@ -369,25 +388,6 @@
 
 <td></td>
 </tr>  
-</table>
-
-<!--## MCU-->
-<h2 align="center">5. MotherBoard</h2>
-
-<table align=center>
-<th colspan="3">
-  <h3><a href="https://canbus.esoterical.online/mainboard_flashing/common_hardware.html">=> Awesome MotherBoard List<=</a></h3>
- </th>
-   
-<tr>
-  <td align=center> 
-  <h3><a href="https://global.bttwiki.com/Octopus%20Pro.html">BTT Octopus</a></h3>
-    <a href="https://global.bttwiki.com/Octopus%20Pro.html"> 
-   <img src="https://global.bttwiki.com/img/Octopus_Pro/Octopus_Pro_Title.webp" style="height: 150px; width: auto;" alt="Octopus"></a>
- </td>
-
- 
-</tr>
 </table>
 </details>
 
