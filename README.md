@@ -1,6 +1,7 @@
 <!-- # Riton-Github <!-- First-level heading --> <!-- TO COMMENT --> 
 <h1 align=center>Screepton</h1>
- > Screepton + CheatSheet of ReadMe layout + Github organization   <!-- to quote line -->
+
+> Screepton + CheatSheet of ReadMe layout + Github organization   <!-- to quote line -->
 
 <p align=center><img src=https://github.com/hdgreef/Riton-Github/blob/main/docs/images/Logo.png alt='Screepton' width='30%'></p>
    <!-- ![Screepton](./docs/images/Logo.png) -->
@@ -97,9 +98,9 @@
   </td> 
 
   <td align=center>
-  <h3><a href="https://global.bttwiki.com/PI4B.html">BTT CM4</a></h3>
-  <a href="https://global.bttwiki.com/PI4B.html">
-  <img src="https://global.bttwiki.com/img/PI4B/PI4B_Title.webp" style="height: 150px; width: auto;" alt="BTT CM4"></a>
+  <h3><a href="https://github.com/bigtreetech/docs/blob/master/docs/PI4B.md#cm4-installation">BTT CM4</a></h3>
+  <a href="https://github.com/bigtreetech/docs/blob/master/docs/PI4B.md#cm4-installation">
+  <img src="https://github.com/bigtreetech/docs/blob/master/docs/img/PI4B/PI4B_CM4.webp" style="height: 150px; width: auto;" alt="BTT CM4"></a>
   </td> 
 
   <td align=center>
@@ -393,14 +394,18 @@
  </td>
 
  <td align=center>
-  <p><h3><a href="https://github.com/Extrutex/KATANA-Klipper-Installer">Katana</a></h3></p>
+  <h3><a href="https://github.com/Extrutex/KATANA-Klipper-Installer">Katana</a></h3>
   <a href="https://github.com/Extrutex/KATANA-Klipper-Installer"> 
   <img src="https://github.com/Extrutex/KATANA-Klipper-Installer/blob/main/docs/images/logo.png" style="height: 150px; width: auto;" alt="Katana"></a>
  </td>
 </tr>
 
 <tr>
- <td align=center></td>
+ <td align=center>
+  <h3><a href="https://www.raspberrypi.com/software/">RPimager</a></h3>
+  <a href="https://www.raspberrypi.com/software/"> 
+  <img src="https://raw.githubusercontent.com/raspberrypi/rpi-imager/refs/heads/main/src/icons/rpi-imager.ico" style="height: 150px; width: auto;" alt="RPimager"></a>  
+ </td>
 
  <td align=center>
   <p><h3><a href="https://github.com/fbeauKmi/update_klipper_and_mcus/tree/main">UKAM</a></h3></p>
@@ -408,7 +413,11 @@
   <img src="https://github.com/fbeauKmi/update_klipper_and_mcus/blob/main/images/banner.png" style="height: 150px; width: auto;" alt="UKAM"></a>
  </td>
 
-<td align=center></td>
+<td align=center>
+   <p><h3><a href="https://putty.org/index.html">Putty</a></h3></p>
+  <a href="https://putty.org/index.html"> 
+  <img src="https://seeklogo.com/images/P/putty-logo-CD0A665CE0-seeklogo.com.png" style="height: 150px; width: auto;" alt="UKAM"></a>
+</td>
 </tr>
 </table>
 
