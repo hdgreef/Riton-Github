@@ -382,7 +382,7 @@
 <table align=center>
 <tr>
  <td align=center>
-  <p><h3><a href="https://github.com/dw-0/kiauh">KIAUH</a></h3></p>
+  <h3><a href="https://github.com/dw-0/kiauh">KIAUH</a></h3>
   <a href="https://github.com/dw-0/kiauh"> 
   <img src="https://github.com/dw-0/kiauh/blob/master/docs/assets/logo-large.png" style="height: 150px; width: auto;" alt="KIAUH"></a>
  </td>
@@ -491,24 +491,82 @@
 <!--## MMU-->
 <h2 align="center">1. Multi Material Unit [MMU]</h2>
 
-![Happy Hare](./docs/images/happy_hare_logo.jpg) [HappyHare](https://github.com/moggieuk/Happy-Hare)
+<table align=center>
+  <th colspan="3" align=center>
+  <h3><a href="https://github.com/moggieuk/Happy-Hare">=> HappyHare <=</a></h3>
+   <a href="https://github.com/jwellman80/klipper-toolchanger-easy"> 
+   <img src="https://raw.githubusercontent.com/wiki/moggieuk/Happy-Hare/resources/happy_hare_logo.jpg" style="height: 150px; width: auto;" alt="DraftShift"></a>
+ </th>
+     
+ <tr>    
+ <td align=center>
+  <h3><a href="https://github.com/Carrot-collective/ERCF_v3">Enraged Rabbit Collective [ERCF V3.0]</a></h3>
+  <a href="https://github.com/Carrot-collective/ERCF_v3"> 
+  <img src="https://github.com/Carrot-collective/ERCF_v3/blob/main/Assets/main_hero_v3.png" style="height: 150px; width: auto;" alt="ERCF"></a>
+ </td>
 
-![ERCF Logo](./docs/images/ercf_logo.png) [Enraged Rabbit Collective](https://github.com/Carrot-collective)
+ <td align=center>
+  <p><h3><a href="https://github.com/ArmoredTurtle/BoxTurtle">BoxTurtle [BT]</a></h3></p>
+  <a href="https://github.com/ArmoredTurtle/BoxTurtle"> 
+  <img src="https://github.com/hdgreef/Riton-Github/blob/main/docs/images/BT.png" style="height: 150px; width: auto;" alt="BT"></a>
+ </td>
 
-![ArmoredTurtle_Logo](./docs/images/AT-logo.png) [BoxTurtle](https://github.com/ArmoredTurtle/BoxTurtle)
+<td align=center>
+   <p><h3><a href="https://github.com/Annex-Engineering/TradRack">TradRack [TR]</a></h3></p>
+  <a href="https://github.com/Annex-Engineering/TradRack"> 
+  <img src="https://raw.githubusercontent.com/Annex-Engineering/TradRack/refs/heads/main/Images/render3.png" style="height: 150px; width: auto;" alt="TR"></a>
+</td>
+</tr>
 
-[Expandable Multi-color Unit](https://github.com/DW-Tas/EMU)
+<tr>
+ <td align=center>
+  <h3><a href="https://github.com/Batalhoti/QuattroBox">QuattroBox [QB]</a></h3>
+  <a href="https://github.com/Batalhoti/QuattroBox"> 
+  <img src="https://github.com/Batalhoti/QuattroBox/blob/main/Images/V2/QuattroBox_V2_View03.jpg" style="height: 150px; width: auto;" alt="QB"></a>  
+ </td>
 
-[QuattroBox](https://github.com/Batalhoti/QuattroBox)
+ <td align=center>
+  <h3><a href="https://github.com/DW-Tas/EMU">Expandable Multi-material Unit [EMU]</a></h3>
+  <a href="https://github.com/DW-Tas/EMU"> 
+  <img src="https://github.com/DW-Tas/EMU/blob/main/docs/assets/images/EMU_multi_lane_unit.png" style="height: 150px; width: auto;" alt="EMU"></a>
+ </td>
 
-![TradRack_Logo](./docs/images/tradrack-logo.png) [TradRack](https://github.com/Annex-Engineering/TradRack)
+  <td align=center>
+  <h3><a href="https://github.com/mjonuschat/NightOwl">NightOwl [NO]</a></h3>
+  <a href="https://github.com/mjonuschat/NightOwl"> 
+  <img src="https://github.com/mjonuschat/NightOwl/raw/main/Images/nightowl-render.png" style="height: 150px; width: auto;" alt="NO"></a>
+ </td>
+</tr>
 
-[OpenAMS](https://openams.si-forge.com/)
+<tr>
+ <td align=center>
+  <p><h3><a href="https://global.bttwiki.com/BIGTREETECH_ViViD.html">BTT ViViD</a></h3></p>
+  <a href="https://global.bttwiki.com/BIGTREETECH_ViViD.html"> 
+  <img src="https://biqu.equipment/cdn/shop/files/1060000854-ViViD_1000_1.jpg?v=1763376894&width=1220" style="height: 150px; width: auto;" alt="Vivid"></a>
+ </td>
+
+  <td align=center>
+  <h3><a href="https://github.com/3dcoded/3ms">3MS</a></h3> <!-- 3MS Logo https://github.com/3DCoded/3MS/blob/main/logo.png -->
+  <a href="https://github.com/3dcoded/3ms"> 
+  <img src="https://media.printables.com/media/prints/1108644/images/9216280_de984a65-3c50-48c9-8b65-210f846f8b18_b5b7545c-3eb9-4bc8-a6c5-dec8cb7aa465/thumbs/inside/1280x960/png/screenshot-2025-03-14-at-72728-am.webp" style="height: 150px; width: auto;" alt="3MS"></a>
+ </td>
+
+  <td align=center>
+  <h3><a href="https://github.com/lhndo/LH-Stinger/wiki/Pico-MMU">PicoMMU</a></h3>
+  <a href="https://github.com/lhndo/LH-Stinger/wiki/Pico-MMU"> 
+  <img src="https://github.com/lhndo/LH-Stinger/raw/main/User_Mods/MMU/Stinger%20Pico%20MMU%20-%20@LH/Assets/lhs_pico_mmu.png?raw=true" style="height: 150px; width: auto;" alt="3MS"></a>
+ </td>
+</tr>
+</table>
  
 <!--## ToolChanger-->
 <h2 align="center">2. ToolChanger [TC]</h2>
 
 <table align=center>
+  <th colspan="3" align=center>
+  <h3><a href="https://github.com/viesturz/klipper-toolchanger"> => Klipper ToolChanger <= </a> & <a href="https://github.com/jwellman80/klipper-toolchanger-easy"> => Easy-Version <= </a></h3>
+ </th>
+   
 <tr>
  <td align=center>
   <h3><a href="https://github.com/DraftShift"> DraftShift Design</a><a href="https://github.com/DraftShift"><img src="https://github.com/hdgreef/Riton-Github/blob/main/docs/images/dsd_logo.png" style="height: 50px; width: auto;" alt="DraftShift"></a></h3>
@@ -525,12 +583,6 @@
   <h3><a href="https://github.com/BondtechAB/INDX">INDX</a></h3>
   <a href="https://github.com/BondtechAB/INDX"> 
   <img src="https://tse4.mm.bing.net/th/id/OIP.UfNB6ZmGbUi8fhNlAUxULgHaE8?pid=Api" style="height: 150px; width: auto;" alt="INDX"></a>
- </td>
-</tr>
- 
-<tr>
- <td align=center> 
-  <h3><a href="https://github.com/viesturz/klipper-toolchanger">Klipper ToolChanger</a></h3>
  </td>
 </tr>
 </table>
