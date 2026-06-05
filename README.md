@@ -1,7 +1,7 @@
 <!-- # Riton-Github <!-- First-level heading --> <!-- TO COMMENT --> 
 <h1 align=center>Screepton</h1>
 
-> Screepton + CheatSheet of ReadMe layout + Github organization   <!-- to quote line -->
+> Screepton : 3D Printing Knowledge Repo   <!-- to quote line -->
 
 <p align=center><img src=https://github.com/hdgreef/Riton-Github/blob/main/docs/images/Logo.png alt='Screepton' width='30%'></p>
    <!-- ![Screepton](./docs/images/Logo.png) -->
@@ -485,7 +485,7 @@
 
 ---
 
-<details open>  <!-- to collapsed menu, add open to detail to leave it open -->
+<details >  <!-- to collapsed menu, add open to detail to leave it open -->
 <summary>3D Print - Advanced</summary>
 
 <!--## MMU-->
