@@ -569,7 +569,7 @@
    
 <tr>
  <td align=center>
-  <h3><a href="https://github.com/DraftShift"> DraftShift Design</a><a href="https://github.com/DraftShift"><img src="https://github.com/hdgreef/Riton-Github/blob/main/docs/images/dsd_logo.png" style="height: 50px; width: auto;" alt="DraftShift"></a></h3>
+  <h3><img src="https://github.com/hdgreef/Riton-Github/blob/main/docs/images/dsd_logo.png" style="height: 40px; width: auto;" alt="DraftShift"></a><a href="https://github.com/DraftShift"> DraftShift Design</a><a href="https://github.com/DraftShift"><img src="https://github.com/hdgreef/Riton-Github/blob/main/docs/images/dsd_logo.png" style="height: 40px; width: auto;" alt="DraftShift"></a></h3>
    <a><img src="https://raw.githubusercontent.com/DraftShift/StealthChanger/refs/heads/main/media/docking.gif" style="height: 150px; width: auto;" alt="DraftShift"></a>
  </td>
 
