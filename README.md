@@ -179,7 +179,7 @@
  </td>
  </tr>
  
-  <th colspan="3">
+  <th colspan="3" align=center>
   <a href="https://github.com/Armchair-Heavy-Industries/Archetype/tree/main"> 
   <img src="https://github.com/Armchair-Heavy-Industries/Archetype/blob/main/archetype-options.png" style="height: 250px; width: auto;" alt="Archetype"></a>
  </th>
@@ -325,6 +325,35 @@
 
 <td></td>
 </tr>  
+</table>
+
+<!--## Filter-->
+<h2 align="center">6. Filter</h2>
+
+<table align=center>
+  <th colspan="3" align=center>
+  <h3><a href="https://github.com/nevermore3d/Reseller">=> Carbon & Scorch Reseller <=</a></h3>
+ </th>
+
+<tr>
+  <td align=center>
+  <h3><a href="https://github.com/nevermore3d/Stealthmax_V2">Nevermore StealthMax</a></h3>
+  <a href="https://github.com/nevermore3d/Stealthmax_V2"> 
+  <img src="https://github.com/nevermore3d/Stealthmax_V2/raw/main/Printable_Files/Stealthmax_V2.png" style="height: 150px; width: auto;" alt="StealthMax"></a>
+ </td>
+
+  <td align=center>
+  <h3><a href="https://github.com/nateb16/VoronUsers/tree/master/printer_mods/nateb16/THE_FILTER">The Filter</a></h3>
+  <a href="https://github.com/nateb16/VoronUsers/tree/master/printer_mods/nateb16/THE_FILTER"> 
+  <img src="https://user-images.githubusercontent.com/40711977/209454815-31620e40-b737-480e-9517-0e5cd400e496.PNG" style="height: 150px; width: auto;" alt="TheFilter"></a>
+ </td>
+
+   <td align=center>
+  <h3><a href="https://github.com/Monolith3D/Monolith_Bed_Fans">Monolith Bed Fans</a></h3>
+  <a href="https://github.com/Monolith3D/Monolith_Bed_Fans"> 
+  <img src="https://github.com/Monolith3D/Monolith_Bed_Fans/raw/main/Images/MBF_top.png" style="height: 150px; width: auto;" alt="Monolith BedFan"></a>
+ </td>
+</tr>
 </table>
 </details>
 
@@ -597,13 +626,6 @@
 [MiniBFI]
 
 [Z Joint]
-
-<!--## Filter-->
-<h2 align="center">Filter</h2>
-
-[Nevermore](https://github.com/nevermore3d)
-
-[TheFilter](https://github.com/nateb16/VoronUsers/tree/master/printer_mods/nateb16/THE_FILTER)
 
 </details>
 
