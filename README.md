@@ -586,6 +586,16 @@
   <img src="https://github.com/lhndo/LH-Stinger/raw/main/User_Mods/MMU/Stinger%20Pico%20MMU%20-%20@LH/Assets/lhs_pico_mmu.png?raw=true" style="height: 150px; width: auto;" alt="3MS"></a>
  </td>
 </tr>
+
+<tr>
+   <td></td>
+   
+   <td align=center>
+   <h3><a href="https://github.com/OpenAMSOrg/openams_cli">OpenAMS</a></h3>
+   </td>
+
+   <td></td>
+</tr>
 </table>
  
 <!--## ToolChanger-->
@@ -665,14 +675,7 @@ python code
 - [ ] Task 2 can be URL
 - [X] Task DONE (+emoji :tada:) <!-- Emoji Cheat Sheet : https://gist.github.com/roachhd/1f029bd4b50b8a524f3c -->
 
-</details>
-
 ---
-
-<details>
-
-<summary>Links & Images </summary>
-
 
 ## Links & Images
 
