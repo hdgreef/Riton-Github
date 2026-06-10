@@ -619,10 +619,22 @@
  </td>
 
   <td align=center>
+  <h3><a href="https://github.com/srinn/quindec-toolchanger/tree/main">Quindec</a></h3>
+  <a href="https://github.com/srinn/quindec-toolchanger/tree/main"> 
+  <img src="https://github.com/srinn/quindec-toolchanger/blob/main/pics/preview.jpg" style="height: 150px; width: auto;" alt="Quindec"></a>
+ </td>
+</tr>
+
+<tr>
+   <td></td>
+   
+  <td align=center>
   <h3><a href="https://github.com/BondtechAB/INDX">INDX</a></h3>
   <a href="https://github.com/BondtechAB/INDX"> 
   <img src="https://tse4.mm.bing.net/th/id/OIP.UfNB6ZmGbUi8fhNlAUxULgHaE8?pid=Api" style="height: 150px; width: auto;" alt="INDX"></a>
  </td>
+
+ <td></td>
 </tr>
 </table>
 
@@ -636,6 +648,50 @@
 [MiniBFI]
 
 [Z Joint]
+
+[VoronPedia](https://github.com/LegionPleingaz/Voronpedia/tree/main)
+
+[Glossaire](https://github.com/LegionPleingaz/Voronpedia/blob/main/before-we-start/glossary.md)
+
+[Bed](https://github.com/LegionPleingaz/Voronpedia/blob/main/mechanical/bed.md)
+
+[Bed Kinematic upgrade](https://github.com/tanaes/whopping_Voron_mods/blob/main/kinematic_bed/README_v2_assembly.md)
+
+[AB Drives](https://github.com/LegionPleingaz/Voronpedia/blob/main/mechanical/drives-a-b-awd.md)
+
+[Front Idlers](https://github.com/LegionPleingaz/Voronpedia/blob/main/mechanical/front-idlers.md)
+
+[Gantry](https://github.com/LegionPleingaz/Voronpedia/blob/main/mechanical/gantry.md)
+
+[X-Y Backers](https://github.com/VoronDesign/VoronUsers/tree/main/printer_mods/whoppingpochard/extrusion_backers)
+
+[Panels](https://github.com/LegionPleingaz/Voronpedia/blob/main/mechanical/panels.md)
+
+[Z](https://github.com/LegionPleingaz/Voronpedia/blob/main/mechanical/z-axis.md)
+
+[Crownest](https://github.com/LegionPleingaz/Voronpedia/blob/main/software/crowsnest.md)
+
+[Software Guide](https://github.com/LegionPleingaz/Voronpedia/blob/main/software/software.md)
+
+[Basics HW](https://github.com/LegionPleingaz/Voronpedia/blob/main/sourcing/hardware.md)
+
+[Suppliers](https://github.com/LegionPleingaz/Voronpedia/blob/main/sourcing/suppliers.md)
+
+[Cooling](https://github.com/LegionPleingaz/Voronpedia/blob/main/thermal/cooling.md)
+
+[MCU](https://github.com/LegionPleingaz/Voronpedia/blob/main/electro/motherboards.md)
+
+[FYSETC Catalyst MCU](https://github.com/FYSETC/Catalyst_Kit)
+
+[FYSETC Cheetah V3?0](https://github.com/FYSETC/Cheetah_V3.0)
+
+[CAN Bus](https://github.com/LegionPleingaz/Voronpedia/blob/main/electro/cans.md)
+
+[TopHat Exhaust](https://www.printables.com/model/1739202-voron-printed-tophat-exhaust)
+
+[EVENMore](https://www.printables.com/model/964701-evenmore-bed-fans-with-style?lang=fr)
+
+[Screen](https://github.com/LegionPleingaz/Voronpedia/blob/main/screen.md)
 
 </details>
 
