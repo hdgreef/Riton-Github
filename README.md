@@ -6,14 +6,14 @@
 <p align=center><img src=https://github.com/hdgreef/Riton-Github/blob/main/docs/images/Logo.png alt='Screepton' width='30%'></p>
    <!-- ![Screepton](./docs/images/Logo.png) -->
 
-<details> <summary><h2>Common HardWare</h2></summary>
+<details> <summary><h2>1. Common V2.4 HardWare</h2></summary>
 
 ---
 
- <details> <summary><h3>Common Electronics</h3></summary>
+ <details> <summary><h3>1. Electronics</h3></summary>
 
 <!--## MCU-->
-<h2 align="center">1. MotherBoard</h2>
+<details> <summary align=center><h3>1. MotherBoard</h3></summary>
 
 <table align=center>
 <th colspan="3">
@@ -79,10 +79,10 @@
    <img src="https://raw.githubusercontent.com/MotorDynamicsLab/Leviathan/refs/heads/master/Media/product_img_web2.avif" style="height: 150px; width: auto;" alt="Leviathan"></a>
  </td> 
 </tr>
-</table>
+</table> </details>
 
 <!--## RPi-->
-<h2 align="center">2. RPi</h2>
+<details> <summary align=center><h3>2. RPi</h3></summary>
 
 <table align=center>
   <tr>
@@ -109,15 +109,13 @@
   <a href="https://global.bttwiki.com/CB2.html">
   <img src="https://global.bttwiki.com/img/CB2/CB2_Title.webp" style="height: 150px; width: auto;" alt="BTT CB2"></a>
   </td> 
- </tr>
- </table>
- </details>
+ </tr> </table> </details> </details>
 
 
- <details> <summary><h3>PrintHeads</h3></summary>
+ <details> <summary><h3>2. PrintHeads</h3></summary>
 
 <!--## ToolHeads (TH) & Extruder-->
-<h2 align="center">1. ToolHeads [TH]</h2>
+<details> <summary align=center><h3>1. ToolHeads [TH]</h3></summary>
 
 <table align=center> 
  <th colspan="3">
@@ -188,10 +186,10 @@
   <a href="https://github.com/Armchair-Heavy-Industries/Archetype/tree/main"> 
   <img src="https://github.com/Armchair-Heavy-Industries/Archetype/blob/main/archetype-options.png" style="height: 250px; width: auto;" alt="Archetype"></a>
  </th>
-</table>
+</table> </details>
 
 <!--## Extruder-->
-<h2 align=center>2. Extruder</h2>
+<details> <summary align=center><h3>2. Extruder</h3></summary>
 
 <table align=center>
   <th colspan="3">
@@ -256,20 +254,19 @@
     <a href="https://github.com/abigexplosion/WATERHWEEL-EXTRUDER/tree/main"> 
    <img src="https://github.com/hdgreef/Riton-Github/blob/main/docs/images/WWExtruder.png" style="height: 150px; width: auto;" alt="WWE"></a>
  </td>
-</tr>
-</table>
+</tr> </table> </details>
 
 <!--## Hotend-->
-<h2 align=center>3. Hotend</h2>
+<details> <summary align=center><h3>3. Hotend</h3></summary>
 
 <table align=center>
   <th colspan="3" align=center>
   <h3><a href="https://github.com/SartorialGrunt0/Awesome-Hotends">=> Awesome Hotends List<=</a></h3>
  </th>
-</table>
+</table> </details>
 
  <!--## ToolHead Board-->
-<h2 align=center>4. Toolhead Board</h2>
+ <details> <summary align=center><h3>4. Toolhead Boards</h3></summary>
 
 <table align=center>
   <th colspan="4">
@@ -328,45 +325,19 @@
  </td>
 
 <td></td>
-</tr> </table> </details>
-
-
-<details> <summary><h3>Electro-Mechanical</h3></summary>
-   
-<!--## Filter-->
-<h2 align="center">7. Filter</h2>
-
-<table align=center>
-  <th colspan="3" align=center>
-  <h3><a href="https://github.com/nevermore3d/Reseller">=> Carbon & Scorch Reseller <=</a></h3>
- </th>
-
-<tr>
-  <td align=center>
-  <h3><a href="https://github.com/nevermore3d/Stealthmax_V2">Nevermore StealthMax</a></h3>
-  <a href="https://github.com/nevermore3d/Stealthmax_V2"> 
-  <img src="https://github.com/nevermore3d/Stealthmax_V2/raw/main/Printable_Files/Stealthmax_V2.png" style="height: 150px; width: auto;" alt="StealthMax"></a>
- </td>
-
-  <td align=center>
-  <h3><a href="https://github.com/nateb16/VoronUsers/tree/master/printer_mods/nateb16/THE_FILTER">The Filter</a></h3>
-  <a href="https://github.com/nateb16/VoronUsers/tree/master/printer_mods/nateb16/THE_FILTER"> 
-  <img src="https://user-images.githubusercontent.com/40711977/209454815-31620e40-b737-480e-9517-0e5cd400e496.PNG" style="height: 150px; width: auto;" alt="TheFilter"></a>
- </td>
-
-   <td align=center>
-  <h3><a href="https://github.com/Monolith3D/Monolith_Bed_Fans">Monolith Bed Fans</a></h3>
-  <a href="https://github.com/Monolith3D/Monolith_Bed_Fans"> 
-  <img src="https://github.com/Monolith3D/Monolith_Bed_Fans/raw/main/Images/MBF_top.png" style="height: 150px; width: auto;" alt="Monolith BedFan"></a>
- </td>
 </tr> </table> </details> </details>
+
+
+<details> <summary><h3>3. Electro & Mechanical</h3></summary>
+   
+</details> </details>
 
 ---
 
-<details> <summary><h2>SoftWare & Tuning</h2></summary>
+<details> <summary><h2>2. SoftWare & Tuning</h2></summary>
 
-<!--## Klipper-->
-<h2 align=center>1. Klipper Base</h2>
+<!--## Firmware-->
+<details> <summary align=center><h3>1. Printer Firmware</h3></summary>
 
 <table align=center>
 <tr>
@@ -407,11 +378,11 @@
   <a href="https://github.com/Duet3D/RepRapFirmware"> 
   <img src="https://github.com/hdgreef/Riton-Github/blob/main/docs/images/Duet3D_Logo.png" style="height: 150px; width: auto;" alt="RepRap Firmware"></a>
  </td>
-</tr> 
-</table>
+</tr> </table> </details>
 
 <!--## MCU & RPi -->
-<h2 align=center>2. MCU & RPi</h2>
+<details> <summary align=center><h3>2. MCU & RPi</h3></summary>
+   
 <table align=center>
 <tr>
  <td align=center>
@@ -435,6 +406,26 @@
 
 <tr>
  <td align=center>
+  <h3><a href="https://github.com/mainsail-crew/mainsail">Mainsail</a></h3>
+  <a href="https://github.com/mainsail-crew/mainsail"> 
+  <img src="https://raw.githubusercontent.com/mainsail-crew/docs/master/assets/img/logo.png" style="height: 150px; width: auto;" alt="Mainsail"></a>
+ </td>
+
+ <td align=center>
+  <p><h3><a href="https://github.com/fluidd-core/fluidd/tree/develop">Fluidd</a></h3></p>
+  <a href="https://github.com/fluidd-core/fluidd/tree/develop"> 
+  <img src="https://github.com/fluidd-core/fluidd/blob/develop/docs/docs/assets/images/fluidd_icon.svg" style="height: 150px; width: auto;" alt="Fluidd"></a>
+ </td>
+
+ <td align=center>
+  <h3><a href="https://github.com/Arksine/moonraker">Moonracker</a></h3>
+  <!-- <a href="https://github.com/Arksine/moonraker"> 
+ <img src="https://github.com/mainsail-crew/MainsailOS/blob/develop/.github/sdcard-logo.png" style="height: 150px; width: auto;" alt="Moonracker"></a> -->
+ </td>
+</tr>
+
+<tr>
+ <td align=center>
   <h3><a href="https://www.raspberrypi.com/software/">RPimager</a></h3>
   <a href="https://www.raspberrypi.com/software/"> 
   <img src="https://raw.githubusercontent.com/raspberrypi/rpi-imager/refs/heads/main/src/icons/rpi-imager.ico" style="height: 150px; width: auto;" alt="RPimager"></a>  
@@ -451,11 +442,10 @@
   <a href="https://putty.org/index.html"> 
   <img src="https://seeklogo.com/images/P/putty-logo-CD0A665CE0-seeklogo.com.png" style="height: 150px; width: auto;" alt="UKAM"></a>
 </td>
-</tr>
-</table>
+</tr> </table> </details>
 
 <!--## Slicer-->
-<h2 align=center>3. Slicer</h2>
+<details> <summary align=center><h3>3. Slicer</h3></summary>
 
 <table align=center>
 <tr>
@@ -496,11 +486,10 @@
   <a href="https://github.com/oozebot/preFlight"> 
   <img src="https://github.com/oozebot/preFlight/blob/main/images/preFlight.png" style="height: 150px; width: auto;" alt="preFlight"></a>
  </td>
-</tr>
-</table>
+</tr> </table> </details>
 
-<!--## Tuning & Klipper Add-On-->
-<h2 align="center">4. Print Tuning & Modificator</h2>
+<!--## STL Tuning-->
+<details> <summary align=center><h3>3. Tuning, Troubleshooting & STL Modificator</h3></summary>
 
 <table align=center>
 <tr>
@@ -510,18 +499,18 @@
  
  <td align=center> <h3><a href="https://github.com/andrewmcgr/klipper_tmc_autotune">TMC Autotune</a></h3></td>
 
+ <td align=center> <h3><a href="https://wiki.bambulab.com/en/x1/troubleshooting/nozzle-clog">Hotend Unclog</a></h3></td>
+
 <!--## Others-->
  <td align=center><h3><a href=https://github.com/CNCKitchen/stlTexturizer>Stl Texturizer</a></h3></td>
-</tr>
-</table>
-</details>
+</tr></table> </details> </details>
 
 ---
 
-<details > <summary><h2>Advanced Features</h2></summary>
+<details > <summary><h2>3. Advanced Features</h2></summary>
 
 <!--## MMU-->
-<h2 align="center">1. Multi Material Unit [MMU]</h2>
+<details> <summary align=center><h3>1. Multi-Material Unit [MMU]</h3></summary>
 
 <table align=center>
   <th colspan="3" align=center>
@@ -598,11 +587,10 @@
    </td>
 
    <td></td>
-</tr>
-</table>
+</tr> </table> </details>
  
 <!--## ToolChanger-->
-<h2 align="center">2. ToolChanger [TC]</h2>
+<details> <summary align=center><h3>2. ToolChanger [TC]</h3></summary>
 
 <table align=center>
   <th colspan="3" align=center>
@@ -638,11 +626,38 @@
  </td>
 
  <td></td>
-</tr>
-</table>
+</tr> </table> </details>
+
+<!--## Filter-->
+<details> <summary align=center><h3>3. Filter</h3></summary>
+
+<table align=center>
+  <th colspan="3" align=center>
+  <h3><a href="https://github.com/nevermore3d/Reseller">=> Carbon & Scorch Reseller <=</a></h3>
+ </th>
+
+<tr>
+  <td align=center>
+  <h3><a href="https://github.com/nevermore3d/Stealthmax_V2">Nevermore StealthMax</a></h3>
+  <a href="https://github.com/nevermore3d/Stealthmax_V2"> 
+  <img src="https://github.com/nevermore3d/Stealthmax_V2/raw/main/Printable_Files/Stealthmax_V2.png" style="height: 150px; width: auto;" alt="StealthMax"></a>
+ </td>
+
+  <td align=center>
+  <h3><a href="https://github.com/nateb16/VoronUsers/tree/master/printer_mods/nateb16/THE_FILTER">The Filter</a></h3>
+  <a href="https://github.com/nateb16/VoronUsers/tree/master/printer_mods/nateb16/THE_FILTER"> 
+  <img src="https://user-images.githubusercontent.com/40711977/209454815-31620e40-b737-480e-9517-0e5cd400e496.PNG" style="height: 150px; width: auto;" alt="TheFilter"></a>
+ </td>
+
+   <td align=center>
+  <h3><a href="https://github.com/Monolith3D/Monolith_Bed_Fans">Monolith Bed Fans</a></h3>
+  <a href="https://github.com/Monolith3D/Monolith_Bed_Fans"> 
+  <img src="https://github.com/Monolith3D/Monolith_Bed_Fans/raw/main/Images/MBF_top.png" style="height: 150px; width: auto;" alt="Monolith BedFan"></a>
+ </td>
+</tr> </table> </details>
 
 <!--## Mods-->
-<h2 align="center">3. Voron Mods</h2>
+<details> <summary align=center><h3>4. Voron Mods</h3></summary>
 
 ![VoronDesign Logo](./docs/images/voron_design_logo.png) [VoronUsers](https://github.com/VoronDesign/VoronUsers)
 
@@ -696,4 +711,4 @@
 
 [Screen](https://github.com/LegionPleingaz/Voronpedia/blob/main/screen.md)
 
-</details>
+</details> </details>
