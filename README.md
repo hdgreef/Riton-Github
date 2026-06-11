@@ -6,10 +6,12 @@
 <p align=center><img src=https://github.com/hdgreef/Riton-Github/blob/main/docs/images/Logo.png alt='Screepton' width='30%'></p>
    <!-- ![Screepton](./docs/images/Logo.png) -->
 
-<details>
+<details> <summary><h2>Common HardWare</h2></summary>
 
-<summary>3D Print - Common HW</summary>
- 
+---
+
+ <details> <summary><h3>Common Electronics</h3></summary>
+
 <!--## MCU-->
 <h2 align="center">1. MotherBoard</h2>
 
@@ -79,7 +81,6 @@
 </tr>
 </table>
 
-
 <!--## RPi-->
 <h2 align="center">2. RPi</h2>
 
@@ -110,9 +111,13 @@
   </td> 
  </tr>
  </table>
+ </details>
+
+
+ <details> <summary><h3>PrintHeads</h3></summary>
 
 <!--## ToolHeads (TH) & Extruder-->
-<h2 align="center">3. ToolHeads [TH]</h2>
+<h2 align="center">1. ToolHeads [TH]</h2>
 
 <table align=center> 
  <th colspan="3">
@@ -186,7 +191,7 @@
 </table>
 
 <!--## Extruder-->
-<h2 align=center>3. Extruder</h2>
+<h2 align=center>2. Extruder</h2>
 
 <table align=center>
   <th colspan="3">
@@ -255,16 +260,16 @@
 </table>
 
 <!--## Hotend-->
-<h2 align=center>4. Hotend</h2>
+<h2 align=center>3. Hotend</h2>
 
 <table align=center>
   <th colspan="3" align=center>
   <h3><a href="https://github.com/SartorialGrunt0/Awesome-Hotends">=> Awesome Hotends List<=</a></h3>
  </th>
 </table>
-   
+
  <!--## ToolHead Board-->
-<h2 align=center>5. Toolhead Board</h2>
+<h2 align=center>4. Toolhead Board</h2>
 
 <table align=center>
   <th colspan="4">
@@ -283,7 +288,6 @@
     <a href=" https://github.com/FYSETC/H36_Combo"> 
    <img src="https://stealthchanger.com/assets/tool_boards/h36_combo.png" style="height: 150px; width: auto;" alt="H36"></a>
  </td>
-
 
   <td align=center> 
   <h3><a href="https://mellow-3d.github.io/fly-sht36_v2_general.html">Fly STH-36 V2</a></h3>
@@ -324,11 +328,13 @@
  </td>
 
 <td></td>
-</tr>  
-</table>
+</tr> </table> </details>
 
+
+<details> <summary><h3>Electro-Mechanical</h3></summary>
+   
 <!--## Filter-->
-<h2 align="center">6. Filter</h2>
+<h2 align="center">7. Filter</h2>
 
 <table align=center>
   <th colspan="3" align=center>
@@ -353,13 +359,11 @@
   <a href="https://github.com/Monolith3D/Monolith_Bed_Fans"> 
   <img src="https://github.com/Monolith3D/Monolith_Bed_Fans/raw/main/Images/MBF_top.png" style="height: 150px; width: auto;" alt="Monolith BedFan"></a>
  </td>
-</tr>
-</table>
-</details>
+</tr> </table> </details> </details>
 
 ---
 
-<details> <summary>3D Print - SW & Tuning</summary>  <!-- to collapsed menu, add open to detail to leave it open -->
+<details> <summary><h2>SoftWare & Tuning</h2></summary>
 
 <!--## Klipper-->
 <h2 align=center>1. Klipper Base</h2>
@@ -403,7 +407,7 @@
   <a href="https://github.com/Duet3D/RepRapFirmware"> 
   <img src="https://github.com/hdgreef/Riton-Github/blob/main/docs/images/Duet3D_Logo.png" style="height: 150px; width: auto;" alt="RepRap Firmware"></a>
  </td>
-</tr>
+</tr> 
 </table>
 
 <!--## MCU & RPi -->
@@ -514,8 +518,7 @@
 
 ---
 
-<details >  <!-- to collapsed menu, add open to detail to leave it open -->
-<summary>3D Print - Advanced</summary>
+<details > <summary><h2>Advanced Features</h2></summary>
 
 <!--## MMU-->
 <h2 align="center">1. Multi Material Unit [MMU]</h2>
