@@ -6,7 +6,181 @@
 <p align=center><img src=https://github.com/hdgreef/Riton-Github/blob/main/docs/images/Logo.png alt='Screepton' width='30%'></p>
    <!-- ![Screepton](./docs/images/Logo.png) -->
 
-<details> <summary><h2>1. Common V2.4 HardWare</h2></summary>
+
+<details> <summary><h2>1. SoftWare & Tuning</h2></summary>
+
+<!--## Firmware-->
+<details> <summary align=center><h3>1. Printer Firmware</h3></summary>
+
+<table align=center>
+<tr>
+ <td align=center>
+  <p><h3><a href="https://github.com/Klipper3d/klipper">Klipper</a></h3></p>
+  <a href="https://github.com/Klipper3d/klipper"> 
+  <img src="https://github.com/Klipper3d/klipper/blob/master/docs/img/klipper-logo.png" style="height: 150px; width: auto;" alt="Klipper"></a>
+ </td>
+
+ <td align=center>
+  <p><h3><a href="https://github.com/Frix-x/klippain">Klippain</a> & <a href="https://github.com/elpopo-eng/klippain-chocolate">Klippain-🍫</a></h3></p>
+  <a href="https://github.com/Frix-x/klippain"> 
+  <img src="https://github.com/Frix-x/klippain/blob/main/docs/klippain.png" style="height: 150px; width: auto;" alt="Klippain"></a>
+ </td>
+
+<td align=center>
+  <p> <h3> <a href="https://github.com/KalicoCrew/kalico">Kalico</a></h3></p>
+  <a href="https://github.com/Frix-x/klippain"> 
+  <img src="https://github.com/KalicoCrew/kalico/blob/main/docs/logo/kalico-big.png" style="height: 150px; width: auto;" alt="Kalico"></a>
+ </td>
+</tr>
+
+<tr>
+ <td align=center>
+  <p><h3><a href="https://github.com/MarlinFirmware/Marlin">Marlin</a></h3></p>
+  <a href="https://github.com/MarlinFirmware/Marlin"> 
+  <img src="https://github.com/MarlinFirmware/Marlin/blob/bugfix-2.1.x/buildroot/share/pixmaps/logo/marlin-outrun-nf-500.png" style="height: 150px; width: auto;" alt="Marlin"></a>
+ </td>
+
+ <td align=center>
+  <p><h3><a href="https://doctor-klipper.clmntw.fr/">Doctor-Klipper</a></h3></p>
+  <a href="https://doctor-klipper.clmntw.fr/"> 
+  <img src="https://github.com/hdgreef/Riton-Github/blob/main/docs/images/logo.svg" style="height: 150px; width: auto;" alt="DoctorKlipper"></a>
+ </td>
+
+  <td align=center>
+  <p><h3><a href="https://github.com/Duet3D/RepRapFirmware">Duet3D - RepRap</a></h3></p>
+  <a href="https://github.com/Duet3D/RepRapFirmware"> 
+  <img src="https://github.com/hdgreef/Riton-Github/blob/main/docs/images/Duet3D_Logo.png" style="height: 150px; width: auto;" alt="RepRap Firmware"></a>
+ </td>
+</tr> </table> </details>
+
+<!--## MCU & RPi -->
+<details> <summary align=center><h3>2. MCU & RPi</h3></summary>
+   
+<table align=center>
+<tr>
+ <td align=center>
+  <h3><a href="https://github.com/dw-0/kiauh">KIAUH</a></h3>
+  <a href="https://github.com/dw-0/kiauh"> 
+  <img src="https://github.com/dw-0/kiauh/blob/master/docs/assets/logo-large.png" style="height: 150px; width: auto;" alt="KIAUH"></a>
+ </td>
+
+ <td align=center>
+  <p><h3><a href="https://canbus.esoterical.online/">Esoterical CAN Bus Guide</a></h3></p>
+  <a href="https://canbus.esoterical.online/"> 
+  <img src="https://github.com/Esoterical/voron_canbus/blob/main/assets/esoterical-logo.png" style="height: 150px; width: auto;" alt="Esoterical CAN Bus Guide"></a>
+ </td>
+
+ <td align=center>
+  <h3><a href="https://github.com/Extrutex/KATANA-Klipper-Installer">Katana</a></h3>
+  <a href="https://github.com/Extrutex/KATANA-Klipper-Installer"> 
+  <img src="https://github.com/Extrutex/KATANA-Klipper-Installer/blob/main/docs/images/logo.png" style="height: 150px; width: auto;" alt="Katana"></a>
+ </td>
+</tr>
+
+<tr>
+ <td align=center>
+  <h3><a href="https://github.com/mainsail-crew/mainsail">Mainsail</a></h3>
+  <a href="https://github.com/mainsail-crew/mainsail"> 
+  <img src="https://raw.githubusercontent.com/mainsail-crew/docs/master/assets/img/logo.png" style="height: 150px; width: auto;" alt="Mainsail"></a>
+ </td>
+
+ <td align=center>
+  <p><h3><a href="https://github.com/fluidd-core/fluidd/tree/develop">Fluidd</a></h3></p>
+  <a href="https://github.com/fluidd-core/fluidd/tree/develop"> 
+  <img src="https://github.com/fluidd-core/fluidd/blob/develop/docs/docs/assets/images/fluidd_icon.svg" style="height: 150px; width: auto;" alt="Fluidd"></a>
+ </td>
+
+ <td align=center>
+  <h3><a href="https://github.com/Arksine/moonraker">Moonracker</a></h3>
+  <!-- <a href="https://github.com/Arksine/moonraker"> 
+ <img src="https://github.com/mainsail-crew/MainsailOS/blob/develop/.github/sdcard-logo.png" style="height: 150px; width: auto;" alt="Moonracker"></a> -->
+ </td>
+</tr>
+
+<tr>
+ <td align=center>
+  <h3><a href="https://www.raspberrypi.com/software/">RPimager</a></h3>
+  <a href="https://www.raspberrypi.com/software/"> 
+  <img src="https://raw.githubusercontent.com/raspberrypi/rpi-imager/refs/heads/main/src/icons/rpi-imager.ico" style="height: 150px; width: auto;" alt="RPimager"></a>  
+ </td>
+
+ <td align=center>
+  <p><h3><a href="https://github.com/fbeauKmi/update_klipper_and_mcus/tree/main">UKAM</a></h3></p>
+  <a href="https://github.com/fbeauKmi/update_klipper_and_mcus/tree/main"> 
+  <img src="https://github.com/fbeauKmi/update_klipper_and_mcus/blob/main/images/banner.png" style="height: 150px; width: auto;" alt="UKAM"></a>
+ </td>
+
+<td align=center>
+   <p><h3><a href="https://putty.org/index.html">Putty</a></h3></p>
+  <a href="https://putty.org/index.html"> 
+  <img src="https://seeklogo.com/images/P/putty-logo-CD0A665CE0-seeklogo.com.png" style="height: 150px; width: auto;" alt="UKAM"></a>
+</td>
+</tr> </table> </details>
+
+<!--## Slicer-->
+<details> <summary align=center><h3>3. Slicer</h3></summary>
+
+<table align=center>
+<tr>
+ <td align=center>
+  <p><h3><a href="https://github.com/supermerill/SuperSlicer">SuperSlicer</a></h3></p>
+  <a href=https://github.com/supermerill/SuperSlicer> 
+  <img src=https://github.com/supermerill/SuperSlicer/blob/master_27/resources/icons/SuperSlicer.png style="height: 150px; width: auto;" target=_blank alt="Susie"></a>
+ </td>
+
+ <td align=center>
+  <p><h3><a href="https://github.com/OrcaSlicer/OrcaSlicer">OrcaSlicer</a></h3></p>
+  <a href="https://github.com/OrcaSlicer/OrcaSlicer"> 
+  <img src="https://github.com/OrcaSlicer/OrcaSlicer/blob/main/resources/images/OrcaSlicer.png" style="height: 150px; width: auto;" alt="OrcaSlicer"></a>
+ </td>
+
+<td align=center>
+  <p><h3><a href="https://github.com/Ultimaker/Cura/tree/main">Cura</a></h3></p>
+  <a href="https://github.com/Ultimaker/Cura/tree/main"> 
+  <img src="https://github.com/Ultimaker/Cura/blob/main/resources/images/cura-icon.png" style="height: 150px; width: auto;" alt="Cura"></a>
+ </td>
+</tr>
+
+<tr>
+<td align=center>
+  <p><h3><a href="https://github.com/prusa3d/PrusaSlicer">PrusaSlicer</a></h3></p>
+  <a href="https://github.com/prusa3d/PrusaSlicer"> 
+  <img src="https://github.com/prusa3d/PrusaSlicer/blob/master/resources/icons/PrusaSlicer.png" style="height: 150px; width: auto;" alt="PrusaSlicer"></a>
+ </td>
+
+<td align=center>
+  <p><h3><a href="https://github.com/slic3r/Slic3r">Slic3r</a></h3></p>
+  <a href="https://github.com/slic3r/Slic3r"> 
+  <img src="https://github.com/slic3r/Slic3r/blob/master/var/Slic3r.png" style="height: 150px; width: auto;" alt="Slic3r"></a>
+ </td>
+ 
+<td align=center>
+  <p><h3><a href="https://github.com/oozebot/preFlight">preFlight</a></h3></p>
+  <a href="https://github.com/oozebot/preFlight"> 
+  <img src="https://github.com/oozebot/preFlight/blob/main/images/preFlight.png" style="height: 150px; width: auto;" alt="preFlight"></a>
+ </td>
+</tr> </table> </details>
+
+<!--## STL Tuning-->
+<details> <summary align=center><h3>4. Tuning, Troubleshooting & STL Modificator</h3></summary>
+
+<table align=center>
+<tr>
+ <td align=center><h3><a href=https://github.com/AndrewEllis93/Print-Tuning-Guide>Ellis Print Tuning Guide</a></h3></td>
+ 
+ <td align=center><h3><a href="https://github.com/Frix-x/klippain-shaketune">Shake & Tune</a></h3></td>
+ 
+ <td align=center> <h3><a href="https://github.com/andrewmcgr/klipper_tmc_autotune">TMC Autotune</a></h3></td>
+
+ <td align=center> <h3><a href="https://wiki.bambulab.com/en/x1/troubleshooting/nozzle-clog">Hotend Unclog</a></h3></td>
+
+<!--## Others-->
+ <td align=center><h3><a href=https://github.com/CNCKitchen/stlTexturizer>Stl Texturizer</a></h3></td>
+</tr></table> </details> </details>
+
+---
+
+<details> <summary><h2>2. Common V2.4 HardWare</h2></summary>
 
 ---
 
@@ -329,181 +503,10 @@
 
 
 <details> <summary><h3>3. Electro & Mechanical</h3></summary>
+
+
    
 </details> </details>
-
----
-
-<details> <summary><h2>2. SoftWare & Tuning</h2></summary>
-
-<!--## Firmware-->
-<details> <summary align=center><h3>1. Printer Firmware</h3></summary>
-
-<table align=center>
-<tr>
- <td align=center>
-  <p><h3><a href="https://github.com/Klipper3d/klipper">Klipper</a></h3></p>
-  <a href="https://github.com/Klipper3d/klipper"> 
-  <img src="https://github.com/Klipper3d/klipper/blob/master/docs/img/klipper-logo.png" style="height: 150px; width: auto;" alt="Klipper"></a>
- </td>
-
- <td align=center>
-  <p><h3><a href="https://github.com/Frix-x/klippain">Klippain</a> & <a href="https://github.com/elpopo-eng/klippain-chocolate">Klippain-🍫</a></h3></p>
-  <a href="https://github.com/Frix-x/klippain"> 
-  <img src="https://github.com/Frix-x/klippain/blob/main/docs/klippain.png" style="height: 150px; width: auto;" alt="Klippain"></a>
- </td>
-
-<td align=center>
-  <p> <h3> <a href="https://github.com/KalicoCrew/kalico">Kalico</a></h3></p>
-  <a href="https://github.com/Frix-x/klippain"> 
-  <img src="https://github.com/KalicoCrew/kalico/blob/main/docs/logo/kalico-big.png" style="height: 150px; width: auto;" alt="Kalico"></a>
- </td>
-</tr>
-
-<tr>
- <td align=center>
-  <p><h3><a href="https://github.com/MarlinFirmware/Marlin">Marlin</a></h3></p>
-  <a href="https://github.com/MarlinFirmware/Marlin"> 
-  <img src="https://github.com/MarlinFirmware/Marlin/blob/bugfix-2.1.x/buildroot/share/pixmaps/logo/marlin-outrun-nf-500.png" style="height: 150px; width: auto;" alt="Marlin"></a>
- </td>
-
- <td align=center>
-  <p><h3><a href="https://doctor-klipper.clmntw.fr/">Doctor-Klipper</a></h3></p>
-  <a href="https://doctor-klipper.clmntw.fr/"> 
-  <img src="https://github.com/hdgreef/Riton-Github/blob/main/docs/images/logo.svg" style="height: 150px; width: auto;" alt="DoctorKlipper"></a>
- </td>
-
-  <td align=center>
-  <p><h3><a href="https://github.com/Duet3D/RepRapFirmware">Duet3D - RepRap</a></h3></p>
-  <a href="https://github.com/Duet3D/RepRapFirmware"> 
-  <img src="https://github.com/hdgreef/Riton-Github/blob/main/docs/images/Duet3D_Logo.png" style="height: 150px; width: auto;" alt="RepRap Firmware"></a>
- </td>
-</tr> </table> </details>
-
-<!--## MCU & RPi -->
-<details> <summary align=center><h3>2. MCU & RPi</h3></summary>
-   
-<table align=center>
-<tr>
- <td align=center>
-  <h3><a href="https://github.com/dw-0/kiauh">KIAUH</a></h3>
-  <a href="https://github.com/dw-0/kiauh"> 
-  <img src="https://github.com/dw-0/kiauh/blob/master/docs/assets/logo-large.png" style="height: 150px; width: auto;" alt="KIAUH"></a>
- </td>
-
- <td align=center>
-  <p><h3><a href="https://canbus.esoterical.online/">Esoterical CAN Bus Guide</a></h3></p>
-  <a href="https://canbus.esoterical.online/"> 
-  <img src="https://github.com/Esoterical/voron_canbus/blob/main/assets/esoterical-logo.png" style="height: 150px; width: auto;" alt="Esoterical CAN Bus Guide"></a>
- </td>
-
- <td align=center>
-  <h3><a href="https://github.com/Extrutex/KATANA-Klipper-Installer">Katana</a></h3>
-  <a href="https://github.com/Extrutex/KATANA-Klipper-Installer"> 
-  <img src="https://github.com/Extrutex/KATANA-Klipper-Installer/blob/main/docs/images/logo.png" style="height: 150px; width: auto;" alt="Katana"></a>
- </td>
-</tr>
-
-<tr>
- <td align=center>
-  <h3><a href="https://github.com/mainsail-crew/mainsail">Mainsail</a></h3>
-  <a href="https://github.com/mainsail-crew/mainsail"> 
-  <img src="https://raw.githubusercontent.com/mainsail-crew/docs/master/assets/img/logo.png" style="height: 150px; width: auto;" alt="Mainsail"></a>
- </td>
-
- <td align=center>
-  <p><h3><a href="https://github.com/fluidd-core/fluidd/tree/develop">Fluidd</a></h3></p>
-  <a href="https://github.com/fluidd-core/fluidd/tree/develop"> 
-  <img src="https://github.com/fluidd-core/fluidd/blob/develop/docs/docs/assets/images/fluidd_icon.svg" style="height: 150px; width: auto;" alt="Fluidd"></a>
- </td>
-
- <td align=center>
-  <h3><a href="https://github.com/Arksine/moonraker">Moonracker</a></h3>
-  <!-- <a href="https://github.com/Arksine/moonraker"> 
- <img src="https://github.com/mainsail-crew/MainsailOS/blob/develop/.github/sdcard-logo.png" style="height: 150px; width: auto;" alt="Moonracker"></a> -->
- </td>
-</tr>
-
-<tr>
- <td align=center>
-  <h3><a href="https://www.raspberrypi.com/software/">RPimager</a></h3>
-  <a href="https://www.raspberrypi.com/software/"> 
-  <img src="https://raw.githubusercontent.com/raspberrypi/rpi-imager/refs/heads/main/src/icons/rpi-imager.ico" style="height: 150px; width: auto;" alt="RPimager"></a>  
- </td>
-
- <td align=center>
-  <p><h3><a href="https://github.com/fbeauKmi/update_klipper_and_mcus/tree/main">UKAM</a></h3></p>
-  <a href="https://github.com/fbeauKmi/update_klipper_and_mcus/tree/main"> 
-  <img src="https://github.com/fbeauKmi/update_klipper_and_mcus/blob/main/images/banner.png" style="height: 150px; width: auto;" alt="UKAM"></a>
- </td>
-
-<td align=center>
-   <p><h3><a href="https://putty.org/index.html">Putty</a></h3></p>
-  <a href="https://putty.org/index.html"> 
-  <img src="https://seeklogo.com/images/P/putty-logo-CD0A665CE0-seeklogo.com.png" style="height: 150px; width: auto;" alt="UKAM"></a>
-</td>
-</tr> </table> </details>
-
-<!--## Slicer-->
-<details> <summary align=center><h3>3. Slicer</h3></summary>
-
-<table align=center>
-<tr>
- <td align=center>
-  <p><h3><a href="https://github.com/supermerill/SuperSlicer">SuperSlicer</a></h3></p>
-  <a href=https://github.com/supermerill/SuperSlicer> 
-  <img src=https://github.com/supermerill/SuperSlicer/blob/master_27/resources/icons/SuperSlicer.png style="height: 150px; width: auto;" target=_blank alt="Susie"></a>
- </td>
-
- <td align=center>
-  <p><h3><a href="https://github.com/OrcaSlicer/OrcaSlicer">OrcaSlicer</a></h3></p>
-  <a href="https://github.com/OrcaSlicer/OrcaSlicer"> 
-  <img src="https://github.com/OrcaSlicer/OrcaSlicer/blob/main/resources/images/OrcaSlicer.png" style="height: 150px; width: auto;" alt="OrcaSlicer"></a>
- </td>
-
-<td align=center>
-  <p><h3><a href="https://github.com/Ultimaker/Cura/tree/main">Cura</a></h3></p>
-  <a href="https://github.com/Ultimaker/Cura/tree/main"> 
-  <img src="https://github.com/Ultimaker/Cura/blob/main/resources/images/cura-icon.png" style="height: 150px; width: auto;" alt="Cura"></a>
- </td>
-</tr>
-
-<tr>
-<td align=center>
-  <p><h3><a href="https://github.com/prusa3d/PrusaSlicer">PrusaSlicer</a></h3></p>
-  <a href="https://github.com/prusa3d/PrusaSlicer"> 
-  <img src="https://github.com/prusa3d/PrusaSlicer/blob/master/resources/icons/PrusaSlicer.png" style="height: 150px; width: auto;" alt="PrusaSlicer"></a>
- </td>
-
-<td align=center>
-  <p><h3><a href="https://github.com/slic3r/Slic3r">Slic3r</a></h3></p>
-  <a href="https://github.com/slic3r/Slic3r"> 
-  <img src="https://github.com/slic3r/Slic3r/blob/master/var/Slic3r.png" style="height: 150px; width: auto;" alt="Slic3r"></a>
- </td>
- 
-<td align=center>
-  <p><h3><a href="https://github.com/oozebot/preFlight">preFlight</a></h3></p>
-  <a href="https://github.com/oozebot/preFlight"> 
-  <img src="https://github.com/oozebot/preFlight/blob/main/images/preFlight.png" style="height: 150px; width: auto;" alt="preFlight"></a>
- </td>
-</tr> </table> </details>
-
-<!--## STL Tuning-->
-<details> <summary align=center><h3>3. Tuning, Troubleshooting & STL Modificator</h3></summary>
-
-<table align=center>
-<tr>
- <td align=center><h3><a href=https://github.com/AndrewEllis93/Print-Tuning-Guide>Ellis Print Tuning Guide</a></h3></td>
- 
- <td align=center><h3><a href="https://github.com/Frix-x/klippain-shaketune">Shake & Tune</a></h3></td>
- 
- <td align=center> <h3><a href="https://github.com/andrewmcgr/klipper_tmc_autotune">TMC Autotune</a></h3></td>
-
- <td align=center> <h3><a href="https://wiki.bambulab.com/en/x1/troubleshooting/nozzle-clog">Hotend Unclog</a></h3></td>
-
-<!--## Others-->
- <td align=center><h3><a href=https://github.com/CNCKitchen/stlTexturizer>Stl Texturizer</a></h3></td>
-</tr></table> </details> </details>
 
 ---
 
@@ -521,7 +524,7 @@
      
  <tr>    
  <td align=center>
-  <h3><a href="https://github.com/Carrot-collective/ERCF_v3">Enraged Rabbit Collective [ERCF V3.0]</a></h3>
+  <h3><a href="https://github.com/Carrot-collective/ERCF_v3">Enraged Rabbit Collective [ERCF]</a></h3>
   <a href="https://github.com/Carrot-collective/ERCF_v3"> 
   <img src="https://github.com/Carrot-collective/ERCF_v3/blob/main/Assets/main_hero_v3.png" style="height: 150px; width: auto;" alt="ERCF"></a>
  </td>
@@ -553,7 +556,7 @@
  </td>
 
   <td align=center>
-  <h3><a href="https://github.com/mjonuschat/NightOwl">NightOwl [NO]</a></h3>
+  <h3><a href="https://github.com/mjonuschat/NightOwl">NightOwl</a></h3>
   <a href="https://github.com/mjonuschat/NightOwl"> 
   <img src="https://github.com/mjonuschat/NightOwl/raw/main/Images/nightowl-render.png" style="height: 150px; width: auto;" alt="NO"></a>
  </td>
@@ -567,9 +570,9 @@
  </td>
 
   <td align=center>
-  <h3><a href="https://github.com/3dcoded/3ms">3MS</a></h3> <!-- 3MS Logo https://github.com/3DCoded/3MS/blob/main/logo.png -->
-  <a href="https://github.com/3dcoded/3ms"> 
-  <img src="https://media.printables.com/media/prints/1108644/images/9216280_de984a65-3c50-48c9-8b65-210f846f8b18_b5b7545c-3eb9-4bc8-a6c5-dec8cb7aa465/thumbs/inside/1280x960/png/screenshot-2025-03-14-at-72728-am.webp" style="height: 150px; width: auto;" alt="3MS"></a>
+  <h3><a href="https://www.printables.com/model/1592898-low-rider-mmu-v20-for-any-klipper-printer">Low-Rider</a></h3>
+  <a href="https://www.printables.com/model/1592898-low-rider-mmu-v20-for-any-klipper-printer"> 
+  <img src="https://media.printables.com//media/prints/1592898/rich_content/007dc52c-9c8c-47b0-8be1-af921bd3dadd/thumbs/inside/1280x960/jpeg/pic1a.webp" style="height: 150px; width: auto;" alt="LowRider"></a>
  </td>
 
   <td align=center>
@@ -580,13 +583,41 @@
 </tr>
 
 <tr>
-   <td></td>
-   
-   <td align=center>
-   <h3><a href="https://github.com/OpenAMSOrg/openams_cli">OpenAMS</a></h3>
+  <td align=center>
+  <h3><a href="https://www.printables.com/model/1181017-mmx-multi-material-extruder-exclusive-final-releas/comments">MMX</a></h3>
+  <a href="https://www.printables.com/model/1181017-mmx-multi-material-extruder-exclusive-final-releas/comments"> 
+  <img src="https://media.printables.com/media/prints/1181017/images/8883203_2236cacc-6c7f-4f36-9e19-7ff96e4ce458_444c3e4e-0f43-485c-bc4c-d332a7398b60/thumbs/inside/1280x960/png/screenshot-2025-02-06-235755.webp" style="height: 150px; width: auto;" alt="3MS"></a>
    </td>
 
-   <td></td>
+  <td align=center>
+  <h3><a href="https://github.com/3DCoded/3MS/tree/main">3MS</a></h3>
+  <a href="https://github.com/3DCoded/3MS/tree/main"> 
+  <img src="https://camo.githubusercontent.com/c379229f53fd55c607b4546c78903d0f318bc252eb880e072e16bf4a2030d223/68747470733a2f2f6d656469612e7072696e7461626c65732e636f6d2f6d656469612f7072696e74732f313130383634342f696d616765732f393231363238305f64653938346136352d336335302d343863392d386236352d3231306638343666386231385f62356237353435632d336562392d346263382d613663352d6465633863623761613436352f7468756d62732f696e736964652f3136303078313230302f706e672f73637265656e73686f742d323032352d30332d31342d61742d37323732382d616d2e77656270" style="height: 150px; width: auto;" alt="3MS"></a>
+ </td>
+
+   <td align=center>
+  <h3><a href="https://github.com/muzixiaoyang/KMS">KMS</a></h3>
+  <a href="https://github.com/muzixiaoyang/KMS"> 
+  <img src="https://github.com/muzixiaoyang/KMS/blob/main/KMS-PNG.png" style="height: 150px; width: auto;" alt="KMS"></a>
+ </td>
+</tr>
+   
+<tr>
+   <td align=center>
+    <h3><a href="https://discord.com/channels/1267663557999329371/1412428892320567387">AngryBeaver</a></h3>
+ <!-- <a href="https://discord.com/channels/1267663557999329371/1412428892320567387"> 
+ <img src="https://cdn.discordapp.com/attachments/1412428892320567387/1414395345932259420/image.png?ex=6a2bf090&is=6a2a9f10&hm=216ec4eeb32860ed609389ebefacfd3fbcd546de85309c96a176009d094f2328" style="height: 150px; width: auto;" alt="3D Chameleon"></a> -->
+   </td>
+
+   <td align=center>
+    <h3><a href="https://github.com/OpenAMSOrg/openams_cli">OpenAMS</a></h3>
+   </td>
+
+   <td align=center>
+  <h3><a href="https://github.com/3DChameleon/3DChameleonMk4">3D Chameleon</a></h3>
+<!--  <a href="https://github.com/3DChameleon/3DChameleonMk4"> 
+  <img src="" style="height: 150px; width: auto;" alt="3D Chameleon"></a> -->
+ </td>
 </tr> </table> </details>
  
 <!--## ToolChanger-->
@@ -617,7 +648,11 @@
 </tr>
 
 <tr>
-   <td></td>
+   <td align=center>
+  <h3><a href="https://github.com/VIN-y/MissChanger/tree/main">MissChanger</a></h3>
+  <a href="https://github.com/VIN-y/MissChanger/tree/main"> 
+  <img src="https://github.com/VIN-y/MissChanger/raw/main/images/Front_Page/20250403_205054.jpg" style="height: 150px; width: auto;" alt="MissChanger"></a>
+   </td>
    
   <td align=center>
   <h3><a href="https://github.com/BondtechAB/INDX">INDX</a></h3>
@@ -625,7 +660,11 @@
   <img src="https://tse4.mm.bing.net/th/id/OIP.UfNB6ZmGbUi8fhNlAUxULgHaE8?pid=Api" style="height: 150px; width: auto;" alt="INDX"></a>
  </td>
 
- <td></td>
+ <td align=center>
+    <h3><a href="https://github.com/ankurv2k6/daksh-toolchanger-v2/">daksh</a></h3>
+  <a href="https://github.com/ankurv2k6/daksh-toolchanger-v2/"> 
+  <img src="https://camo.githubusercontent.com/5f7d6ceaf5e6f880fcc422d4c3b91b81ea9832bbe0c5d552c838fe523ec2b2a0/68747470733a2f2f696d672e796f75747562652e636f6d2f76692f3557654c6f496e335554772f302e6a7067" style="height: 150px; width: auto;" alt="daksh"></a> 
+ </td>
 </tr> </table> </details>
 
 <!--## Filter-->
