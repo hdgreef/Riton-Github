@@ -143,7 +143,7 @@
   <img src="https://github.com/oozebot/preFlight/blob/main/images/preFlight.png" style="height: 150px; width: auto;" alt="preFlight"></a> </td>
 </tr> </table> </details>
 
-<!--## STL Tuning-->
+<!--## STL Tuning & Troubleshooting -->
 <details> <summary align=center><h3>4. Tuning, Troubleshooting & STL Modificator</h3></summary>
 
 <table align=center>
@@ -232,7 +232,7 @@
 </table> </details>
 
    <!--## RPi-->
-<details open> <summary align=center><h3>2. RPi</h3></summary>
+<details> <summary align=center><h3>2. RPi</h3></summary>
 
 <table align=center>
   <tr>
@@ -262,7 +262,7 @@
  <details> <summary><h3>2. PrintHeads</h3></summary>
 
    <!--## ToolHeads (TH) & Extruder-->
-<details open> <summary align=center><h3>1. ToolHeads [TH]</h3></summary>
+<details> <summary align=center><h3>1. ToolHeads [TH]</h3></summary>
 
 <table align=center> 
  <th colspan="3"> <h3><a href="https://github.com/SartorialGrunt0/Awesome-Toolheads">=> Awesome ToolHeads List</a></h3> </th>
@@ -324,7 +324,7 @@
 </table> </details>
 
 <!--## Extruder-->
-<details open> <summary align=center><h3>2. Extruder</h3></summary>
+<details> <summary align=center><h3>2. Extruder</h3></summary>
 
 <table align=center>
   <th colspan="3"> <h3><a href="https://github.com/SartorialGrunt0/Awesome-Extruders">=> Awesome Extruders List</a></h3> </th>
@@ -381,7 +381,7 @@
 </tr> </table> </details>
 
 <!--## Hotend-->
-<details open> <summary align=center><h3>3. Hotend</h3></summary>
+<details> <summary align=center><h3>3. Hotend</h3></summary>
 
 <table align=center>
   <th colspan="3" align=center>
@@ -439,84 +439,140 @@
    <img src="https://mellow-3d.github.io/images/fly_sb2040_v2/general_image.jpg" style="height: 150px; width: auto;" alt="Fly SB"></a> </td>
 </tr> </table> </details> </details>
 
+<!-- Electro & Mechanical -->
 <details> <summary><h3>3. Electro & Mechanical</h3></summary>
   <h3 align=center><a href="https://github.com/LegionPleingaz/Voronpedia/blob/main/SUMMARY.md">=> See Voronpedia Summary</a></h3>
 
-<details> <summary align=center><h4>Fans</h4></summary>
+<details> <summary align=center><h4>Fans</h4></summary> <!-- Fans -->
     
 <table align=center>
  <tr> 
-  <td align=center> <h3><a href="">Axial 2020</a></h3>
-  <a href=""> 
-  <img src="" style="height: 150px; width: auto;" alt="2020"></a> </td>
+  <td align=center> <h3><a href="https://www.aliexpress.com/item/4000865202504.html?spm=a2g0o.store_pc_allItems_or_groupList.0.0.5d1f2120xINGeC&pdp_npi=4%40dis%21EUR%21%E2%82%AC%2020%2C99%21%E2%82%AC%2020%2C99%21%21%2123.78%2123.78%21%40210393bd17815143133105591e0ff2%2110000009727027696%21sh%21BE%21769525439%21X">Radial 5015 Sunon</a></h3>
+  <a href="https://www.aliexpress.com/item/4000865202504.html?spm=a2g0o.store_pc_allItems_or_groupList.0.0.5d1f2120xINGeC&pdp_npi=4%40dis%21EUR%21%E2%82%AC%2020%2C99%21%E2%82%AC%2020%2C99%21%21%2123.78%2123.78%21%40210393bd17815143133105591e0ff2%2110000009727027696%21sh%21BE%21769525439%21X"> 
+  <img src="https://ae-pic-a1.aliexpress-media.com/kf/Haa89d3fffe6541bbbda792c8dba6a3c0L.jpg_220x220q75.jpg_.avif" style="height: 150px; width: auto;" alt="R5015"></a> </td>
 
-  <td align=center> <h3><a href="">Radial 4040</a></h3>
-    <a href=""> 
-   <img src="" style="height: 150px; width: auto;" alt="4040"></a> </td>
+  <td align=center> <h3><a href="https://www.aliexpress.com/item/1005004729010078.html?spm=a2g0o.store_pc_allItems_or_groupList.0.0.5d1f2120xINGeC&pdp_npi=4%40dis%21EUR%21%E2%82%AC%2065%2C39%21%E2%82%AC%2065%2C39%21%21%2174.08%2174.08%21%40210393bd17815143133105591e0ff2%2112000030267154667%21sh%21BE%21769525439%21X">Radial 7040 CPAP</a></h3>
+  <a href="https://www.aliexpress.com/item/1005004729010078.html?spm=a2g0o.store_pc_allItems_or_groupList.0.0.5d1f2120xINGeC&pdp_npi=4%40dis%21EUR%21%E2%82%AC%2065%2C39%21%E2%82%AC%2065%2C39%21%21%2174.08%2174.08%21%40210393bd17815143133105591e0ff2%2112000030267154667%21sh%21BE%21769525439%21X"> 
+  <img src="https://ae-pic-a1.aliexpress-media.com/kf/Ac344ca3b072541d89c30c17dda0bec15w.jpg?has_lang=1&ver=1_220x220q75.jpg_.avif" style="height: 150px; width: auto;" alt="WS7040"></a> </td>
 
-  <td align=center> <h3><a href="">Radial 8080</a></h3>
-    <a href=""> 
-   <img src="" style="height: 150px; width: auto;" alt="CPAP"></a> </td>
+  <td align=center> <h3><a href="https://nl.aliexpress.com/item/1005005094153190.html?gatewayAdapt=glo2nld">Radial 4010 Gdstime</a></h3>
+    <a href="https://nl.aliexpress.com/item/1005005094153190.html?gatewayAdapt=glo2nld"> 
+   <img src="https://ae-pic-a1.aliexpress-media.com/kf/Se0c8f91eb98949a190fbec4d4e44c6ceR.jpg?has_lang=1&ver=2_220x220q75.jpg_.avif" style="height: 150px; width: auto;" alt="R4010"></a> </td>
+
+  <td align=center> <h3><a href="https://www.digikey.be/en/products/detail/delta-electronics/ASB02505SHA-AY6B/7491489">Axial 2510</a></h3>
+    <a href="https://www.digikey.be/en/products/detail/delta-electronics/ASB02505SHA-AY6B/7491489"> 
+   <img src="https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/2279/ASB02505SHA-AY6B.jpg?hidebanner=true" style="height: 150px; width: auto;" alt="R2510"></a> </td>
+
+  <td align=center> <h3><a href="https://www.aliexpress.com/item/4001220454784.html?spm=a2g0o.store_pc_allItems_or_groupList.0.0.5d1f2120xINGeC&pdp_npi=4%40dis%21EUR%21%E2%82%AC%205%2C84%21%E2%82%AC%205%2C61%21%21%216.62%216.36%21%40210393bd17815143133105591e0ff2%2110000015343069560%21sh%21BE%21769525439%21X">Axial 6010</a></h3>
+  <a href="https://www.aliexpress.com/item/4001220454784.html?spm=a2g0o.store_pc_allItems_or_groupList.0.0.5d1f2120xINGeC&pdp_npi=4%40dis%21EUR%21%E2%82%AC%205%2C84%21%E2%82%AC%205%2C61%21%21%216.62%216.36%21%40210393bd17815143133105591e0ff2%2110000015343069560%21sh%21BE%21769525439%21X"> 
+  <img src="https://ae-pic-a1.aliexpress-media.com/kf/Hd392f07baa34489989f49ece6dc283e1n.jpg_220x220q75.jpg_.avif" style="height: 150px; width: auto;" alt="A6010"></a> </td>
 </tr> </table> </details>
 
-<details> <summary align=center><h4>Bed</h4></summary>
+<details> <summary align=center><h4>Bed</h4></summary> <!-- Bed -->
   <h3 align=center><a href="https://github.com/LegionPleingaz/Voronpedia/blob/main/mechanical/bed.md#-print-surface-notes">=> Print Surface</a> & <a href="https://github.com/LegionPleingaz/Voronpedia/blob/main/mechanical/bed.md#%EF%B8%8F-bed-temperature-by-material">Bed Temp by material</a></h3>
     
 <table align=center>
  <tr> 
-  <td align=center> <h3><a href="">Textured PEI</a></h3>
-  <a href=""> 
-  <img src="" style="height: 150px; width: auto;" alt="2020"></a> </td>
+  <td align=center> <h3><a href="https://www.fysetc.com/products/double-sided-texured-pei-and-smooth-pei-build-plate-textured-pei-sheet-powder-coated-spring-steel-sheet-build-plate-355mm?_pos=2&_sid=8dfa55cad&_ss=r&variant=43634392858799">Textured PEI</a></h3>
+  <a href="https://www.fysetc.com/products/double-sided-texured-pei-and-smooth-pei-build-plate-textured-pei-sheet-powder-coated-spring-steel-sheet-build-plate-355mm?_pos=2&_sid=8dfa55cad&_ss=r&variant=43634392858799"> 
+  <img src="https://www.fysetc.com/cdn/shop/files/8_09ba9271-4934-4049-b69c-8555becee61b.jpg?v=1713766883" style="height: 150px; width: auto;" alt="Text PEI"></a> </td>
 
-  <td align=center><h3><a href="">Smooth PEI</a></h3>
-  <a href=""> 
-  <img src="" style="height: 150px; width: auto;" alt="2020"></a> </td>
+  <td align=center><h3><a href="https://www.fysetc.com/products/double-sided-texured-pei-and-smooth-pei-build-plate-textured-pei-sheet-powder-coated-spring-steel-sheet-build-plate-355mm?_pos=2&_sid=8dfa55cad&_ss=r&variant=43634392858799">Smooth PEI</a></h3>
+  <a href="https://www.fysetc.com/products/double-sided-texured-pei-and-smooth-pei-build-plate-textured-pei-sheet-powder-coated-spring-steel-sheet-build-plate-355mm?_pos=2&_sid=8dfa55cad&_ss=r&variant=43634392858799"> 
+  <img src="https://www.fysetc.com/cdn/shop/files/7_c322a15a-2cea-4c38-aebf-dec40e754bf2.jpg?v=1713766883" style="height: 150px; width: auto;" alt="Smooth PEI"></a> </td>
 
-  <td align=center><h3><a href="">Garolite G10</a></h3>
-  <a href=""> 
-  <img src="" style="height: 150px; width: auto;" alt="2020"></a> </td>
+  <td align=center><h3><a href="https://darkmoon3d.com/products/bambu-lab-g10-build-plate?srsltid=AfmBOopiwWvc-LWvmrmhnHhF6_7tj86QFwmQ6mzmjdFbV9NRMvysqhf1&variant=47971436331254">Garolite G10</a></h3>
+  <a href="https://darkmoon3d.com/products/bambu-lab-g10-build-plate?srsltid=AfmBOopiwWvc-LWvmrmhnHhF6_7tj86QFwmQ6mzmjdFbV9NRMvysqhf1&variant=47971436331254"> 
+  <img src="https://darkmoon3d.com/cdn/shop/files/Bambu_Lab_G10_Hobby_Build_Plate_for_X1C_and_P1S_by_Darkmoon_3D.jpg?v=1726028549&width=700" style="height: 150px; width: auto;" alt="G10"></a> </td>
 
-   <td align=center><h3><a href="">Borosilicate + Glue</a></h3>
-  <a href=""> 
-  <img src="" style="height: 150px; width: auto;" alt="2020"></a> </td>
+   <td align=center><h3><a href="https://www.matterhackers.com/store/l/glass-print-bed-for-ultimaker-2-3/sk/MFHKAEQK">Borosilicate + Glue</a></h3>
+  <a href="https://www.matterhackers.com/store/l/glass-print-bed-for-ultimaker-2-3/sk/MFHKAEQK"> 
+  <img src="https://lh3.googleusercontent.com/6EiIUygmjSsR1PdnmAc5gk576DoiZns6oE7Y51bxM7wzTXHGPQaK82R8Kj_GFi0mIxViML_-2tem2iIR8bVCzw=w900-h675-c-rw-e365" style="height: 150px; width: auto;" alt="Glass"></a> </td>
 </tr> </table> </details>
 
-<details> <summary align=center><h4>Motor</h4></summary>
-  <h4><a href="https://github.com/LegionPleingaz/Voronpedia/blob/main/electro/motors.md">=> Motor Voronpedia</a></h4>
+<details> <summary align=center><h4>Stepper Motor</h4></summary> <!-- Stepper Motor -->
+  <h4><a href="https://github.com/LegionPleingaz/Voronpedia/blob/main/electro/motors.md">=> Stepper Motor Voronpedia</a></h4>
+    
+<table align=center>
+ <tr>
+  <td align=center> <h3><a href="https://www.omc-stepperonline.com/fr/nema-17-moteur-pas-a-pas">Nema 17</a></h3>
+  <a href="https://www.omc-stepperonline.com/fr/nema-17-moteur-pas-a-pas"> 
+  <img src="https://www.omc-stepperonline.com/image/cache/catalog/stepper-motor/17/17HE15-1504S-500x500.jpg" style="height: 150px; width: auto;" alt="Nema17"></a> </td>
+
+  <td align=center><h3><a href="https://www.omc-stepperonline.com/fr/rond-nema-14-bipolaire-0-9deg-9-ncm-12-75-oz-in-1-0a-36-5x17-5mm-4-fils-14hr07-1004vrn">Nema 14</a></h3>
+  <a href="https://www.omc-stepperonline.com/fr/rond-nema-14-bipolaire-0-9deg-9-ncm-12-75-oz-in-1-0a-36-5x17-5mm-4-fils-14hr07-1004vrn"> 
+  <img src="https://www.omc-stepperonline.com/image/cache/catalog/stepper-motor/14/14HR07-1004VRN-500x500.jpg" style="height: 150px; width: auto;" alt="Nema14"></a> </td>
+
+  <td align=center><h3><a href="https://www.omc-stepperonline.com/fr/nema-23-bipolaire-1-8deg-1-16nm-164-3oz-in-1-5a-5-4v-57x57x56mm-4-fils-23hs22-1504s">Nema 23</a></h3>
+  <a href="https://www.omc-stepperonline.com/fr/nema-23-bipolaire-1-8deg-1-16nm-164-3oz-in-1-5a-5-4v-57x57x56mm-4-fils-23hs22-1504s"> 
+  <img src="https://www.omc-stepperonline.com/image/cache/catalog/stepper-motor/23/23HS22-1504S-2-500x500.jpg" style="height: 150px; width: auto;" alt="Nema23"></a> </td>
+</tr>
+
+<tr>
+   <td align=center><h3><a href="https://ldomotion.com/products?category=Stepper%20Motors">LDO Motion</a></h3>
+  <a href="https://ldomotion.com/products?category=Stepper%20Motors"> 
+  <img src="https://ldomotion.com/LDOMotion.svg" style="height: 150px; width: auto;" alt="LDO"></a> </td>
+
+   <td align=center><h3><a href="https://www.omc-stepperonline.com/fr/moteur-pas-a-pas-hybride">StepperOnline</a></h3>
+  <a href="https://www.omc-stepperonline.com/fr/moteur-pas-a-pas-hybride"> 
+  <img src="https://www.omc-stepperonline.com/image/cache/catalog/logo-stepperonline-576px-576x100.png" style="height: 120px; width: auto;" alt="StepperOnline"></a> </td>
+
+   <td align=center><h3><a href="https://www.moonsindustries.com/c/stepper-motors-a02?srsltid=AfmBOoqIXnM9f45gUjQWtJoa5ep-O4UUNvETH6qum2q6dryeyqo0fWfm">Moons</a></h3>
+  <a href="https://www.moonsindustries.com/c/stepper-motors-a02?srsltid=AfmBOoqIXnM9f45gUjQWtJoa5ep-O4UUNvETH6qum2q6dryeyqo0fWfm"> 
+  <img src="https://d2nlp3g45tnwoj.cloudfront.net/staticpic/logo.png" style="height: 100px; width: auto;" alt="Moons"></a> </td>
+</tr></table> </details>
+
+<details> <summary align=center><h4>Driver SMD</h4></summary> <!-- Driver -->
     
 <table align=center>
  <tr> 
-  <td align=center> <h3><a href="">Nema 17</a></h3>
-  <a href=""> 
-  <img src="" style="height: 150px; width: auto;" alt="2020"></a> </td>
+  <td align=center> <h3><a href="https://global.bttwiki.com/TMC2209.html">TMC2209</a></h3>
+  <a href="https://global.bttwiki.com/TMC2209.html"> 
+  <img src="https://global.bttwiki.com/img/TMC2209/TMC2209_Title.webp" style="height: 150px; width: auto;" alt="TMC2209"></a> </td>
 
-  <td align=center><h3><a href="">Nema 14</a></h3>
-  <a href=""> 
-  <img src="" style="height: 150px; width: auto;" alt="2020"></a> </td>
+  <td align=center><h3><a href="https://global.bttwiki.com/TMC2240.html">TMC2240</a></h3>
+  <a href="https://global.bttwiki.com/TMC2240.html"> 
+  <img src="https://biqu.equipment/cdn/shop/files/02_ddd1f7a8-c7d3-4c2d-b8df-01c664c69d6a.png?v=1757557514&width=1220" style="height: 150px; width: auto;" alt="TMC2240"></a> </td>
 
-  <td align=center><h3><a href="">Nema 23</a></h3>
-  <a href=""> 
-  <img src="" style="height: 150px; width: auto;" alt="2020"></a> </td>
+  <td align=center><h3><a href="https://global.bttwiki.com/TMC5160T%20Pro%20V1.0.html">TMC5160T</a></h3>
+  <a href="https://global.bttwiki.com/TMC5160T%20Pro%20V1.0.html"> 
+  <img src="https://global.bttwiki.com/img/tmc5160t_pro/tmc5160t_pro_title.webp" style="height: 150px; width: auto;" alt="TMC5160T"></a> </td>
+
+  <td align=center><h3><a href="https://global.bttwiki.com/TMC5160TPlus.html">TMC5160+</a></h3>
+  <a href=" https://global.bttwiki.com/TMC5160TPlus.html"> 
+  <img src="https://global.bttwiki.com/img/TMC5160TPlus/TMC5160TPlus_Title.webp" style="height: 150px; width: auto;" alt="TMC5160+"></a> </td>
+
+  <!-- <td align=center><h3><a href="https://github.com/andrewmcgr/tmc-4671">TMC4671</a></h3>
+   <a href="https://github.com/andrewmcgr/tmc-4671"> 
+  <img src="" style="height: 150px; width: auto;" alt="TMC4671"></a> --> </td>
 </tr> </table> </details>
 
-<details> <summary align=center><h4>Driver SMD</h4></summary>
+<details> <summary align=center><h4>Screen</h4></summary> <!-- Screen -->
     
 <table align=center>
  <tr> 
-  <td align=center> <h3><a href="">TMC2209</a></h3>
-  <a href=""> 
-  <img src="" style="height: 150px; width: auto;" alt="TMC2209"></a> </td>
+  <td align=center> <h3><a href="http://wiki.fysetc.com/docs/Mini12864Panel">Mini12864</a></h3>
+  <a href="http://wiki.fysetc.com/docs/Mini12864Panel"> 
+  <img src="https://cdn.shopify.com/s/files/1/0550/2209/2502/t/10/assets/mini-2864-display-1660795641813.png?v=1660795643" style="height: 150px; width: auto;" alt="Mini12864"></a> </td>
 
-  <td align=center><h3><a href="">TMC2240</a></h3>
-  <a href=""> 
-  <img src="" style="height: 150px; width: auto;" alt="TMC2240"></a> </td>
+  <td align=center><h3><a href="https://global.bttwiki.com/TFT35.html">TFT35/43</a></h3>
+  <a href="https://global.bttwiki.com/TFT35.html"> 
+  <img src="https://cdn.shopify.com/s/files/1/0550/2209/2502/t/10/assets/tft-1673492074784.png?v=1673492076" style="height: 150px; width: auto;" alt="TFT"></a> </td>
 
-  <td align=center><h3><a href="">TMC5160</a></h3>
-  <a href=""> 
-  <img src="" style="height: 150px; width: auto;" alt="TMC5160"></a> </td>
+  <td align=center><h3><a href="https://global.bttwiki.com/HDMI7%20V1.2.html">HDMI5/7</a></h3>
+  <a href="https://global.bttwiki.com/HDMI7%20V1.2.html"> 
+  <img src="https://cdn.shopify.com/s/files/1/0550/2209/2502/t/10/assets/04_600x-1673492219322.png?v=1673492230" style="height: 150px; width: auto;" alt="HDMI5_7"></a> </td>
+
+  <td align=center><h3><a href="https://global.bttwiki.com/TMC5160TPlus.html">TMC5160+</a></h3>
+  <a href=" https://global.bttwiki.com/TMC5160TPlus.html"> 
+  <img src="https://global.bttwiki.com/img/TMC5160TPlus/TMC5160TPlus_Title.webp" style="height: 150px; width: auto;" alt="TMC5160+"></a> </td>
+
+  <!-- <td align=center><h3><a href="https://github.com/andrewmcgr/tmc-4671">TMC4671</a></h3>
+   <a href="https://github.com/andrewmcgr/tmc-4671"> 
+  <img src="" style="height: 150px; width: auto;" alt="TMC4671"></a> --> </td>
 </tr> </table> </details>
 
-<details> <summary align=center><h4>Z-Probe</h4></summary>
+<details> <summary align=center><h4>Z-Probe</h4></summary> <!-- Z Probe-->
 <table align=center>
 <tr><th colspan="3">   
    <h4 align=center><a href="https://github.com/LegionPleingaz/Voronpedia/blob/main/toolhead/probes.md">=> Z-Probe Voronpedia</a></h4></th></tr>
@@ -655,7 +711,7 @@
 
 <table align=center>
   <th colspan="3" align=center>
-  <h3><a href="https://github.com/viesturz/klipper-toolchanger"> => Klipper ToolChanger <= </a> & <a href="https://github.com/jwellman80/klipper-toolchanger-easy"> => Easy-Version <= </a></h3> </th>
+  <h3><a href="https://github.com/viesturz/klipper-toolchanger"> => Klipper ToolChanger [KTC]<= </a> & <a href="https://github.com/jwellman80/klipper-toolchanger-easy"> => Easy-Version <= </a></h3> </th>
    
 <tr>
  <td align=center>
@@ -680,15 +736,20 @@
   <img src="https://github.com/VIN-y/MissChanger/raw/main/images/Front_Page/20250403_205054.jpg" style="height: 150px; width: auto;" alt="MissChanger"></a> </td>
    
   <td align=center>
-  <h3><a href="https://github.com/BondtechAB/INDX">INDX</a></h3>
-  <a href="https://github.com/BondtechAB/INDX"> 
-  <img src="https://tse4.mm.bing.net/th/id/OIP.UfNB6ZmGbUi8fhNlAUxULgHaE8?pid=Api" style="height: 150px; width: auto;" alt="INDX"></a> </td>
+  <h3><a href="https://github.com/zruncho3d/madmax">MadMax</a></h3>
+  <a href="https://github.com/zruncho3d/madmax"> 
+  <img src="https://github.com/zruncho3d/madmax/raw/main/Videos/Yell_Toolchange.gif" style="height: 150px; width: auto;" alt="INDX"></a> </td>
 
  <td align=center>
     <h3><a href="https://github.com/ankurv2k6/daksh-toolchanger-v2/">daksh</a></h3>
   <a href="https://github.com/ankurv2k6/daksh-toolchanger-v2/"> 
   <img src="https://camo.githubusercontent.com/5f7d6ceaf5e6f880fcc422d4c3b91b81ea9832bbe0c5d552c838fe523ec2b2a0/68747470733a2f2f696d672e796f75747562652e636f6d2f76692f3557654c6f496e335554772f302e6a7067" style="height: 150px; width: auto;" alt="daksh"></a> </td>
-</tr> </table> </details>
+</tr>
+
+<tr>
+  <td colspan="3" align=center><h3><a href="https://github.com/BondtechAB/INDX">INDX</a></h3>
+  <a href="https://github.com/BondtechAB/INDX"> 
+  <img src="https://tse4.mm.bing.net/th/id/OIP.UfNB6ZmGbUi8fhNlAUxULgHaE8?pid=Api" style="height: 150px; width: auto;" alt="INDX"></a></td></tr></table> </details>
 
 <!--## Filter-->
 <details> <summary align=center><h3>3. Filter</h3></summary>
