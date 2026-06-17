@@ -30,8 +30,7 @@
 <td align=center>
   <p> <h3> <a href="https://github.com/KalicoCrew/kalico">Kalico</a></h3></p>
   <a href="https://github.com/Frix-x/klippain"> 
-  <img src="https://github.com/KalicoCrew/kalico/blob/main/docs/logo/kalico-big.png" style="height: 150px; width: auto;" alt="Kalico"></a> </td>
-</tr>
+  <img src="https://github.com/KalicoCrew/kalico/blob/main/docs/logo/kalico-big.png" style="height: 150px; width: auto;" alt="Kalico"></a> </td> </tr>
 
 <tr>
  <td align=center>
@@ -47,8 +46,7 @@
   <td align=center>
   <p><h3><a href="https://github.com/Duet3D/RepRapFirmware">Duet3D - RepRap</a></h3></p>
   <a href="https://github.com/Duet3D/RepRapFirmware"> 
-  <img src="https://github.com/hdgreef/Riton-Github/blob/main/docs/images/Duet3D_Logo.png" style="height: 150px; width: auto;" alt="RepRap Firmware"></a> </td>
-</tr> </table> </details>
+  <img src="https://github.com/hdgreef/Riton-Github/blob/main/docs/images/Duet3D_Logo.png" style="height: 150px; width: auto;" alt="RepRap Firmware"></a> </td> </tr> </table> </details>
 
 <!--## MCU & RPi -->
 <details> <summary align=center><h3>2. MCU & RPi</h3></summary>
@@ -68,8 +66,7 @@
  <td align=center>
   <h3><a href="https://github.com/Extrutex/KATANA-Klipper-Installer">Katana</a></h3>
   <a href="https://github.com/Extrutex/KATANA-Klipper-Installer"> 
-  <img src="https://github.com/Extrutex/KATANA-Klipper-Installer/blob/main/docs/images/logo.png" style="height: 150px; width: auto;" alt="Katana"></a> </td>
-</tr>
+  <img src="https://github.com/Extrutex/KATANA-Klipper-Installer/blob/main/docs/images/logo.png" style="height: 150px; width: auto;" alt="Katana"></a> </td> </tr>
 
 <tr>
  <td align=center>
@@ -83,10 +80,7 @@
   <img src="https://github.com/fluidd-core/fluidd/blob/develop/docs/docs/assets/images/fluidd_icon.svg" style="height: 150px; width: auto;" alt="Fluidd"></a> </td>
 
  <td align=center>
-  <h3><a href="https://github.com/Arksine/moonraker">Moonracker</a></h3>
-   <a href="https://github.com/Arksine/moonraker"> 
- <!-- <img src="https://github.com/mainsail-crew/MainsailOS/blob/develop/.github/sdcard-logo.png" style="height: 150px; width: auto;" alt="Moonracker"></a> --> </td>
-</tr>
+  <h3><a href="https://github.com/Arksine/moonraker">Moonracker</a></h3> & <h3><a href="https://github.com/Arksine/katapult">Katapult</a> </h3> </td> </tr>
 
 <tr>
  <td align=center>
@@ -100,10 +94,14 @@
   <img src="https://github.com/fbeauKmi/update_klipper_and_mcus/blob/main/images/banner.png" style="height: 150px; width: auto;" alt="UKAM"></a> </td>
 
 <td align=center>
-   <p><h3><a href="https://putty.org/index.html">Putty</a></h3></p>
+   <h3><a href="https://github.com/KlipperScreen/KlipperScreen">KlipperScreen</a></h3>
+  <a href="https://github.com/KlipperScreen/KlipperScreen"> 
+  <img src="https://github.com/KlipperScreen/KlipperScreen/raw/master/docs/img/panels/main_panel.png" style="height: 150px; width: auto;" alt="KlipperScreen"></a> </td>
+  
+   <!---  <h3><a href="https://putty.org/index.html">Putty</a></h3>
   <a href="https://putty.org/index.html"> 
-  <img src="https://seeklogo.com/images/P/putty-logo-CD0A665CE0-seeklogo.com.png" style="height: 150px; width: auto;" alt="UKAM"></a> </td>
-</tr> </table> </details>
+  <img src="https://seeklogo.com/images/P/putty-logo-CD0A665CE0-seeklogo.com.png" style="height: 150px; width: auto;" alt="Putty"></a> </td> --> 
+  </tr> </table> </details>
 
 <!--## Slicer-->
 <details> <summary align=center><h3>3. Slicer</h3></summary>
@@ -123,8 +121,7 @@
 <td align=center>
   <p><h3><a href="https://github.com/Ultimaker/Cura/tree/main">Cura</a></h3></p>
   <a href="https://github.com/Ultimaker/Cura/tree/main"> 
-  <img src="https://github.com/Ultimaker/Cura/blob/main/resources/images/cura-icon.png" style="height: 150px; width: auto;" alt="Cura"></a> </td>
-</tr>
+  <img src="https://github.com/Ultimaker/Cura/blob/main/resources/images/cura-icon.png" style="height: 150px; width: auto;" alt="Cura"></a> </td> </tr>
 
 <tr>
 <td align=center>
@@ -140,8 +137,7 @@
 <td align=center>
   <p><h3><a href="https://github.com/oozebot/preFlight">preFlight</a></h3></p>
   <a href="https://github.com/oozebot/preFlight"> 
-  <img src="https://github.com/oozebot/preFlight/blob/main/images/preFlight.png" style="height: 150px; width: auto;" alt="preFlight"></a> </td>
-</tr> </table> </details>
+  <img src="https://github.com/oozebot/preFlight/blob/main/images/preFlight.png" style="height: 150px; width: auto;" alt="preFlight"></a> </td> </tr> </table> </details>
 
 <!--## STL Tuning & Troubleshooting -->
 <details> <summary align=center><h3>4. Tuning, Troubleshooting & STL Modificator</h3></summary>
@@ -166,11 +162,11 @@
 <!------------------------------------------------------HARDWARE--------------------------------------------------->
 
 
-<details open> <summary><h2>2. Common V2.4 HardWare</h2></summary>
+<details> <summary><h2>2. Common V2.4 HardWare</h2></summary>
 
 ---
 
- <details> <summary><h3>1. MCU</h3></summary>
+<details> <summary><h3> MCU</h3></summary>
 
    <!--## MCU-->
 <details> <summary align=center><h3>1. MotherBoard</h3></summary>
@@ -180,87 +176,91 @@
   <h3><a href="https://canbus.esoterical.online/mainboard_flashing/common_hardware.html">=> Awesome MotherBoard List</a></h3> </th>
    
 <tr>
-  <td align=center> 
-  <h3><a href="https://global.bttwiki.com/Octopus%20Pro.html">Octopus</a> <a href="https://bigtree-tech.com/"><img src="https://github.com/bigtreetech/docs/blob/master/docs/img/BQ-LOGO.svg" style="height: 40px; width: auto;" alt="BTT"></a></h3>
+  <td align=center> <a href="https://bigtree-tech.com/"><img src="https://github.com/bigtreetech/docs/blob/master/docs/img/BQ-LOGO.svg" style="height: 40px; width: auto;" alt="BTT"></a>
+  <h3><a href="https://global.bttwiki.com/Octopus%20Pro.html">Octopus</a></h3>
     <a href="https://global.bttwiki.com/Octopus%20Pro.html"> 
     <img src="https://global.bttwiki.com/img/Octopus_Pro/Octopus_Pro_Title.webp" style="height: 150px; width: auto;" alt="Octopus"></a> </td>
 
-   <td align=center> 
-  <h3><a href="https://global.bttwiki.com/M8P-V2_0.html">Manta 8P V2</a> <a href="https://bigtree-tech.com/"><img src="https://github.com/bigtreetech/docs/blob/master/docs/img/BQ-LOGO.svg" style="height: 40px; width: auto;" alt="BTT"></a></h3>
+   <td align=center> <a href="https://bigtree-tech.com/"><img src="https://github.com/bigtreetech/docs/blob/master/docs/img/BQ-LOGO.svg" style="height: 40px; width: auto;" alt="BTT"></a>
+  <h3><a href="https://global.bttwiki.com/M8P-V2_0.html">Manta 8P V2</a></h3>
     <a href="https://global.bttwiki.com/M8P-V2_0.html"> 
    <img src="https://global.bttwiki.com/img/m8p-v2_0/m8p_v2_0_title.webp" style="height: 150px; width: auto;" alt="Manta"></a> </td>
 
-  <td align=center> 
-  <h3><a href="https://global.bttwiki.com/Kraken.html">Kraken</a> <a href="https://bigtree-tech.com/"><img src="https://github.com/bigtreetech/docs/blob/master/docs/img/BQ-LOGO.svg" style="height: 40px; width: auto;" alt="BTT"></a></h3>
+  <td align=center> <a href="https://bigtree-tech.com/"><img src="https://github.com/bigtreetech/docs/blob/master/docs/img/BQ-LOGO.svg" style="height: 40px; width: auto;" alt="BTT"></a>
+  <h3><a href="https://global.bttwiki.com/Kraken.html">Kraken</a></h3>
     <a href="https://global.bttwiki.com/Kraken.html"> 
-   <img src="https://global.bttwiki.com/img/Kraken/kraken_title.webp" style="height: 150px; width: auto;" alt="Kraken"></a> </td>
-</tr>
+   <img src="https://global.bttwiki.com/img/Kraken/kraken_title.webp" style="height: 150px; width: auto;" alt="Kraken"></a> </td> </tr>
 
 <tr>
-  <td align=center> 
-  <h3><a href="https://mellow-3d.github.io/fly_super8_pro_h723_general.html">Fly Super8Pro</a> <a href="https://mellow-3d.github.io/index.html"><img src="https://mellow-3d.github.io/images/company_logo.png" style="height: 40px; width: auto;" alt="Mellow"></a></h3>
+  <td align=center> <a href="https://mellow-3d.github.io/index.html"><img src="https://mellow-3d.github.io/images/company_logo.png" style="height: 40px; width: auto;" alt="Mellow"></a>
+  <h3><a href="https://mellow-3d.github.io/fly_super8_pro_h723_general.html">Fly Super8Pro</a></h3>
     <a href="https://mellow-3d.github.io/fly_super8_pro_h723_general.html"> 
    <img src="https://github.com/hdgreef/Riton-Github/blob/main/docs/images/FlySuper8Pro.png" style="height: 150px; width: auto;" alt="Fly Super8"></a> </td>
 
-  <td align=center> 
-  <h3><a href="https://mellow-3d.github.io/fly_dp5.html">Fly DP5</a> <a href="https://mellow-3d.github.io/index.html"><img src="https://mellow-3d.github.io/images/company_logo.png" style="height: 40px; width: auto;" alt="Mellow"></a></h3>
+  <td align=center> <a href="https://mellow-3d.github.io/index.html"><img src="https://mellow-3d.github.io/images/company_logo.png" style="height: 40px; width: auto;" alt="Mellow"></a>
+  <h3><a href="https://mellow-3d.github.io/fly_dp5.html">Fly DP5</a></h3>
     <a href="https://mellow-3d.github.io/fly_dp5.html"> 
    <img src="https://mellow-3d.github.io/images/fly-dp5/fly_dp5.png" style="height: 150px; width: auto;" alt="Fly DP5"></a> </td> 
 
-   <td align=center> 
-  <h3><a href="https://github.com/makerbase-mks/mks-monster8">Monster 8 V2</a> <a href="https://github.com/makerbase-mks/mks-monster8"><img src="https://avatars.githubusercontent.com/u/12979070?v=4" style="height: 40px; width: auto;" alt="Mellow"></a></h3>
+   <td align=center> <a href="https://github.com/makerbase-mks/mks-monster8"><img src="https://avatars.githubusercontent.com/u/12979070?v=4" style="height: 40px; width: auto;" alt="Mellow"></a>
+  <h3><a href="https://github.com/makerbase-mks/mks-monster8">Monster 8 V2</a></h3>
     <a href="https://github.com/makerbase-mks/mks-monster8"> 
-   <img src="https://github.com/makerbase-mks/MKS-Monster8/blob/main/hardware/Image/MKS%20Monster8%20V1.0_002.jpg" style="height: 150px; width: auto;" alt="MKS Monter 8"></a> </td> 
-</tr>
+   <img src="https://github.com/makerbase-mks/MKS-Monster8/blob/main/hardware/Image/MKS%20Monster8%20V1.0_002.jpg" style="height: 150px; width: auto;" alt="MKS Monter 8"></a> </td> </tr>
 
 <tr>
-  <td align=center> 
-  <h3><a href="https://github.com/FYSETC/FYSETC-SPIDER">Spider V3.0</a> & <a href="https://github.com/FYSETC/FYSETC-SPIDER-H7">H7</a> <a href="https://www.fysetc.com/collections/controllers"><img src="https://avatars.githubusercontent.com/u/36067086?s=200&v=4" style="height: 40px; width: auto;" alt="Fysetc"></a> </h3>
+  <td align=center> <a href="https://www.fysetc.com/collections/controllers"><img src="https://avatars.githubusercontent.com/u/36067086?s=200&v=4" style="height: 40px; width: auto;" alt="Fysetc"></a>
+  <h3><a href="https://github.com/FYSETC/FYSETC-SPIDER">Spider V3.0</a> & <a href="https://github.com/FYSETC/FYSETC-SPIDER-H7">H7</a></h3>
     <a href="https://github.com/FYSETC/FYSETC-SPIDER"> 
    <img src="https://github.com/FYSETC/FYSETC-SPIDER/blob/main/images/Spider.png" style="height: 150px; width: auto;" alt="Spider V3"></a> </td>
 
-   <td align=center> 
-  <h3><a href="https://github.com/FYSETC/FYSETC-SPIDER-KING">Spider King</a> <a href="https://www.fysetc.com/collections/controllers"><img src="https://avatars.githubusercontent.com/u/36067086?s=200&v=4" style="height: 40px; width: auto;" alt="Fysetc"></a> </h3>
+   <td align=center> <a href="https://www.fysetc.com/collections/controllers"><img src="https://avatars.githubusercontent.com/u/36067086?s=200&v=4" style="height: 40px; width: auto;" alt="Fysetc"></a>
+  <h3><a href="https://github.com/FYSETC/FYSETC-SPIDER-KING">Spider King</a></h3>
     <a href="https://github.com/FYSETC/FYSETC-SPIDER-KING"> 
    <img src="https://github.com/FYSETC/FYSETC-SPIDER-KING/blob/main/images/SpiderKing.jpg" style="height: 150px; width: auto;" alt="Spider"></a> </td> 
  
-  <td align=center> 
-   <a href="https://ldomotion.com/products?category=3D%20Printing"><img src="https://ldomotion.com/LDOMotion.svg" style="height: 40px; width: auto;" alt="LDO"></a>
+  <td align=center> <a href="https://ldomotion.com/products?category=3D%20Printing"><img src="https://github.com/KlipperScreen/KlipperScreen/raw/master/docs/img/sponsors/LDO.png" style="height: 40px; width: auto;" alt="LDO"></a>
    <h3><a href="https://github.com/MotorDynamicsLab/Leviathan">Leviathan V3</a></h3>
     <a href="https://github.com/MotorDynamicsLab/Leviathan"> 
-   <img src="https://raw.githubusercontent.com/MotorDynamicsLab/Leviathan/refs/heads/master/Media/product_img_web2.avif" style="height: 150px; width: auto;" alt="Leviathan"></a> </td> 
-</tr>
-</table> </details>
+   <img src="https://raw.githubusercontent.com/MotorDynamicsLab/Leviathan/refs/heads/master/Media/product_img_web2.avif" style="height: 150px; width: auto;" alt="Leviathan"></a> </td> </tr> </table> </details>
 
    <!--## RPi-->
 <details> <summary align=center><h3>2. RPi</h3></summary>
 
 <table align=center>
   <tr>
-   <td align=center>
-  <h3><a href="https://www.raspberrypi.com/products/raspberry-pi-3-model-b/">Rpi 3B</a> & <a href="https://www.raspberrypi.com/products/raspberry-pi-4-model-b/">4</a></h3>
+   <td align=center> <a href="https://www.raspberrypi.com/"><img src="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3b/Raspberry_Pi_logo.svg/langfr-250px-Raspberry_Pi_logo.svg.png" style="height: 40px; width: auto;" alt="RPI"></a>
+  <h3><a href="https://www.raspberrypi.com/products/raspberry-pi-3-model-b/">Rpi 3B</a> & <a href="https://www.raspberrypi.com/products/raspberry-pi-4-model-b/">4</a> & <a href="https://www.raspberrypi.com/products/raspberry-pi-5/">5</a></h3>
   <a href="https://www.raspberrypi.com/products/raspberry-pi-4-model-b/">
   <img src="https://assets.raspberrypi.com/static/532b4c25752c4235d76cc41051baf9ab/9ff6b/877fb653-7b43-4931-9cee-977a22571f65_3b%2BAngle%2B2%2Brefresh.webp" style="height: 150px; width: auto;" alt="RPi"></a> </td>
 
-  <td align=center>
-  <h3><a href="https://global.bttwiki.com/PI4B.html">Pi4B</a><a href="https://bigtree-tech.com/"><img src="https://github.com/bigtreetech/docs/blob/master/docs/img/BQ-LOGO.svg" style="height: 40px; width: auto;" alt="BTT"></a></h3>
+  <td align=center> <a href="https://bigtree-tech.com/"><img src="https://github.com/bigtreetech/docs/blob/master/docs/img/BQ-LOGO.svg" style="height: 40px; width: auto;" alt="BTT"></a>
+  <h3><a href="https://global.bttwiki.com/PI4B.html">Pi4B</a></h3>
   <a href="https://global.bttwiki.com/PI4B.html">
   <img src="https://global.bttwiki.com/img/PI4B/PI4B_Title.webp" style="height: 150px; width: auto;" alt="BTT PI4B"></a>  </td> 
 
-  <td align=center>
-  <h3><a href="https://github.com/bigtreetech/docs/blob/master/docs/PI4B.md#cm4-installation">CM4</a><a href="https://bigtree-tech.com/"><img src="https://github.com/bigtreetech/docs/blob/master/docs/img/BQ-LOGO.svg" style="height: 40px; width: auto;" alt="BTT"></a></h3>
+  <td align=center> <a href="https://bigtree-tech.com/"><img src="https://github.com/bigtreetech/docs/blob/master/docs/img/BQ-LOGO.svg" style="height: 40px; width: auto;" alt="BTT"></a>
+  <h3><a href="https://github.com/bigtreetech/docs/blob/master/docs/PI4B.md#cm4-installation">CM4</a></h3>
   <a href="https://github.com/bigtreetech/docs/blob/master/docs/PI4B.md#cm4-installation">
-  <img src="https://github.com/bigtreetech/docs/blob/master/docs/img/PI4B/PI4B_CM4.webp" style="height: 150px; width: auto;" alt="BTT CM4"></a>  </td> 
+  <img src="https://github.com/bigtreetech/docs/blob/master/docs/img/PI4B/PI4B_CM4.webp" style="height: 150px; width: auto;" alt="BTT CM4"></a>  </td> </tr>
+  
+<tr>
+  <td align=center><a href="https://bigtree-tech.com/"><img src="https://github.com/bigtreetech/docs/blob/master/docs/img/BQ-LOGO.svg" style="height: 40px; width: auto;" alt="BTT"></a>
+  <h3><a href="https://global.bttwiki.com/CB1.html">CB1</a></h3>
+  <a href="https://global.bttwiki.com/CB1.html">
+  <img src="https://global.bttwiki.com/img/CB1.webp" style="height: 150px; width: auto;" alt="BTT CB2"></a> </td> 
 
-  <td align=center>
-  <h3><a href="https://global.bttwiki.com/CB1.html">CB1</a> & <a href="https://global.bttwiki.com/CB2.html">CB2</a><a href="https://bigtree-tech.com/"><img src="https://github.com/bigtreetech/docs/blob/master/docs/img/BQ-LOGO.svg" style="height: 40px; width: auto;" alt="BTT"></a></h3>
+   <td align=center><a href="https://bigtree-tech.com/"><img src="https://github.com/bigtreetech/docs/blob/master/docs/img/BQ-LOGO.svg" style="height: 40px; width: auto;" alt="BTT"></a>
+  <h3><a href="https://global.bttwiki.com/CB2.html">CB2</a></h3>
   <a href="https://global.bttwiki.com/CB2.html">
   <img src="https://global.bttwiki.com/img/CB2/CB2_Title.webp" style="height: 150px; width: auto;" alt="BTT CB2"></a> </td> 
-  
- </tr> </table> </details> </details>
+
+   <td align=center> <a href="https://mellow-3d.github.io/fly_pi_general.html"><img src="https://mellow-3d.github.io/images/company_logo.png" style="height: 40px; width: auto;" alt="Mellow"></a>
+  <h3><a href="https://mellow-3d.github.io/fly_pi_general.html">Fly Pi</a></h3>
+  <a href="https://mellow-3d.github.io/fly_pi_general.html">
+  <img src="https://mellow-3d.github.io/images/fly-pi/fly_pi_front.webp" style="height: 150px; width: auto;" alt="Fly Pi"></a> </td> </tr> </table> </details> </details>
 
 
- <details> <summary><h3>2. PrintHeads</h3></summary>
+ <details> <summary><h3> PrintHeads</h3></summary>
 
    <!--## ToolHeads (TH) & Extruder-->
 <details> <summary align=center><h3>1. ToolHeads [TH]</h3></summary>
@@ -275,15 +275,14 @@
   <img src="https://github.com/hdgreef/Riton-Github/blob/main/docs/images/AH_Logo.png" style="height: 150px; width: auto;" alt="AH"></a> </td>
 
   <td align=center>
-  <h3><a href="https://github.com/Armchair-Heavy-Industries/A4T">[A4T]</a></h3>
+  <h3><a href="https://github.com/Armchair-Heavy-Industries/A4T">Another 4010 Toolhead [A4T]</a></h3>
   <a href="https://github.com/Armchair-Heavy-Industries/A4T"> 
   <img src="https://github.com/Armchair-Heavy-Industries/A4T/blob/main/docs/images/A4T_single_render.png" style="height: 150px; width: auto;" alt="A4T"></a> </td>
 
    <td align=center>
   <h3><a href="https://github.com/kinematicdigit/Jabberwocky">JabberWocky [JW]</a></h3>
   <a href="https://github.com/kinematicdigit/Jabberwocky"> 
-  <img src="https://github.com/kinematicdigit/Jabberwocky/blob/main/Images/JabberWocky_Render.png" style="height: 150px; width: auto;" alt="JW"></a> </td>
-</tr>
+  <img src="https://github.com/kinematicdigit/Jabberwocky/blob/main/Images/JabberWocky_Render.png" style="height: 150px; width: auto;" alt="JW"></a> </td> </tr>
 
  <tr>
  <td align=center>
@@ -299,8 +298,7 @@
   <td align=center>
   <h3><a href="https://github.com/chirpy2605/voron/tree/main/V0/Dragon_Burner">DragonBurner [DB]</a></h3>
   <a href="https://github.com/chirpy2605/voron/tree/main/V0/Dragon_Burner"> 
-  <img src="https://github.com/chirpy2605/voron/blob/main/V0/Dragon_Burner/images/dragonburner.png" style="height: 150px; width: auto;" alt="DB"></a> </td>
- </tr>
+  <img src="https://github.com/chirpy2605/voron/blob/main/V0/Dragon_Burner/images/dragonburner.png" style="height: 150px; width: auto;" alt="DB"></a> </td> </tr>
 
  <tr>
  <td align=center>
@@ -316,13 +314,11 @@
   <td align=center>
   <h3><a href="https://github.com/chirpy2605/voron/tree/main/V0/Yavoth">Yavoth</a></h3>
   <a href="https://github.com/chirpy2605/voron/tree/main/V0/Yavoth"> 
-  <img src="https://github.com/chirpy2605/voron/blob/main/V0/Yavoth/images/yavoth_front.png" style="height: 150px; width: auto;" alt="Yavoth"></a> </td>
- </tr>
+  <img src="https://github.com/chirpy2605/voron/blob/main/V0/Yavoth/images/yavoth_front.png" style="height: 150px; width: auto;" alt="Yavoth"></a> </td> </tr>
  
   <th colspan="3" align=center>
   <a href="https://github.com/Armchair-Heavy-Industries/Archetype/tree/main"> 
-  <img src="https://github.com/Armchair-Heavy-Industries/Archetype/blob/main/archetype-options.png" style="height: 250px; width: auto;" alt="Archetype"></a> </th>
-</table> </details>
+  <img src="https://github.com/Armchair-Heavy-Industries/Archetype/blob/main/archetype-options.png" style="height: 250px; width: auto;" alt="Archetype"></a> </th> </table> </details>
 
 <!--## Extruder-->
 <details> <summary align=center><h3>2. Extruder</h3></summary>
@@ -344,8 +340,7 @@
  <td align=center> 
   <h3><a href="https://github.com/nhchiu/3DPrinter-Designs/tree/main/ProtoXtruder_2.0">ProtoXtruder 2.0 [PX2]</a></h3>
     <a href="https://github.com/nhchiu/3DPrinter-Designs/tree/main/ProtoXtruder_2.0"> 
-   <img src="https://github.com/nhchiu/3DPrinter-Designs/blob/main/ProtoXtruder_2.0/Images/Thumbnail.jpg" style="height: 150px; width: auto;" alt="PX2"></a> </td>
- </tr>
+   <img src="https://github.com/nhchiu/3DPrinter-Designs/blob/main/ProtoXtruder_2.0/Images/Thumbnail.jpg" style="height: 150px; width: auto;" alt="PX2"></a> </td> </tr>
 
 <tr>
    <td align=center> 
@@ -361,8 +356,7 @@
   <td align=center> 
   <h3><a href="https://www.orbiterprojects.com/projects/">Orbiter V2.5</a></h3>
     <a href="https://www.orbiterprojects.com/orbiter-v2-5/"> 
-   <img src="https://github.com/hdgreef/Riton-Github/blob/main/docs/images/Orbiter-2.5-rotate.gif" style="height: 150px; width: auto;" alt="Orbiter"></a> </td>
-</tr>
+   <img src="https://github.com/hdgreef/Riton-Github/blob/main/docs/images/Orbiter-2.5-rotate.gif" style="height: 150px; width: auto;" alt="Orbiter"></a> </td> </tr>
      
 <tr>
   <td align=center>
@@ -378,19 +372,16 @@
   <td align=center> 
   <h3><a href="https://github.com/abigexplosion/WATERHWEEL-EXTRUDER/tree/main">WaterWheel Extruder [WWE]</a></h3>
     <a href="https://github.com/abigexplosion/WATERHWEEL-EXTRUDER/tree/main"> 
-   <img src="https://github.com/hdgreef/Riton-Github/blob/main/docs/images/WWExtruder.png" style="height: 150px; width: auto;" alt="WWE"></a> </td>
-</tr> </table> </details>
+   <img src="https://github.com/hdgreef/Riton-Github/blob/main/docs/images/WWExtruder.png" style="height: 150px; width: auto;" alt="WWE"></a> </td> </tr> </table> </details>
 
 <!--## Hotend-->
 <details> <summary align=center><h3>3. Hotend</h3></summary>
 
 <table align=center>
-  <th colspan="3" align=center>
-  <h3><a href="https://github.com/SartorialGrunt0/Awesome-Hotends">=> Awesome Hotends List</a></h3></th>
-</table> </details>
+  <th colspan="3" align=center> <h3><a href="https://github.com/SartorialGrunt0/Awesome-Hotends">=> Awesome Hotends List</a></h3> </th> </table> </details>
 
  <!--## ToolHead Board-->
- <details open> <summary align=center><h3>4. Toolhead Boards</h3></summary>
+ <details> <summary align=center><h3>4. Toolhead Boards</h3></summary>
 
 <table align=center>
   <th colspan="4">
@@ -398,81 +389,61 @@
 
  <tr> <!--STM36-->
   <td align=center>
-  <a href="https://ldomotion.com/products?category=Controllers"><img src="https://ldomotion.com/LDOMotion.svg" style="height: 40px; width: auto;" alt="LDO"></a>
+  <a href="https://ldomotion.com/products?category=Controllers"><img src="https://github.com/KlipperScreen/KlipperScreen/raw/master/docs/img/sponsors/LDO.png" style="height: 40px; width: auto;" alt="LDO"></a>
   <h3><a href="https://docs.ldomotors.com/en/Toolboard/nitehawk-36">Nitehawk-36</a></h3>
   <a href="https://docs.ldomotors.com/en/Toolboard/nitehawk-36"> 
   <img src="https://stealthchanger.com/assets/tool_boards/nitehawk-36.jpg" style="height: 150px; width: auto;" alt="Nitehawk36"></a> </td>
 
-  <td align=center> 
-  <h3><a href="https://github.com/FYSETC/H36_Combo">H36 Combo</a> <a href="https://www.fysetc.com/"><img src="https://avatars.githubusercontent.com/u/36067086?s=200&v=4" style="height: 40px; width: auto;" alt="Fysetc"></a> </h3>
+  <td align=center> <a href="https://www.fysetc.com/"><img src="https://avatars.githubusercontent.com/u/36067086?s=200&v=4" style="height: 40px; width: auto;" alt="Fysetc"></a>
+  <h3><a href="https://github.com/FYSETC/H36_Combo">H36 Combo</a></h3>
     <a href=" https://github.com/FYSETC/H36_Combo"> 
    <img src="https://stealthchanger.com/assets/tool_boards/h36_combo.png" style="height: 150px; width: auto;" alt="H36"></a></td>
 
-  <td align=center> 
+  <td align=center> <a href="https://mellow-3d.github.io/index.html"><img src="https://mellow-3d.github.io/images/company_logo.png" style="height: 40px; width: auto;" alt="Fysetc"></a>
   <h3><a href="https://mellow-3d.github.io/fly-sht36_v2_general.html">Fly STH-36 V2</a></h3>
     <a href="https://mellow-3d.github.io/fly-sht36_v2_general.html"> 
-   <img src="https://mellow-3d.github.io/images/fly-sht36_v2/sht36_v2.png" style="height: 150px; width: auto;" alt="STH36 V2"></a> </td>
+   <img src="https://mellow-3d.github.io/images/fly-sht36_v2/sht36_v2.png" style="height: 150px; width: auto;" alt="STH36 V2"></a> </td> </tr>
 
-   <td align=center> 
-  <h3><a href="https://global.bttwiki.com/EBB36_GEN2.html">EBB36 Gen2</a><a href="https://bigtree-tech.com/fr/"><img src="https://github.com/bigtreetech/docs/blob/master/docs/img/BQ-LOGO.svg" style="height: 40px; width: auto;" alt="BTT"></a></h3>
+<tr> <!--RP22xx-->
+    <td align=center> <a href="https://bigtree-tech.com/fr/"><img src="https://github.com/bigtreetech/docs/blob/master/docs/img/BQ-LOGO.svg" style="height: 40px; width: auto;" alt="BTT"></a>
+  <h3><a href="https://global.bttwiki.com/EBB36_GEN2.html">EBB36 Gen2</a></h3>
     <a href="https://global.bttwiki.com/EBB36_GEN2.html"> 
-   <img src="https://github.com/hdgreef/Riton-Github/blob/main/docs/images/EBB36_GEN2.jpg" style="height: 150px; width: auto;" alt="EBB Gen2"></a></td>
-</tr>
-
-<tr> <!--RP2209 & 2040-->
-   <td align=center> 
-  <h3><a href="https://global.bttwiki.com/EBB%2042%20CAN.html">EBB42 Gen2</a><a href="https://bigtree-tech.com/fr/"><img src="https://github.com/bigtreetech/docs/blob/master/docs/img/BQ-LOGO.svg" style="height: 40px; width: auto;" alt="BTT"></a></h3>
+   <img src="https://github.com/hdgreef/Riton-Github/blob/main/docs/images/EBB36_GEN2.jpg" style="height: 150px; width: auto;" alt="EBB Gen2"></a> </td>
+ 
+ <td align=center> <a href="https://bigtree-tech.com/fr/"><img src="https://github.com/bigtreetech/docs/blob/master/docs/img/BQ-LOGO.svg" style="height: 40px; width: auto;" alt="BTT"></a>
+  <h3><a href="https://global.bttwiki.com/EBB%2042%20CAN.html">EBB42 Gen2</a></h3>
     <a href="https://global.bttwiki.com/EBB%2042%20CAN.html"> 
    <img src="https://global.bttwiki.com/img/EBB42CAN/072/EBB42_072_Title.webp" style="height: 150px; width: auto;" alt="EBB Gen2"></a> </td>
- 
+
  <td align=center>
-  <a href="https://ldomotion.com/products?category=Controllers"><img src="https://ldomotion.com/LDOMotion.svg" style="height: 40px; width: auto;" alt="LDO"></a>
+  <a href="https://ldomotion.com/products?category=Controllers"><img src="https://github.com/KlipperScreen/KlipperScreen/raw/master/docs/img/sponsors/LDO.png" style="height: 40px; width: auto;" alt="LDO"></a>
+  <h3><a href="https://github.com/RobertLorincz/Orbiter-Toolboards/tree/main">Orbiter 02S</a></h3>
+    <a href="https://github.com/RobertLorincz/Orbiter-Toolboards/tree/main"> 
+   <img src="https://github.com/RobertLorincz/Orbiter-Toolboards/blob/main/Orbiter%20O2%20Toolboard/Pictures/Orbiter%20v2%20Toolboard%20v2.72%20v15.png?raw=true" style="height: 150px; width: auto;" alt="ObiterTB"></a> </td> </tr>
+
+  <tr> 
+ <td align=center>
+  <a href="https://ldomotion.com/products?category=Controllers"><img src="https://github.com/KlipperScreen/KlipperScreen/raw/master/docs/img/sponsors/LDO.png" style="height: 40px; width: auto;" alt="LDO"></a>
   <h3><a href="https://docs.ldomotors.com/en/Toolboard/nitehawk-sb-v2">NiteHawk SB V2</a></h3>
     <a href="https://docs.ldomotors.com/en/Toolboard/nitehawk-sb-v2"> 
    <img src="https://stealthchanger.com/assets/tool_boards/nitehawk_sb.webp" style="height: 150px; width: auto;" alt="NH SB V2"></a> </td>
  
-  <td align=center> 
-  <h3><a href="https://global.bttwiki.com/EBB%202240%202209%20CAN.html">EBB SB2209/2040</a><a href="https://bigtree-tech.com/fr/"><img src="https://github.com/bigtreetech/docs/blob/master/docs/img/BQ-LOGO.svg" style="height: 40px; width: auto;" alt="BTT"></a></h3>
+  <td align=center> <a href="https://bigtree-tech.com/fr/"><img src="https://github.com/bigtreetech/docs/blob/master/docs/img/BQ-LOGO.svg" style="height: 40px; width: auto;" alt="BTT"></a>
+  <h3><a href="https://global.bttwiki.com/EBB%202240%202209%20CAN.html">EBB SB22xx</a></h3>
     <a href="https://global.bttwiki.com/EBB%202240%202209%20CAN.html"> 
    <img src="https://stealthchanger.com/assets/tool_boards/sb2209.webp" style="height: 150px; width: auto;" alt="EBB SB"></a> </td>
 
-   <td align=center> 
-  <h3><a href="https://mellow-3d.github.io/fly_sb2040_v2_general.html">Fly SB2209/2240</a></h3>
+   <td align=center> <a href="https://mellow-3d.github.io/index.html"><img src="https://mellow-3d.github.io/images/company_logo.png" style="height: 40px; width: auto;" alt="Fysetc"></a>
+  <h3><a href="https://mellow-3d.github.io/fly_sb2040_v2_general.html">Fly SB22xx</a></h3>
     <a href="https://mellow-3d.github.io/fly_sb2040_v2_general.html"> 
-   <img src="https://mellow-3d.github.io/images/fly_sb2040_v2/general_image.jpg" style="height: 150px; width: auto;" alt="Fly SB"></a> </td>
-</tr> </table> </details> </details>
+   <img src="https://mellow-3d.github.io/images/fly_sb2040_v2/general_image.jpg" style="height: 150px; width: auto;" alt="Fly SB"></a> </td> </tr> </table> </details> </details>
 
 <!-- Electro & Mechanical -->
-<details> <summary><h3>3. Electro & Mechanical</h3></summary>
+<details> <summary><h3> Electro & Mechanical</h3></summary>
   <h3 align=center><a href="https://github.com/LegionPleingaz/Voronpedia/blob/main/SUMMARY.md">=> See Voronpedia Summary</a></h3>
 
-<details> <summary align=center><h4>Fans</h4></summary> <!-- Fans -->
-    
-<table align=center>
- <tr> 
-  <td align=center> <h3><a href="https://www.aliexpress.com/item/4000865202504.html?spm=a2g0o.store_pc_allItems_or_groupList.0.0.5d1f2120xINGeC&pdp_npi=4%40dis%21EUR%21%E2%82%AC%2020%2C99%21%E2%82%AC%2020%2C99%21%21%2123.78%2123.78%21%40210393bd17815143133105591e0ff2%2110000009727027696%21sh%21BE%21769525439%21X">Radial 5015 Sunon</a></h3>
-  <a href="https://www.aliexpress.com/item/4000865202504.html?spm=a2g0o.store_pc_allItems_or_groupList.0.0.5d1f2120xINGeC&pdp_npi=4%40dis%21EUR%21%E2%82%AC%2020%2C99%21%E2%82%AC%2020%2C99%21%21%2123.78%2123.78%21%40210393bd17815143133105591e0ff2%2110000009727027696%21sh%21BE%21769525439%21X"> 
-  <img src="https://ae-pic-a1.aliexpress-media.com/kf/Haa89d3fffe6541bbbda792c8dba6a3c0L.jpg_220x220q75.jpg_.avif" style="height: 150px; width: auto;" alt="R5015"></a> </td>
-
-  <td align=center> <h3><a href="https://www.aliexpress.com/item/1005004729010078.html?spm=a2g0o.store_pc_allItems_or_groupList.0.0.5d1f2120xINGeC&pdp_npi=4%40dis%21EUR%21%E2%82%AC%2065%2C39%21%E2%82%AC%2065%2C39%21%21%2174.08%2174.08%21%40210393bd17815143133105591e0ff2%2112000030267154667%21sh%21BE%21769525439%21X">Radial 7040 CPAP</a></h3>
-  <a href="https://www.aliexpress.com/item/1005004729010078.html?spm=a2g0o.store_pc_allItems_or_groupList.0.0.5d1f2120xINGeC&pdp_npi=4%40dis%21EUR%21%E2%82%AC%2065%2C39%21%E2%82%AC%2065%2C39%21%21%2174.08%2174.08%21%40210393bd17815143133105591e0ff2%2112000030267154667%21sh%21BE%21769525439%21X"> 
-  <img src="https://ae-pic-a1.aliexpress-media.com/kf/Ac344ca3b072541d89c30c17dda0bec15w.jpg?has_lang=1&ver=1_220x220q75.jpg_.avif" style="height: 150px; width: auto;" alt="WS7040"></a> </td>
-
-  <td align=center> <h3><a href="https://nl.aliexpress.com/item/1005005094153190.html?gatewayAdapt=glo2nld">Radial 4010 Gdstime</a></h3>
-    <a href="https://nl.aliexpress.com/item/1005005094153190.html?gatewayAdapt=glo2nld"> 
-   <img src="https://ae-pic-a1.aliexpress-media.com/kf/Se0c8f91eb98949a190fbec4d4e44c6ceR.jpg?has_lang=1&ver=2_220x220q75.jpg_.avif" style="height: 150px; width: auto;" alt="R4010"></a> </td>
-
-  <td align=center> <h3><a href="https://www.digikey.be/en/products/detail/delta-electronics/ASB02505SHA-AY6B/7491489">Axial 2510</a></h3>
-    <a href="https://www.digikey.be/en/products/detail/delta-electronics/ASB02505SHA-AY6B/7491489"> 
-   <img src="https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/2279/ASB02505SHA-AY6B.jpg?hidebanner=true" style="height: 150px; width: auto;" alt="R2510"></a> </td>
-
-  <td align=center> <h3><a href="https://www.aliexpress.com/item/4001220454784.html?spm=a2g0o.store_pc_allItems_or_groupList.0.0.5d1f2120xINGeC&pdp_npi=4%40dis%21EUR%21%E2%82%AC%205%2C84%21%E2%82%AC%205%2C61%21%21%216.62%216.36%21%40210393bd17815143133105591e0ff2%2110000015343069560%21sh%21BE%21769525439%21X">Axial 6010</a></h3>
-  <a href="https://www.aliexpress.com/item/4001220454784.html?spm=a2g0o.store_pc_allItems_or_groupList.0.0.5d1f2120xINGeC&pdp_npi=4%40dis%21EUR%21%E2%82%AC%205%2C84%21%E2%82%AC%205%2C61%21%21%216.62%216.36%21%40210393bd17815143133105591e0ff2%2110000015343069560%21sh%21BE%21769525439%21X"> 
-  <img src="https://ae-pic-a1.aliexpress-media.com/kf/Hd392f07baa34489989f49ece6dc283e1n.jpg_220x220q75.jpg_.avif" style="height: 150px; width: auto;" alt="A6010"></a> </td>
-</tr> </table> </details>
-
-<details> <summary align=center><h4>Bed</h4></summary> <!-- Bed -->
-  <h3 align=center><a href="https://github.com/LegionPleingaz/Voronpedia/blob/main/mechanical/bed.md#-print-surface-notes">=> Print Surface</a> & <a href="https://github.com/LegionPleingaz/Voronpedia/blob/main/mechanical/bed.md#%EF%B8%8F-bed-temperature-by-material">Bed Temp by material</a></h3>
+<details> <summary align=center><h4>1. Bed</h4></summary> <!-- Bed -->
+  <h4 align=center><a href="https://github.com/LegionPleingaz/Voronpedia/blob/main/mechanical/bed.md#-print-surface-notes">=> Print Surface</a> & <a href="https://github.com/LegionPleingaz/Voronpedia/blob/main/mechanical/bed.md#%EF%B8%8F-bed-temperature-by-material">Bed Temp by material</a></h4>
     
 <table align=center>
  <tr> 
@@ -490,14 +461,83 @@
 
    <td align=center><h3><a href="https://www.matterhackers.com/store/l/glass-print-bed-for-ultimaker-2-3/sk/MFHKAEQK">Borosilicate + Glue</a></h3>
   <a href="https://www.matterhackers.com/store/l/glass-print-bed-for-ultimaker-2-3/sk/MFHKAEQK"> 
-  <img src="https://lh3.googleusercontent.com/6EiIUygmjSsR1PdnmAc5gk576DoiZns6oE7Y51bxM7wzTXHGPQaK82R8Kj_GFi0mIxViML_-2tem2iIR8bVCzw=w900-h675-c-rw-e365" style="height: 150px; width: auto;" alt="Glass"></a> </td>
-</tr> </table> </details>
+  <img src="https://lh3.googleusercontent.com/6EiIUygmjSsR1PdnmAc5gk576DoiZns6oE7Y51bxM7wzTXHGPQaK82R8Kj_GFi0mIxViML_-2tem2iIR8bVCzw=w900-h675-c-rw-e365" style="height: 150px; width: auto;" alt="Glass"></a> </td> </tr> </table> </details>
 
-<details> <summary align=center><h4>Stepper Motor</h4></summary> <!-- Stepper Motor -->
-  <h4><a href="https://github.com/LegionPleingaz/Voronpedia/blob/main/electro/motors.md">=> Stepper Motor Voronpedia</a></h4>
+<details> <summary align=center><h4>2. Driver SMD</h4></summary> <!-- Driver -->
     
 <table align=center>
- <tr>
+ <tr> 
+  <td align=center><a href="https://global.bttwiki.com/TMC2209.html"><img src="https://github.com/bigtreetech/docs/blob/master/docs/img/BQ-LOGO.svg" style="height: 40px; width: auto;" alt="BTT"></a> <a href="http://wiki.fysetc.com/docs/Silent2209"><img src="https://avatars.githubusercontent.com/u/36067086?s=200&v=4" style="height: 40px; width: auto;" alt="Fysetc"></a> <a href="https://mellow-3d.github.io/fly_tmc2209_general.html"><img src="https://mellow-3d.github.io/images/company_logo.png" style="height: 40px; width: auto;" alt="Mellow"></a>
+   <h3><a href="https://global.bttwiki.com/TMC2209.html">TMC2209</a></h3>
+  <a href="https://global.bttwiki.com/TMC2209.html"> 
+  <img src="https://global.bttwiki.com/img/TMC2209/TMC2209_Title.webp" style="height: 150px; width: auto;" alt="TMC2209"></a> </td>
+
+  <td align=center> <a href="https://global.bttwiki.com/TMC2240.html"><img src="https://github.com/bigtreetech/docs/blob/master/docs/img/BQ-LOGO.svg" style="height: 40px; width: auto;" alt="BTT"></a> <a href="http://wiki.fysetc.com/docs/drivers"><img src="https://avatars.githubusercontent.com/u/36067086?s=200&v=4" style="height: 40px; width: auto;" alt="Fysetc"></a>
+ <h3><a href="https://global.bttwiki.com/TMC2240.html">TMC2xxx</a></h3>
+  <a href="https://global.bttwiki.com/TMC2240.html"> 
+  <img src="https://biqu.equipment/cdn/shop/files/02_ddd1f7a8-c7d3-4c2d-b8df-01c664c69d6a.png?v=1757557514&width=1220" style="height: 150px; width: auto;" alt="TMC2240"></a> </td>
+
+  <td align=center><a href="https://global.bttwiki.com/TMC5160T%20Pro%20V1.0.html"><img src="https://github.com/bigtreetech/docs/blob/master/docs/img/BQ-LOGO.svg" style="height: 40px; width: auto;" alt="BTT"></a> <a href="http://wiki.fysetc.com/docs/QHV5160"><img src="https://avatars.githubusercontent.com/u/36067086?s=200&v=4" style="height: 40px; width: auto;" alt="Fysetc"></a> <a href="https://mellow-3d.github.io/fly_tmc5160_general.html"><img src="https://mellow-3d.github.io/images/company_logo.png" style="height: 40px; width: auto;" alt="Mellow"></a>
+  <h3><a href="https://global.bttwiki.com/TMC5160T%20Pro%20V1.0.html">TMC5160T</a></h3>
+  <a href="https://global.bttwiki.com/TMC5160T%20Pro%20V1.0.html"> 
+  <img src="https://global.bttwiki.com/img/tmc5160t_pro/tmc5160t_pro_title.webp" style="height: 150px; width: auto;" alt="TMC5160T"></a> </td>
+
+  <!-- <td align=center><h3><a href="https://github.com/andrewmcgr/tmc-4671">TMC4671</a></h3>
+   <a href="https://github.com/andrewmcgr/tmc-4671"> 
+  <img src="" style="height: 150px; width: auto;" alt="TMC4671"></a> -->
+</tr>
+
+<tr>
+   <td align=center> <a href="https://global.bttwiki.com/TMC5160TPlus.html"><img src="https://github.com/bigtreetech/docs/blob/master/docs/img/BQ-LOGO.svg" style="height: 40px; width: auto;" alt="BTT"></a> <a href="http://wiki.fysetc.com/docs/drivers"><img src="https://avatars.githubusercontent.com/u/36067086?s=200&v=4" style="height: 40px; width: auto;" alt="Fysetc"></a> <a href="https://mellow-3d.github.io/fly_hv-tmc5160pro_general.html"><img src="https://mellow-3d.github.io/images/company_logo.png" style="height: 40px; width: auto;" alt="Mellow"></a>
+   <h3><a href="https://global.bttwiki.com/TMC5160TPlus.html">TMC5160+</a></h3>
+  <a href="https://global.bttwiki.com/TMC5160TPlus.html"> 
+  <img src="https://global.bttwiki.com/img/TMC5160TPlus/TMC5160TPlus_Title.webp" style="height: 150px; width: auto;" alt="TMC5160+"></a> </td>
+ 
+  <td align=center> <a href="https://global.bttwiki.com/EZ2209.html"><img src="https://github.com/bigtreetech/docs/blob/master/docs/img/BQ-LOGO.svg" style="height: 40px; width: auto;" alt="BTT"></a> 
+   <h3><a href="https://global.bttwiki.com/TMC5160TPlus.html">EZ2xxx</a></h3>
+  <a href="https://global.bttwiki.com/EZ2209.html"> 
+  <img src="https://global.bttwiki.com/img/EZ2209/EZ2209_Title.webp" style="height: 150px; width: auto;" alt="EZ"></a> </td>
+
+  <td align=center> <a href="https://mellow-3d.github.io/index.html"><img src="https://mellow-3d.github.io/images/company_logo.png" style="height: 40px; width: auto;" alt="Mellow"></a>
+   <h3><a href="https://mellow.nl.aliexpress.com/store/1531088/pages/all-items.html?productGroupId=10000001192956&spm=a2g0o.store_pc_allItems_or_groupList.pcShopHead_6126688.1_10&storeId=1531088&sortType=bestmatch_sort&shop_sortType=bestmatch_sort&SearchText=&shop_filterType=">TP2xxx</a></h3>
+  <a href="https://mellow.nl.aliexpress.com/store/1531088/pages/all-items.html?productGroupId=10000001192956&spm=a2g0o.store_pc_allItems_or_groupList.pcShopHead_6126688.1_10&storeId=1531088&sortType=bestmatch_sort&shop_sortType=bestmatch_sort&SearchText=&shop_filterType="> 
+  <img src="https://ae-pic-a1.aliexpress-media.com/kf/Sa82186933bb04601a29844faa131a0c1p.jpg_220x220q75.jpg_.avif" style="height: 150px; width: auto;" alt="TP"></a> </td> </tr> </table> </details>
+
+<details> <summary align=center><h4>3. Fans</h4></summary> <!-- Fans -->
+    
+<table align=center>
+ <tr> 
+  <td align=center> <h3><a href="https://www.aliexpress.com/item/4000865202504.html?spm=a2g0o.store_pc_allItems_or_groupList.0.0.5d1f2120xINGeC&pdp_npi=4%40dis%21EUR%21%E2%82%AC%2020%2C99%21%E2%82%AC%2020%2C99%21%21%2123.78%2123.78%21%40210393bd17815143133105591e0ff2%2110000009727027696%21sh%21BE%21769525439%21X">Radial 5015</a></h3>
+  <a href="https://www.aliexpress.com/item/4000865202504.html?spm=a2g0o.store_pc_allItems_or_groupList.0.0.5d1f2120xINGeC&pdp_npi=4%40dis%21EUR%21%E2%82%AC%2020%2C99%21%E2%82%AC%2020%2C99%21%21%2123.78%2123.78%21%40210393bd17815143133105591e0ff2%2110000009727027696%21sh%21BE%21769525439%21X"> 
+  <img src="https://ae-pic-a1.aliexpress-media.com/kf/Haa89d3fffe6541bbbda792c8dba6a3c0L.jpg_220x220q75.jpg_.avif" style="height: 150px; width: auto;" alt="R5015"></a> </td>
+
+  <td align=center> <h3><a href="https://nl.aliexpress.com/item/1005005094153190.html?gatewayAdapt=glo2nld">Radial 4010</a></h3>
+    <a href="https://nl.aliexpress.com/item/1005005094153190.html?gatewayAdapt=glo2nld"> 
+   <img src="https://ae-pic-a1.aliexpress-media.com/kf/Se0c8f91eb98949a190fbec4d4e44c6ceR.jpg?has_lang=1&ver=2_220x220q75.jpg_.avif" style="height: 150px; width: auto;" alt="R4010"></a> </td>
+
+  <td align=center> <h3><a href="https://www.digikey.be/en/products/detail/delta-electronics/ASB02505SHA-AY6B/7491489">Axial 2510</a></h3>
+    <a href="https://www.digikey.be/en/products/detail/delta-electronics/ASB02505SHA-AY6B/7491489"> 
+   <img src="https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/2279/ASB02505SHA-AY6B.jpg?hidebanner=true" style="height: 150px; width: auto;" alt="R2510"></a> </td>
+
+  <td align=center> <h3><a href="https://www.aliexpress.com/item/4001220454784.html?spm=a2g0o.store_pc_allItems_or_groupList.0.0.5d1f2120xINGeC&pdp_npi=4%40dis%21EUR%21%E2%82%AC%205%2C84%21%E2%82%AC%205%2C61%21%21%216.62%216.36%21%40210393bd17815143133105591e0ff2%2110000015343069560%21sh%21BE%21769525439%21X">Axial 6010</a></h3>
+  <a href="https://www.aliexpress.com/item/4001220454784.html?spm=a2g0o.store_pc_allItems_or_groupList.0.0.5d1f2120xINGeC&pdp_npi=4%40dis%21EUR%21%E2%82%AC%205%2C84%21%E2%82%AC%205%2C61%21%21%216.62%216.36%21%40210393bd17815143133105591e0ff2%2110000015343069560%21sh%21BE%21769525439%21X"> 
+  <img src="https://ae-pic-a1.aliexpress-media.com/kf/Hd392f07baa34489989f49ece6dc283e1n.jpg_220x220q75.jpg_.avif" style="height: 150px; width: auto;" alt="A6010"></a> </td>
+
+ <td align=center> <h3><a href="https://www.aliexpress.com/item/1005004729010078.html?spm=a2g0o.store_pc_allItems_or_groupList.0.0.5d1f2120xINGeC&pdp_npi=4%40dis%21EUR%21%E2%82%AC%2065%2C39%21%E2%82%AC%2065%2C39%21%21%2174.08%2174.08%21%40210393bd17815143133105591e0ff2%2112000030267154667%21sh%21BE%21769525439%21X">Radial 7040</a></h3>
+  <a href="https://www.aliexpress.com/item/1005004729010078.html?spm=a2g0o.store_pc_allItems_or_groupList.0.0.5d1f2120xINGeC&pdp_npi=4%40dis%21EUR%21%E2%82%AC%2065%2C39%21%E2%82%AC%2065%2C39%21%21%2174.08%2174.08%21%40210393bd17815143133105591e0ff2%2112000030267154667%21sh%21BE%21769525439%21X"> 
+  <img src="https://ae-pic-a1.aliexpress-media.com/kf/Ac344ca3b072541d89c30c17dda0bec15w.jpg?has_lang=1&ver=1_220x220q75.jpg_.avif" style="height: 150px; width: auto;" alt="WS7040"></a> </td> </tr> </table> </details>
+
+<details> <summary align=center><h4>4. Stepper Motor</h4></summary> <!-- Stepper Motor -->
+  <h4 align=center><a href="https://github.com/LegionPleingaz/Voronpedia/blob/main/electro/motors.md">=> Stepper Motor Voronpedia</a></h4>
+    
+<table align=center>
+<tr>
+   <td colspan="3" align=center> <a href="https://ldomotion.com/products?category=Stepper%20Motors"> 
+  <img src="https://ldomotion.com/LDOMotion.svg" style="height: 30px; width: auto;" alt="LDO"></a> or  <a href="https://www.omc-stepperonline.com/fr/moteur-pas-a-pas-hybride"> 
+  <img src="https://www.omc-stepperonline.com/image/cache/catalog/logo-stepperonline-576px-576x100.png" style="height: 30px; width: auto;" alt="StepperOnline"></a> or <a href="https://www.moonsindustries.com/c/stepper-motors-a02?srsltid=AfmBOoqIXnM9f45gUjQWtJoa5ep-O4UUNvETH6qum2q6dryeyqo0fWfm"> 
+  <img src="https://d2nlp3g45tnwoj.cloudfront.net/staticpic/logo.png" style="height: 30px; width: auto;" alt="Moons"></a> </td> </tr>
+
+<tr>
   <td align=center> <h3><a href="https://www.omc-stepperonline.com/fr/nema-17-moteur-pas-a-pas">Nema 17</a></h3>
   <a href="https://www.omc-stepperonline.com/fr/nema-17-moteur-pas-a-pas"> 
   <img src="https://www.omc-stepperonline.com/image/cache/catalog/stepper-motor/17/17HE15-1504S-500x500.jpg" style="height: 150px; width: auto;" alt="Nema17"></a> </td>
@@ -508,77 +548,30 @@
 
   <td align=center><h3><a href="https://www.omc-stepperonline.com/fr/nema-23-bipolaire-1-8deg-1-16nm-164-3oz-in-1-5a-5-4v-57x57x56mm-4-fils-23hs22-1504s">Nema 23</a></h3>
   <a href="https://www.omc-stepperonline.com/fr/nema-23-bipolaire-1-8deg-1-16nm-164-3oz-in-1-5a-5-4v-57x57x56mm-4-fils-23hs22-1504s"> 
-  <img src="https://www.omc-stepperonline.com/image/cache/catalog/stepper-motor/23/23HS22-1504S-2-500x500.jpg" style="height: 150px; width: auto;" alt="Nema23"></a> </td>
-</tr>
+  <img src="https://www.omc-stepperonline.com/image/cache/catalog/stepper-motor/23/23HS22-1504S-2-500x500.jpg" style="height: 150px; width: auto;" alt="Nema23"></a> </td> </tr> </table> </details>
 
-<tr>
-   <td align=center><h3><a href="https://ldomotion.com/products?category=Stepper%20Motors">LDO Motion</a></h3>
-  <a href="https://ldomotion.com/products?category=Stepper%20Motors"> 
-  <img src="https://ldomotion.com/LDOMotion.svg" style="height: 150px; width: auto;" alt="LDO"></a> </td>
-
-   <td align=center><h3><a href="https://www.omc-stepperonline.com/fr/moteur-pas-a-pas-hybride">StepperOnline</a></h3>
-  <a href="https://www.omc-stepperonline.com/fr/moteur-pas-a-pas-hybride"> 
-  <img src="https://www.omc-stepperonline.com/image/cache/catalog/logo-stepperonline-576px-576x100.png" style="height: 120px; width: auto;" alt="StepperOnline"></a> </td>
-
-   <td align=center><h3><a href="https://www.moonsindustries.com/c/stepper-motors-a02?srsltid=AfmBOoqIXnM9f45gUjQWtJoa5ep-O4UUNvETH6qum2q6dryeyqo0fWfm">Moons</a></h3>
-  <a href="https://www.moonsindustries.com/c/stepper-motors-a02?srsltid=AfmBOoqIXnM9f45gUjQWtJoa5ep-O4UUNvETH6qum2q6dryeyqo0fWfm"> 
-  <img src="https://d2nlp3g45tnwoj.cloudfront.net/staticpic/logo.png" style="height: 100px; width: auto;" alt="Moons"></a> </td>
-</tr></table> </details>
-
-<details> <summary align=center><h4>Driver SMD</h4></summary> <!-- Driver -->
+<details> <summary align=center><h4>5. Screen</h4></summary> <!-- Screen -->
     
 <table align=center>
  <tr> 
-  <td align=center> <h3><a href="https://global.bttwiki.com/TMC2209.html">TMC2209</a> <a href="http://wiki.fysetc.com/docs/drivers"><img src="https://avatars.githubusercontent.com/u/36067086?s=200&v=4" style="height: 40px; width: auto;" alt="Fysetc"></a> </a></h3>
-  <a href="https://global.bttwiki.com/TMC2209.html"> 
-  <img src="https://global.bttwiki.com/img/TMC2209/TMC2209_Title.webp" style="height: 150px; width: auto;" alt="TMC2209"></a> </td>
-
-  <td align=center><h3><a href="https://global.bttwiki.com/TMC2240.html">TMC2240</a> <a href="https://www.fysetc.com/"><img src="http://wiki.fysetc.com/docs/drivers" style="height: 40px; width: auto;" alt="Fysetc"></a></h3>
-  <a href="https://global.bttwiki.com/TMC2240.html"> 
-  <img src="https://biqu.equipment/cdn/shop/files/02_ddd1f7a8-c7d3-4c2d-b8df-01c664c69d6a.png?v=1757557514&width=1220" style="height: 150px; width: auto;" alt="TMC2240"></a> </td>
-
-  <td align=center><h3><a href="https://global.bttwiki.com/TMC5160T%20Pro%20V1.0.html">TMC5160T</a> <a href="https://www.fysetc.com/"><img src="http://wiki.fysetc.com/docs/drivers" style="height: 40px; width: auto;" alt="Fysetc"></a></h3>
-  <a href="https://global.bttwiki.com/TMC5160T%20Pro%20V1.0.html"> 
-  <img src="https://global.bttwiki.com/img/tmc5160t_pro/tmc5160t_pro_title.webp" style="height: 150px; width: auto;" alt="TMC5160T"></a> </td>
-
-  <td align=center><h3><a href="https://global.bttwiki.com/TMC5160TPlus.html">TMC5160+</a> <a href="https://www.fysetc.com/"><img src="http://wiki.fysetc.com/docs/drivers" style="height: 40px; width: auto;" alt="Fysetc"></a></h3>
-  <a href=" https://global.bttwiki.com/TMC5160TPlus.html"> 
-  <img src="https://global.bttwiki.com/img/TMC5160TPlus/TMC5160TPlus_Title.webp" style="height: 150px; width: auto;" alt="TMC5160+"></a> </td>
-
-  <!-- <td align=center><h3><a href="https://github.com/andrewmcgr/tmc-4671">TMC4671</a></h3>
-   <a href="https://github.com/andrewmcgr/tmc-4671"> 
-  <img src="" style="height: 150px; width: auto;" alt="TMC4671"></a> --> </td>
-</tr> </table> </details>
-
-<details> <summary align=center><h4>Screen</h4></summary> <!-- Screen -->
-    
-<table align=center>
- <tr> 
-  <td align=center> <h3><a href="http://wiki.fysetc.com/docs/Mini12864Panel">Mini12864</a> <a href="http://wiki.fysetc.com/docs/displays"><img src="http://wiki.fysetc.com/docs/drivers" style="height: 40px; width: auto;" alt="Fysetc"></a></h3>
+  <td align=center><a href="http://wiki.fysetc.com/docs/Mini12864Panel"><img src="https://avatars.githubusercontent.com/u/36067086?s=200&v=4" style="height: 40px; width: auto;" alt="Fysetc"></a> <a href="https://mellow-3d.github.io/fly_mini12864_general.html"><img src="https://mellow-3d.github.io/images/company_logo.png" style="height: 40px; width: auto;" alt="Mellow"></a>
+  <h3><a href="http://wiki.fysetc.com/docs/Mini12864Panel">Mini12864</a></h3>
   <a href="http://wiki.fysetc.com/docs/Mini12864Panel"> 
   <img src="https://cdn.shopify.com/s/files/1/0550/2209/2502/t/10/assets/mini-2864-display-1660795641813.png?v=1660795643" style="height: 150px; width: auto;" alt="Mini12864"></a> </td>
 
-  <td align=center><h3><a href="https://global.bttwiki.com/TFT35.html">TFT35/43</a></h3>
+  <td align=center>  <a href="https://global.bttwiki.com/TFT35.html"><img src="https://github.com/bigtreetech/docs/blob/master/docs/img/BQ-LOGO.svg" style="height: 40px; width: auto;" alt="BTT"></a> <a href="https://mellow-3d.github.io/fly_tft_general.html"><img src="https://mellow-3d.github.io/images/company_logo.png" style="height: 40px; width: auto;" alt="Mellow"></a>
+   <h3><a href="https://global.bttwiki.com/TFT35.html">TFT35/43</a></h3>
   <a href="https://global.bttwiki.com/TFT35.html"> 
   <img src="https://cdn.shopify.com/s/files/1/0550/2209/2502/t/10/assets/tft-1673492074784.png?v=1673492076" style="height: 150px; width: auto;" alt="TFT"></a> </td>
 
-  <td align=center><h3><a href="https://global.bttwiki.com/HDMI7%20V1.2.html">HDMI5/7</a></h3>
+  <td align=center>  <a href="https://global.bttwiki.com/HDMI5.html"><img src="https://github.com/bigtreetech/docs/blob/master/docs/img/BQ-LOGO.svg" style="height: 40px; width: auto;" alt="BTT"></a> <a href="http://wiki.fysetc.com/docs/FYSTouchPanel"><img src="https://avatars.githubusercontent.com/u/36067086?s=200&v=4" style="height: 40px; width: auto;" alt="Fysetc"></a> <a href="https://mellow-3d.github.io/fly_screen_general.html"><img src="https://mellow-3d.github.io/images/company_logo.png" style="height: 40px; width: auto;" alt="Mellow"></a>
+   <h3><a href="https://global.bttwiki.com/HDMI7%20V1.2.html">HDMI5/7</a></h3>
   <a href="https://global.bttwiki.com/HDMI7%20V1.2.html"> 
-  <img src="https://cdn.shopify.com/s/files/1/0550/2209/2502/t/10/assets/04_600x-1673492219322.png?v=1673492230" style="height: 150px; width: auto;" alt="HDMI5_7"></a> </td>
+  <img src="https://cdn.shopify.com/s/files/1/0550/2209/2502/t/10/assets/04_600x-1673492219322.png?v=1673492230" style="height: 150px; width: auto;" alt="HDMI5_7"></a> </td> </tr> </table> </details>
 
-  <td align=center><h3><a href="https://global.bttwiki.com/TMC5160TPlus.html">TMC5160+</a></h3>
-  <a href=" https://global.bttwiki.com/TMC5160TPlus.html"> 
-  <img src="https://global.bttwiki.com/img/TMC5160TPlus/TMC5160TPlus_Title.webp" style="height: 150px; width: auto;" alt="TMC5160+"></a> </td>
-
-  <!-- <td align=center><h3><a href="https://github.com/andrewmcgr/tmc-4671">TMC4671</a></h3>
-   <a href="https://github.com/andrewmcgr/tmc-4671"> 
-  <img src="" style="height: 150px; width: auto;" alt="TMC4671"></a> --> </td>
-</tr> </table> </details>
-
-<details> <summary align=center><h4>Z-Probe</h4></summary> <!-- Z Probe-->
-<table align=center>
-<tr><th colspan="3">   
-   <h4 align=center><a href="https://github.com/LegionPleingaz/Voronpedia/blob/main/toolhead/probes.md">=> Z-Probe Voronpedia</a></h4></th></tr>
+<details> <summary align=center><h4>6. Z-Probe</h4></summary> <!-- Z Probe-->
+<table align=center>  
+   <h4 align=center><a href="https://github.com/LegionPleingaz/Voronpedia/blob/main/toolhead/probes.md">=> Z-Probe Voronpedia</a></h4>
     
   <tr><th colspan="3"> <h4>Inductive probe</h4></th></tr>
  <tr> 
@@ -592,8 +585,7 @@
 
   <td align=center><h3><a href="https://global.bttwiki.com/Eddy.html">BTT Eddy</a></h3>
   <a href="https://global.bttwiki.com/Eddy.html"> 
-  <img src="https://global.bttwiki.com/img/Eddy/eddy_title_1.webp" style="height: 150px; width: auto;" alt="Eddy"></a> </td>
-</tr>
+  <img src="https://global.bttwiki.com/img/Eddy/eddy_title_1.webp" style="height: 150px; width: auto;" alt="Eddy"></a> </td></tr>
 
 <tr> <th colspan="4"><h4>Nozzle & Retract probe</h4> </th></tr>
  <tr> 
@@ -607,9 +599,7 @@
 
   <td align=center><h3><a href="https://github.com/jlas1/Klicky-Probe">Klicky</a></h3>
   <a href="https://github.com/jlas1/Klicky-Probe"> 
-  <img src="https://github.com/jlas1/Klicky-Probe/raw/main/Probes/KlickyProbe/Photos/KlickyProbe.png" style="height: 150px; width: auto;" alt="Klicky"></a></td>
-</tr>
-</table> </details> </details> </details>
+  <img src="https://github.com/jlas1/Klicky-Probe/raw/main/Probes/KlickyProbe/Photos/KlickyProbe.png" style="height: 150px; width: auto;" alt="Klicky"></a></td> </tr> </table> </details> </details> </details>
 
 ---
 
@@ -624,7 +614,7 @@
 
 <table align=center>
   <th colspan="3" align=center>
-  <h3><a href="https://github.com/moggieuk/Happy-Hare">=> HappyHare <=</a></h3>
+  <h3><a href="https://github.com/moggieuk/Happy-Hare">=> HappyHare</a></h3>
    <a href="https://github.com/jwellman80/klipper-toolchanger-easy"> 
    <img src="https://raw.githubusercontent.com/wiki/moggieuk/Happy-Hare/resources/happy_hare_logo.jpg" style="height: 150px; width: auto;" alt="DraftShift"></a> </th>
      
@@ -642,14 +632,13 @@
 <td align=center>
    <p><h3><a href="https://github.com/Annex-Engineering/TradRack">TradRack [TR]</a></h3></p>
   <a href="https://github.com/Annex-Engineering/TradRack"> 
-  <img src="https://raw.githubusercontent.com/Annex-Engineering/TradRack/refs/heads/main/Images/render3.png" style="height: 150px; width: auto;" alt="TR"></a> </td>
-</tr>
+  <img src="https://raw.githubusercontent.com/Annex-Engineering/TradRack/refs/heads/main/Images/render3.png" style="height: 150px; width: auto;" alt="TR"></a> </td> </tr>
 
 <tr>
  <td align=center>
   <h3><a href="https://github.com/Batalhoti/QuattroBox">QuattroBox [QB]</a></h3>
   <a href="https://github.com/Batalhoti/QuattroBox"> 
-  <img src="https://github.com/Batalhoti/QuattroBox/blob/main/Images/V2/QuattroBox_V2_View03.jpg" style="height: 150px; width: auto;" alt="QB"></a>   </td>
+  <img src="https://github.com/Batalhoti/QuattroBox/blob/main/Images/V2/QuattroBox_V2_View03.jpg" style="height: 150px; width: auto;" alt="QB"></a> </td>
 
  <td align=center>
   <h3><a href="https://github.com/DW-Tas/EMU">Expandable Multi-material Unit [EMU]</a></h3>
@@ -659,8 +648,7 @@
   <td align=center>
   <h3><a href="https://github.com/mjonuschat/NightOwl">NightOwl</a></h3>
   <a href="https://github.com/mjonuschat/NightOwl"> 
-  <img src="https://github.com/mjonuschat/NightOwl/raw/main/Images/nightowl-render.png" style="height: 150px; width: auto;" alt="NO"></a> </td>
-</tr>
+  <img src="https://github.com/mjonuschat/NightOwl/raw/main/Images/nightowl-render.png" style="height: 150px; width: auto;" alt="NO"></a> </td> </tr>
 
 <tr>
  <td align=center>
@@ -676,8 +664,7 @@
   <td align=center>
   <h3><a href="https://github.com/lhndo/LH-Stinger/wiki/Pico-MMU">PicoMMU</a></h3>
   <a href="https://github.com/lhndo/LH-Stinger/wiki/Pico-MMU"> 
-  <img src="https://github.com/lhndo/LH-Stinger/raw/main/User_Mods/MMU/Stinger%20Pico%20MMU%20-%20@LH/Assets/lhs_pico_mmu.png?raw=true" style="height: 150px; width: auto;" alt="3MS"></a> </td>
-</tr>
+  <img src="https://github.com/lhndo/LH-Stinger/raw/main/User_Mods/MMU/Stinger%20Pico%20MMU%20-%20@LH/Assets/lhs_pico_mmu.png?raw=true" style="height: 150px; width: auto;" alt="3MS"></a> </td> </tr>
 
 <tr>
   <td align=center>
@@ -693,8 +680,7 @@
    <td align=center>
   <h3><a href="https://github.com/muzixiaoyang/KMS">KMS</a></h3>
   <a href="https://github.com/muzixiaoyang/KMS"> 
-  <img src="https://github.com/muzixiaoyang/KMS/blob/main/KMS-PNG.png" style="height: 150px; width: auto;" alt="KMS"></a>  </td>
-</tr>
+  <img src="https://github.com/muzixiaoyang/KMS/blob/main/KMS-PNG.png" style="height: 150px; width: auto;" alt="KMS"></a>  </td> </tr>
    
 <tr>
    <td align=center>
@@ -706,15 +692,14 @@
 
    <td align=center>
   <h3><a href="https://github.com/3DChameleon/3DChameleonMk4">3D Chameleon</a></h3>
-<!--  <a href="https://github.com/3DChameleon/3DChameleonMk4"> <img src="" style="height: 150px; width: auto;" alt="3D Chameleon"></a> --> </td>
-</tr> </table> </details>
+<!--  <a href="https://github.com/3DChameleon/3DChameleonMk4"> <img src="" style="height: 150px; width: auto;" alt="3D Chameleon"></a> --> </td> </tr> </table> </details>
  
 <!--## ToolChanger-->
 <details> <summary align=center><h3>2. ToolChanger [TC]</h3></summary>
 
 <table align=center>
   <th colspan="3" align=center>
-  <h3><a href="https://github.com/viesturz/klipper-toolchanger"> => Klipper ToolChanger [KTC]<= </a> & <a href="https://github.com/jwellman80/klipper-toolchanger-easy"> => Easy-Version <= </a></h3> </th>
+  <h3><a href="https://github.com/viesturz/klipper-toolchanger"> => Klipper ToolChanger [KTC]</a> & <a href="https://github.com/jwellman80/klipper-toolchanger-easy"> => Easy-Version</a></h3> </th>
    
 <tr>
  <td align=center>
@@ -729,8 +714,7 @@
   <td align=center>
   <h3><a href="https://github.com/srinn/quindec-toolchanger/tree/main">Quindec</a></h3>
   <a href="https://github.com/srinn/quindec-toolchanger/tree/main"> 
-  <img src="https://github.com/srinn/quindec-toolchanger/blob/main/pics/preview.jpg" style="height: 150px; width: auto;" alt="Quindec"></a> </td>
-</tr>
+  <img src="https://github.com/srinn/quindec-toolchanger/blob/main/pics/preview.jpg" style="height: 150px; width: auto;" alt="Quindec"></a> </td> </tr>
 
 <tr>
    <td align=center>
@@ -746,13 +730,12 @@
  <td align=center>
     <h3><a href="https://github.com/ankurv2k6/daksh-toolchanger-v2/">daksh</a></h3>
   <a href="https://github.com/ankurv2k6/daksh-toolchanger-v2/"> 
-  <img src="https://camo.githubusercontent.com/5f7d6ceaf5e6f880fcc422d4c3b91b81ea9832bbe0c5d552c838fe523ec2b2a0/68747470733a2f2f696d672e796f75747562652e636f6d2f76692f3557654c6f496e335554772f302e6a7067" style="height: 150px; width: auto;" alt="daksh"></a> </td>
-</tr>
+  <img src="https://camo.githubusercontent.com/5f7d6ceaf5e6f880fcc422d4c3b91b81ea9832bbe0c5d552c838fe523ec2b2a0/68747470733a2f2f696d672e796f75747562652e636f6d2f76692f3557654c6f496e335554772f302e6a7067" style="height: 150px; width: auto;" alt="daksh"></a> </td> </tr>
 
 <tr>
   <td colspan="3" align=center><h3><a href="https://github.com/BondtechAB/INDX">INDX</a></h3>
   <a href="https://github.com/BondtechAB/INDX"> 
-  <img src="https://tse4.mm.bing.net/th/id/OIP.UfNB6ZmGbUi8fhNlAUxULgHaE8?pid=Api" style="height: 150px; width: auto;" alt="INDX"></a></td></tr></table> </details>
+  <img src="https://tse4.mm.bing.net/th/id/OIP.UfNB6ZmGbUi8fhNlAUxULgHaE8?pid=Api" style="height: 150px; width: auto;" alt="INDX"></a> </td> </tr> </table> </details>
 
 <!--## Filter-->
 <details> <summary align=center><h3>3. Filter</h3></summary>
@@ -774,8 +757,7 @@
    <td align=center>
   <h3><a href="https://github.com/Monolith3D/Monolith_Bed_Fans">Monolith Bed Fans</a></h3>
   <a href="https://github.com/Monolith3D/Monolith_Bed_Fans"> 
-  <img src="https://github.com/Monolith3D/Monolith_Bed_Fans/raw/main/Images/MBF_top.png" style="height: 150px; width: auto;" alt="Monolith BedFan"></a> </td>
-</tr> </table> </details>
+  <img src="https://github.com/Monolith3D/Monolith_Bed_Fans/raw/main/Images/MBF_top.png" style="height: 150px; width: auto;" alt="Monolith BedFan"></a> </td> </tr> </table> </details>
 
 <!--## Mods-->
 <details> <summary align=center><h3>4. Voron Mods</h3></summary>
@@ -798,8 +780,7 @@
 
  <td align=center> <h3><a href="">Y endstop relocalisation</a></h3>
   <a href=""> 
-  <img src="" style="height: 150px; width: auto;" alt="Y stop"></a> </td>
-</tr> </table> </details>
+  <img src="" style="height: 150px; width: auto;" alt="Y stop"></a> </td> </tr> </table> </details>
 
    <!--Cooling-->
 <details> <summary align=center><h4>Cooling</h4></summary>
@@ -808,8 +789,7 @@
  <tr> 
   <td align=center> <h3><a href="https://github.com/mammoth-3D/Mammoth-FDM-MODs/tree/main/Voron%203D%20Printers/mammoth-3D%20CPAP%20Muffler%20V1.35">CPAP Muffler</a></h3>
   <a href="https://github.com/mammoth-3D/Mammoth-FDM-MODs/tree/main/Voron%203D%20Printers/mammoth-3D%20CPAP%20Muffler%20V1.35"> 
-  <img src="https://github.com/mammoth-3D/Mammoth-FDM-MODs/raw/main/Voron%203D%20Printers/mammoth-3D%20CPAP%20Muffler%20V1.35/images/youtube.png" style="height: 150px; width: auto;" alt="TMC2209"></a> </td>
-</tr> </table> </details>
+  <img src="https://github.com/mammoth-3D/Mammoth-FDM-MODs/raw/main/Voron%203D%20Printers/mammoth-3D%20CPAP%20Muffler%20V1.35/images/youtube.png" style="height: 150px; width: auto;" alt="TMC2209"></a> </td> </tr> </table> </details>
 
 
    <!--Front Idlers-->
@@ -823,8 +803,7 @@
 
   <td align=center> <h3><a href="">Mini/MicroBFI</a></h3>
   <a href=""> 
-  <img src="" style="height: 150px; width: auto;" alt="MiBFI"></a> </td>
-</tr> </table> </details>
+  <img src="" style="height: 150px; width: auto;" alt="MiBFI"></a> </td> </tr> </table> </details>
 
    <!--Gantry-->
 <details> <summary align=center><h4>Gantry</h4></summary>
@@ -833,8 +812,7 @@
  <tr> 
   <td align=center> <h3><a href="">TMC2209</a></h3>
   <a href=""> 
-  <img src="" style="height: 150px; width: auto;" alt="TMC2209"></a> </td>
-</tr> </table> </details>
+  <img src="" style="height: 150px; width: auto;" alt="TMC2209"></a> </td> </tr> </table> </details>
 
    <!--Panel-->
 <details> <summary align=center><h4>Panel</h4></summary>
@@ -843,8 +821,7 @@
  <tr> 
   <td align=center> <h3><a href="">TMC2209</a></h3>
   <a href=""> 
-  <img src="" style="height: 150px; width: auto;" alt="TMC2209"></a> </td>
-</tr> </table> </details>
+  <img src="" style="height: 150px; width: auto;" alt="TMC2209"></a> </td> </tr> </table> </details>
 
    <!--Z-->
 <details> <summary align=center><h4>Z axis</h4></summary>
@@ -853,8 +830,7 @@
  <tr> 
   <td align=center> <h3><a href="">TMC2209</a></h3>
   <a href=""> 
-  <img src="" style="height: 150px; width: auto;" alt="TMC2209"></a> </td>
-</tr> </table> </details>
+  <img src="" style="height: 150px; width: auto;" alt="TMC2209"></a> </td> </tr> </table> </details>
 
 
 ![VoronDesign Logo](./docs/images/voron_design_logo.png) [VoronUsers](https://github.com/VoronDesign/VoronUsers)
