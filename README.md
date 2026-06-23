@@ -651,8 +651,8 @@
   <img src="https://github.com/mjonuschat/NightOwl/raw/main/Images/nightowl-render.png" style="height: 150px; width: auto;" alt="NO"></a> </td> </tr>
 
 <tr>
- <td align=center>
-  <p><h3><a href="https://global.bttwiki.com/BIGTREETECH_ViViD.html">BTT ViViD</a></h3></p>
+ <td align=center><a href="https://bigtree-tech.com/"><img src="https://github.com/bigtreetech/docs/blob/master/docs/img/BQ-LOGO.svg" style="height: 40px; width: auto;" alt="BTT"></a>
+  <h3><a href="https://global.bttwiki.com/BIGTREETECH_ViViD.html">ViViD</a></h3>
   <a href="https://global.bttwiki.com/BIGTREETECH_ViViD.html"> 
   <img src="https://biqu.equipment/cdn/shop/files/1060000854-ViViD_1000_1.jpg?v=1763376894&width=1220" style="height: 150px; width: auto;" alt="Vivid"></a> </td>
 
@@ -702,8 +702,8 @@
   <h3><a href="https://github.com/viesturz/klipper-toolchanger"> => Klipper ToolChanger [KTC]</a> & <a href="https://github.com/jwellman80/klipper-toolchanger-easy"> => Easy-Version</a></h3> </th>
    
 <tr>
- <td align=center>
-  <h3><img src="https://github.com/hdgreef/Riton-Github/blob/main/docs/images/dsd_logo.png" style="height: 40px; width: auto;" alt="DraftShift"></a><a href="https://github.com/DraftShift"> DraftShift Design</a><a href="https://github.com/DraftShift"><img src="https://github.com/hdgreef/Riton-Github/blob/main/docs/images/dsd_logo.png" style="height: 40px; width: auto;" alt="DraftShift"></a></h3>
+ <td align=center><a href="https://github.com/DraftShift"><img src="https://github.com/hdgreef/Riton-Github/blob/main/docs/images/dsd_logo.png" style="height: 40px; width: auto;" alt="DraftShift"></a> 
+ <h3><a href="https://github.com/DraftShift"> DraftShift Design</a></h3>
    <a><img src="https://raw.githubusercontent.com/DraftShift/StealthChanger/refs/heads/main/media/docking.gif" style="height: 150px; width: auto;" alt="DraftShift"></a> </td>
 
   <td align=center>
@@ -760,30 +760,29 @@
   <img src="https://github.com/Monolith3D/Monolith_Bed_Fans/raw/main/Images/MBF_top.png" style="height: 150px; width: auto;" alt="Monolith BedFan"></a> </td> </tr> </table> </details>
 
 <!--## Mods-->
-<details> <summary align=center><h3>4. Voron Mods</h3></summary>
+<details open> <summary align=center><h3>4. Voron Mods</h3></summary>
 
    <!--AB Joint-->  
 <details> <summary align=center><h4>AB Drives</h4></summary>   
 <table align=center>
+ 
  <tr> 
-  <td align=center> <h3><a href="">All-Wheel Drive [AWD]</a></h3>
-  <a href=""> 
-  <img src="" style="height: 150px; width: auto;" alt="AWD"></a> </td>
+   <td align=center> <a href="https://github.com/mammoth-3D/Mammoth-FDM-MODs/tree/main/Voron%203D%20Printers/mammoth-3D%20AWD%20Gantry%20350%20V1.7.3"><img src="https://avatars.githubusercontent.com/u/135144633?s=96&v=4" style="height: 40px; width: auto;" alt="Mammoth"></a> 
+    <h3><a href="https://github.com/mammoth-3D/Mammoth-FDM-MODs/tree/main/Voron%203D%20Printers/mammoth-3D%20AWD%20Gantry%20350%20V1.7.3">All-Wheel Drive [AWD] - Mammoth</a></h3>
+  <a href="https://github.com/mammoth-3D/Mammoth-FDM-MODs/tree/main/Voron%203D%20Printers/mammoth-3D%20AWD%20Gantry%20350%20V1.7.3"> 
+  <img src="https://github.com/Mammoth-3D/Mammoth-FDM-MODs/raw/main/mammoth-3D_AWD_Gantry_1.7.3.png" style="height: 150px; width: auto;" alt="AWD"></a> </td>
+  
+  <td align=center> <a href="https://github.com/Monolith3D/Monolith_Gantry/tree/main"><img src="https://github.com/hdgreef/Riton-Github/raw/main/docs/images/Monolith_logo.png" style="height: 40px; width: auto;" alt="Monolith"></a> 
+   <h3><a href="https://github.com/Monolith3D/Monolith_Gantry/tree/main">[AWD] or 2-Wheel Drive [2WD] - Monolith</a></h3>
+  <a href="https://github.com/Monolith3D/Monolith_Gantry/tree/main"> 
+  <img src="https://github.com/Monolith3D/Monolith_Gantry/raw/main/Images/split_view.png" style="height: 150px; width: auto;" alt="AWD"></a> </td>
 
- <td align=center> <h3><a href="">2 Wheel Drive [2WD]</a></h3>
-  <a href=""> 
-  <img src="" style="height: 150px; width: auto;" alt="2WD"></a> </td>
-
- <td align=center> <h3><a href="">XY Joints Pin mod</a></h3>
-  <a href=""> 
-  <img src="" style="height: 150px; width: auto;" alt="XY Pin mod"></a> </td>
-
- <td align=center> <h3><a href="">Y endstop relocalisation</a></h3>
-  <a href=""> 
-  <img src="" style="height: 150px; width: auto;" alt="Y stop"></a> </td> </tr> </table> </details>
+ <td align=center> <h3><a href="https://github.com/VoronDesign/VoronUsers/tree/main/printer_mods/hartk1213/Voron2.4_Trident_Pins_Mod">XY Joints Pin mod</a></h3>
+  <a href="https://github.com/VoronDesign/VoronUsers/tree/main/printer_mods/hartk1213/Voron2.4_Trident_Pins_Mod"> 
+  <img src="https://github.com/VoronDesign/VoronUsers/raw/main/printer_mods/hartk1213/Voron2.4_Trident_Pins_Mod/Images/2.jpg" style="height: 150px; width: auto;" alt="XY Pin mod"></a> </td> </tr> </table> </details>
 
    <!--Cooling-->
-<details> <summary align=center><h4>Cooling</h4></summary>
+<details open> <summary align=center><h4>Cooling</h4></summary>
     
 <table align=center>
  <tr> 
