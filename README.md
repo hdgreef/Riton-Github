@@ -737,30 +737,8 @@
   <a href="https://github.com/BondtechAB/INDX"> 
   <img src="https://tse4.mm.bing.net/th/id/OIP.UfNB6ZmGbUi8fhNlAUxULgHaE8?pid=Api" style="height: 150px; width: auto;" alt="INDX"></a> </td> </tr> </table> </details>
 
-<!--## Filter-->
-<details> <summary align=center><h3>3. Filter</h3></summary>
-
-<table align=center>
-  <th colspan="3" align=center>  <h3><a href="https://github.com/nevermore3d/Reseller">=> Carbon & Scorch Reseller <=</a></h3> </th>
-
-<tr>
-  <td align=center>
-  <h3><a href="https://github.com/nevermore3d/Stealthmax_V2">Nevermore StealthMax</a></h3>
-  <a href="https://github.com/nevermore3d/Stealthmax_V2"> 
-  <img src="https://github.com/nevermore3d/Stealthmax_V2/raw/main/Printable_Files/Stealthmax_V2.png" style="height: 150px; width: auto;" alt="StealthMax"></a> </td>
-
-  <td align=center>
-  <h3><a href="https://github.com/nateb16/VoronUsers/tree/master/printer_mods/nateb16/THE_FILTER">The Filter</a></h3>
-  <a href="https://github.com/nateb16/VoronUsers/tree/master/printer_mods/nateb16/THE_FILTER"> 
-  <img src="https://user-images.githubusercontent.com/40711977/209454815-31620e40-b737-480e-9517-0e5cd400e496.PNG" style="height: 150px; width: auto;" alt="TheFilter"></a> </td>
-
-   <td align=center>
-  <h3><a href="https://github.com/Monolith3D/Monolith_Bed_Fans">Monolith Bed Fans</a></h3>
-  <a href="https://github.com/Monolith3D/Monolith_Bed_Fans"> 
-  <img src="https://github.com/Monolith3D/Monolith_Bed_Fans/raw/main/Images/MBF_top.png" style="height: 150px; width: auto;" alt="Monolith BedFan"></a> </td> </tr> </table> </details>
-
 <!--## Mods-->
-<details open> <summary align=center><h3>4. Voron Mods</h3></summary>
+<details open> <summary align=center><h3>3. Voron Mods</h3></summary>
 
    <!--AB Joint-->  
 <details> <summary align=center><h4>AB Drives</h4></summary>   
@@ -781,15 +759,42 @@
   <a href="https://github.com/VoronDesign/VoronUsers/tree/main/printer_mods/hartk1213/Voron2.4_Trident_Pins_Mod"> 
   <img src="https://github.com/VoronDesign/VoronUsers/raw/main/printer_mods/hartk1213/Voron2.4_Trident_Pins_Mod/Images/2.jpg" style="height: 150px; width: auto;" alt="XY Pin mod"></a> </td> </tr> </table> </details>
 
-   <!--Cooling-->
-<details open> <summary align=center><h4>Cooling</h4></summary>
+   <!--Fans-->
+<details open> <summary align=center><h4>Fans</h4></summary>
     
 <table align=center>
  <tr> 
   <td align=center> <h3><a href="https://github.com/mammoth-3D/Mammoth-FDM-MODs/tree/main/Voron%203D%20Printers/mammoth-3D%20CPAP%20Muffler%20V1.35">CPAP Muffler</a></h3>
   <a href="https://github.com/mammoth-3D/Mammoth-FDM-MODs/tree/main/Voron%203D%20Printers/mammoth-3D%20CPAP%20Muffler%20V1.35"> 
-  <img src="https://github.com/mammoth-3D/Mammoth-FDM-MODs/raw/main/Voron%203D%20Printers/mammoth-3D%20CPAP%20Muffler%20V1.35/images/youtube.png" style="height: 150px; width: auto;" alt="TMC2209"></a> </td> </tr> </table> </details>
+  <img src="https://github.com/mammoth-3D/Mammoth-FDM-MODs/raw/main/Voron%203D%20Printers/mammoth-3D%20CPAP%20Muffler%20V1.35/images/youtube.png" style="height: 150px; width: auto;" alt="TMC2209"></a> </td> 
+ 
+   <td align=center>
+  <h3><a href="https://www.printables.com/model/964701-evenmore-bed-fans-with-style?lang=fr">EVENMore</a></h3>
+  <a href="https://www.printables.com/model/964701-evenmore-bed-fans-with-style?lang=fr"> 
+  <img src="https://media.printables.com/media/prints/964701/images/7438804_1761893c-c3f0-4b7d-b612-44c76e1a7d25_842fa175-55d5-4855-9dfb-48e6e32f659c/thumbs/inside/1280x960/png/cover_03.webp" style="height: 150px; width: auto;" alt="EVENMore"></a> </td>
 
+   <td align=center>
+  <h3><a href="https://github.com/Monolith3D/Monolith_Bed_Fans">Monolith Bed Fans</a></h3>
+  <a href="https://github.com/Monolith3D/Monolith_Bed_Fans"> 
+  <img src="https://github.com/Monolith3D/Monolith_Bed_Fans/raw/main/Images/MBF_top.png" style="height: 150px; width: auto;" alt="Monolith BedFan"></a> </td> </tr> </table> </details>
+
+  
+<!--## Filter-->
+<details> <summary align=center><h4>Filter</h4></summary>
+
+<table align=center>
+  <th colspan="2" align=center>  <h3><a href="https://github.com/nevermore3d/Reseller">=> Carbon & Scorch Reseller <=</a></h3> </th>
+
+<tr>
+  <td align=center>
+  <h3><a href="https://github.com/nevermore3d/Stealthmax_V2">Nevermore StealthMax</a></h3>
+  <a href="https://github.com/nevermore3d/Stealthmax_V2"> 
+  <img src="https://github.com/nevermore3d/Stealthmax_V2/raw/main/Printable_Files/Stealthmax_V2.png" style="height: 150px; width: auto;" alt="StealthMax"></a> </td>
+
+  <td align=center>
+  <h3><a href="https://github.com/nateb16/VoronUsers/tree/master/printer_mods/nateb16/THE_FILTER">The Filter</a></h3>
+  <a href="https://github.com/nateb16/VoronUsers/tree/master/printer_mods/nateb16/THE_FILTER"> 
+  <img src="https://user-images.githubusercontent.com/40711977/209454815-31620e40-b737-480e-9517-0e5cd400e496.PNG" style="height: 150px; width: auto;" alt="TheFilter"></a> </td> </tr> </table> </details>
 
    <!--Front Idlers-->
 <details> <summary align=center><h4>Front Idlers</h4></summary>
@@ -879,8 +884,6 @@
 [CAN Bus](https://github.com/LegionPleingaz/Voronpedia/blob/main/electro/cans.md)
 
 [TopHat Exhaust](https://www.printables.com/model/1739202-voron-printed-tophat-exhaust)
-
-[EVENMore](https://www.printables.com/model/964701-evenmore-bed-fans-with-style?lang=fr)
 
 [Screen](https://github.com/LegionPleingaz/Voronpedia/blob/main/screen.md)
 
