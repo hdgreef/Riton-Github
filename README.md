@@ -553,6 +553,9 @@
 <details> <summary align=center><h4>5. Screen</h4></summary> <!-- Screen -->
     
 <table align=center>
+ <tr><th colspan="3" align=center><h3><a href="https://github.com/KlipperScreen/KlipperScreen">KlipperScreen</a></h3>
+  <a href="https://github.com/KlipperScreen/KlipperScreen">
+  <img src="https://github.com/KlipperScreen/KlipperScreen/raw/master/docs/img/panels/main_panel.png" style="height: 150px; width: auto;" alt="Mini12864"></th></tr>
  <tr> 
   <td align=center><a href="http://wiki.fysetc.com/docs/Mini12864Panel"><img src="https://avatars.githubusercontent.com/u/36067086?s=200&v=4" style="height: 40px; width: auto;" alt="Fysetc"></a> <a href="https://mellow-3d.github.io/fly_mini12864_general.html"><img src="https://mellow-3d.github.io/images/company_logo.png" style="height: 40px; width: auto;" alt="Mellow"></a>
   <h3><a href="http://wiki.fysetc.com/docs/Mini12864Panel">Mini12864</a></h3>
@@ -740,27 +743,10 @@
 <!--## Mods-->
 <details open> <summary align=center><h3>3. Voron Mods</h3></summary>
 
-   <!--AB Joint-->  
-<details> <summary align=center><h4>AB Drives</h4></summary>   
-<table align=center>
- 
- <tr> 
-   <td align=center> <a href="https://github.com/mammoth-3D/Mammoth-FDM-MODs/tree/main/Voron%203D%20Printers/mammoth-3D%20AWD%20Gantry%20350%20V1.7.3"><img src="https://avatars.githubusercontent.com/u/135144633?s=96&v=4" style="height: 40px; width: auto;" alt="Mammoth"></a> 
-    <h3><a href="https://github.com/mammoth-3D/Mammoth-FDM-MODs/tree/main/Voron%203D%20Printers/mammoth-3D%20AWD%20Gantry%20350%20V1.7.3">All-Wheel Drive [AWD] - Mammoth</a></h3>
-  <a href="https://github.com/mammoth-3D/Mammoth-FDM-MODs/tree/main/Voron%203D%20Printers/mammoth-3D%20AWD%20Gantry%20350%20V1.7.3"> 
-  <img src="https://github.com/Mammoth-3D/Mammoth-FDM-MODs/raw/main/mammoth-3D_AWD_Gantry_1.7.3.png" style="height: 150px; width: auto;" alt="AWD"></a> </td>
-  
-  <td align=center> <a href="https://github.com/Monolith3D/Monolith_Gantry/tree/main"><img src="https://github.com/hdgreef/Riton-Github/raw/main/docs/images/Monolith_logo.png" style="height: 40px; width: auto;" alt="Monolith"></a> 
-   <h3><a href="https://github.com/Monolith3D/Monolith_Gantry/tree/main">[AWD] or 2-Wheel Drive [2WD] - Monolith</a></h3>
-  <a href="https://github.com/Monolith3D/Monolith_Gantry/tree/main"> 
-  <img src="https://github.com/Monolith3D/Monolith_Gantry/raw/main/Images/split_view.png" style="height: 150px; width: auto;" alt="AWD"></a> </td>
-
- <td align=center> <h3><a href="https://github.com/VoronDesign/VoronUsers/tree/main/printer_mods/hartk1213/Voron2.4_Trident_Pins_Mod">XY Joints Pin mod</a></h3>
-  <a href="https://github.com/VoronDesign/VoronUsers/tree/main/printer_mods/hartk1213/Voron2.4_Trident_Pins_Mod"> 
-  <img src="https://github.com/VoronDesign/VoronUsers/raw/main/printer_mods/hartk1213/Voron2.4_Trident_Pins_Mod/Images/2.jpg" style="height: 150px; width: auto;" alt="XY Pin mod"></a> </td> </tr> </table> </details>
+  <th> <h3 align=center> <a href="https://mods.vorondesign.com/"><img src="https://github.com/hdgreef/Riton-Github/raw/main/docs/images/voron_design_logo.png" style="height: 40px; width: auto;" alt="VoronUsers Mod"></a> <a href="https://github.com/VoronDesign/VoronUsers">Official VoronUsers Mods<a href="https://mods.vorondesign.com/"><img src="https://github.com/hdgreef/Riton-Github/raw/main/docs/images/voron_design_logo.png" style="height: 40px; width: auto;" alt="VoronUsers Mod"></a></a> </h3> </th>
 
    <!--Fans-->
-<details open> <summary align=center><h4>Fans</h4></summary>
+<details> <summary align=center><h4>Fans</h4></summary>
     
 <table align=center>
  <tr> 
@@ -777,13 +763,12 @@
   <h3><a href="https://github.com/Monolith3D/Monolith_Bed_Fans">Monolith Bed Fans</a></h3>
   <a href="https://github.com/Monolith3D/Monolith_Bed_Fans"> 
   <img src="https://github.com/Monolith3D/Monolith_Bed_Fans/raw/main/Images/MBF_top.png" style="height: 150px; width: auto;" alt="Monolith BedFan"></a> </td> </tr> </table> </details>
-
-  
+ 
 <!--## Filter-->
 <details> <summary align=center><h4>Filter</h4></summary>
 
 <table align=center>
-  <th colspan="2" align=center>  <h3><a href="https://github.com/nevermore3d/Reseller">=> Carbon & Scorch Reseller <=</a></h3> </th>
+  <th colspan="2" align=center>  <h3><a href="https://github.com/nevermore3d/Reseller">=> Carbon & Scorch Reseller</a></h3> </th>
 
 <tr>
   <td align=center>
@@ -796,27 +781,86 @@
   <a href="https://github.com/nateb16/VoronUsers/tree/master/printer_mods/nateb16/THE_FILTER"> 
   <img src="https://user-images.githubusercontent.com/40711977/209454815-31620e40-b737-480e-9517-0e5cd400e496.PNG" style="height: 150px; width: auto;" alt="TheFilter"></a> </td> </tr> </table> </details>
 
-   <!--Front Idlers-->
-<details> <summary align=center><h4>Front Idlers</h4></summary>
+   <!--Gantry - AB & Front Idlers - Z Axis-->
+<details> <summary align=center><h4>Gantry (AB Drives - Front Idlers - Z Axis) </h4></summary>
     
 <table align=center>
+ <tr> <th colspan="3" align=center> <h3>All gantry related</h3> </th> </tr> <!--All gantry-->
+ 
+  <tr> 
+   <td align=center> <a href="https://github.com/mammoth-3D/Mammoth-FDM-MODs/tree/main/Voron%203D%20Printers/mammoth-3D%20AWD%20Gantry%20350%20V1.7.3"><img src="https://avatars.githubusercontent.com/u/135144633?s=96&v=4" style="height: 40px; width: auto;" alt="Mammoth"></a> 
+    <h3><a href="https://github.com/mammoth-3D/Mammoth-FDM-MODs/tree/main/Voron%203D%20Printers/mammoth-3D%20AWD%20Gantry%20350%20V1.7.3">All-Wheel Drive [AWD] - Mammoth</a></h3>
+  <a href="https://github.com/mammoth-3D/Mammoth-FDM-MODs/tree/main/Voron%203D%20Printers/mammoth-3D%20AWD%20Gantry%20350%20V1.7.3"> 
+  <img src="https://github.com/Mammoth-3D/Mammoth-FDM-MODs/raw/main/mammoth-3D_AWD_Gantry_1.7.3.png" style="height: 150px; width: auto;" alt="AWD"></a> </td>
+  
+  <td align=center> <a href="https://github.com/Monolith3D/Monolith_Gantry/tree/main"><img src="https://github.com/hdgreef/Riton-Github/raw/main/docs/images/Monolith_logo.png" style="height: 40px; width: auto;" alt="Monolith"></a> 
+   <h3><a href="https://github.com/Monolith3D/Monolith_Gantry/tree/main">[AWD] or 2-Wheel Drive [2WD] - Monolith</a></h3>
+  <a href="https://github.com/Monolith3D/Monolith_Gantry/tree/main"> 
+  <img src="https://github.com/Monolith3D/Monolith_Gantry/raw/main/Images/split_view.png" style="height: 150px; width: auto;" alt="AWD"></a> </td>
+
+ <td align=center> <h3><a href="https://github.com/VoronDesign/VoronUsers/tree/main/printer_mods/whoppingpochard/extrusion_backers">XY Backers</a></h3>
+  <a href="https://github.com/VoronDesign/VoronUsers/tree/main/printer_mods/whoppingpochard/extrusion_backers"> 
+  <img src="https://github.com/VoronDesign/VoronUsers/raw/main/printer_mods/whoppingpochard/extrusion_backers/images/fusion_y_backer.png" style="height: 150px; width: auto;" alt="XY Backers"></a> </td> </tr>
+
+<tr> <th colspan="3" align=center> <h3>Front Idlers</h3> </th> </tr> <!--Front Idlers-->
  <tr> 
   <td align=center> <h3><a href="https://github.com/clee/VoronBFI">Beefy Front Idlers [BFI]</a></h3>
   <a href="https://github.com/clee/VoronBFI"> 
   <img src="https://github.com/clee/VoronBFI/raw/main/images/BFI.png" style="height: 150px; width: auto;" alt="BFI"></a> </td>
 
-  <td align=center> <h3><a href="">Mini/MicroBFI</a></h3>
-  <a href=""> 
-  <img src="" style="height: 150px; width: auto;" alt="MiBFI"></a> </td> </tr> </table> </details>
+  <td align=center> <h3><a href="https://github.com/DraftShift/StealthChanger/tree/main/UserMods/BT123/MiniBFI%20%2B%20MicroBFI">Mini/MicroBFI</a></h3>
+  <a href="https://github.com/DraftShift/StealthChanger/tree/main/UserMods/BT123/MiniBFI%20%2B%20MicroBFI"> 
+  <img src="https://github.com/DraftShift/StealthChanger/raw/main/UserMods/BT123/MiniBFI%20%2B%20MicroBFI/Images/Side.jpg?raw=true" style="height: 150px; width: auto;" alt="MiBFI"></a> </td>
 
-   <!--Gantry-->
-<details> <summary align=center><h4>Gantry</h4></summary>
+   <td align=center> <h3><a href="https://github.com/Ramalama2/Voron-2-Mods/tree/main/Front_Idlers">Ramalama</a></h3>
+  <a href="https://github.com/Ramalama2/Voron-2-Mods/tree/main/Front_Idlers"> 
+  <img src="https://github.com/Ramalama2/Voron-2-Mods/raw/main/Front_Idlers/Pics/Explosion_v2.jpg" style="height: 150px; width: auto;" alt="Ramalama"></a> </td> </tr>
+
+   <tr> <th colspan="3" align=center> <h4><a href="https://github.com/clee/VoronBFI/tree/main/usermods">=> BFI UserMods</a></h4></a> </th>  
+
+  <tr> <th colspan="3" align=center> <h3>AB Drives related</h3> </th> </tr> <!--AB Drives-->
+  <tr>
+  <td></td>
+   
+   <td align=center> <h3><a href="https://github.com/VoronDesign/VoronUsers/tree/main/printer_mods/hartk1213/Voron2.4_Trident_Pins_Mod">XY Joints Pin mod</a></h3>
+  <a href="https://github.com/VoronDesign/VoronUsers/tree/main/printer_mods/hartk1213/Voron2.4_Trident_Pins_Mod"> 
+  <img src="https://github.com/VoronDesign/VoronUsers/raw/main/printer_mods/hartk1213/Voron2.4_Trident_Pins_Mod/Images/2.jpg" style="height: 150px; width: auto;" alt="XY Pin mod"></a> </td>
+   
+   <td></td>  </tr> 
+  
+   <tr> <th colspan="3" align=center> <h3>Z Axis</h3> </th> </tr> <!--Z -->
+     <tr>
+    <td align=center> <h3><a href="https://mods.vorondesign.com/details/eB5T2RNQcYI4o6cilhpXEg">[GE5C]</a></h3>
+  <a href="https://mods.vorondesign.com/details/eB5T2RNQcYI4o6cilhpXEg"> 
+  <img src="https://raw.githubusercontent.com/VoronDesign/VoronUsers/main/printer_mods/hartk1213/Voron2.4_GE5C/Images/6.png" style="height: 150px; width: auto;" alt="GE5C"></a> </td> 
+
+  <td align=center><h3><a href="https://github.com/Ramalama2/Voron-2-Mods/tree/main/Misumi_RBPB5">Rama GE5C Misumi</a></h3>
+  <a href="https://github.com/Ramalama2/Voron-2-Mods/tree/main/Misumi_RBPB5"> 
+  <img src="https://github.com/Ramalama2/Voron-2-Mods/raw/main/Misumi_RBPB5/Screw_Version-Rendering.jpg" style="height: 150px; width: auto;" alt="Rama GE5C"></a></td>
+      
+  <td align=center> <h3><a href="https://github.com/JaredC01/Galileo2/tree/main/galileo2_z">[G2Z]</a></h3>
+  <a href="https://github.com/JaredC01/Galileo2/tree/main/galileo2_z"> 
+  <img src="https://github.com/JaredC01/Galileo2/raw/main/images/g2z.png" style="height: 150px; width: auto;" alt="G2Z"></a> </td> </tr>
+  
+  <tr> 
+   <td align=center> <h3><a href="https://github.com/clee/VoronBFI">[BZI]</a></h3>
+  <a href="https://github.com/clee/VoronBFI"> 
+  <img src="https://github.com/clee/VoronBFI/raw/main/images/BZI.png" style="height: 150px; width: auto;" alt="G2Z"></a> </td>
+   
+   <td align=center> <h3><a href="https://github.com/falcon14141/Voron_Mods/tree/master/Lovely%20Frog%20Z%20Idler">[LFZI]</a></h3>
+  <a href="https://github.com/falcon14141/Voron_Mods/tree/master/Lovely%20Frog%20Z%20Idler"> 
+  <img src="https://github.com/falcon14141/Voron_Mods/raw/master/Lovely%20Frog%20Z%20Idler/images/lovely_frog_front.png" style="height: 150px; width: auto;" alt="LFZI"></a> </td>
+
+   <td align=center> <h3><a href="https://github.com/Chaoticlab/CNC_Tool-free_Tensioner_for_Voron2.4_Z-Axis/tree/main">CNC ChaoticLab</a></h3> </td> </tr> </table> </details>
+
+   <!--Lubrification -->
+<details> <summary align=center><h4>Lubricant</h4></summary>
     
 <table align=center>
- <tr> 
-  <td align=center> <h3><a href="">TMC2209</a></h3>
-  <a href=""> 
-  <img src="" style="height: 150px; width: auto;" alt="TMC2209"></a> </td> </tr> </table> </details>
+ <tr>   
+  <td align=center> <h3><a href="https://mods.vorondesign.com/details/NiwnWQOao4t2dfoCpq9Q">Drilled screw</a></h3>
+  <a href="https://mods.vorondesign.com/details/NiwnWQOao4t2dfoCpq9Q"> 
+  <img src="https://raw.githubusercontent.com/VoronDesign/VoronUsers/main/printer_mods/watt-this/in-situ_linear_rail_greasing/IMG/attach_syringe.png" style="height: 150px; width: auto;" alt="Screw Lub"></a> </td> </tr> </table> </details>
 
    <!--Panel-->
 <details> <summary align=center><h4>Panel</h4></summary>
@@ -827,23 +871,6 @@
   <a href=""> 
   <img src="" style="height: 150px; width: auto;" alt="TMC2209"></a> </td> </tr> </table> </details>
 
-   <!--Z-->
-<details> <summary align=center><h4>Z axis</h4></summary>
-    
-<table align=center>
- <tr> 
-  <td align=center> <h3><a href="">TMC2209</a></h3>
-  <a href=""> 
-  <img src="" style="height: 150px; width: auto;" alt="TMC2209"></a> </td> </tr> </table> </details>
-
-
-![VoronDesign Logo](./docs/images/voron_design_logo.png) [VoronUsers](https://github.com/VoronDesign/VoronUsers)
-
-![Monolith Logo](./docs/images/Monolith_logo.png) [Monolith3D](https://github.com/Monolith3D)
-
-[MiniBFI]
-
-[Z Joint]
 
 [VoronPedia](https://github.com/LegionPleingaz/Voronpedia/tree/main)
 
@@ -852,14 +879,6 @@
 [Bed](https://github.com/LegionPleingaz/Voronpedia/blob/main/mechanical/bed.md)
 
 [Bed Kinematic upgrade](https://github.com/tanaes/whopping_Voron_mods/blob/main/kinematic_bed/README_v2_assembly.md)
-
-[AB Drives](https://github.com/LegionPleingaz/Voronpedia/blob/main/mechanical/drives-a-b-awd.md)
-
-[Front Idlers](https://github.com/LegionPleingaz/Voronpedia/blob/main/mechanical/front-idlers.md)
-
-[Gantry](https://github.com/LegionPleingaz/Voronpedia/blob/main/mechanical/gantry.md)
-
-[X-Y Backers](https://github.com/VoronDesign/VoronUsers/tree/main/printer_mods/whoppingpochard/extrusion_backers)
 
 [Panels](https://github.com/LegionPleingaz/Voronpedia/blob/main/mechanical/panels.md)
 
@@ -882,9 +901,5 @@
 [FYSETC Cheetah V3?0](https://github.com/FYSETC/Cheetah_V3.0)
 
 [CAN Bus](https://github.com/LegionPleingaz/Voronpedia/blob/main/electro/cans.md)
-
-[TopHat Exhaust](https://www.printables.com/model/1739202-voron-printed-tophat-exhaust)
-
-[Screen](https://github.com/LegionPleingaz/Voronpedia/blob/main/screen.md)
 
 </details> </details>
