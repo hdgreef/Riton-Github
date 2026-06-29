@@ -776,6 +776,11 @@
   <a href="https://github.com/nevermore3d/Stealthmax_V2"> 
   <img src="https://github.com/nevermore3d/Stealthmax_V2/raw/main/Printable_Files/Stealthmax_V2.png" style="height: 150px; width: auto;" alt="StealthMax"></a> </td>
 
+   <td align=center>
+  <h3><a href="https://github.com/nevermore3d/Nevermore_Mini">Nevermore Mini</a></h3>
+  <a href="https://github.com/nevermore3d/Nevermore_Mini"> 
+  <img src="https://github.com/nevermore3d/Nevermore_Mini/raw/master/Nevermore_Mini_Electronics_Beta.png" style="height: 150px; width: auto;" alt="StealthMax"></a> </td>
+
   <td align=center>
   <h3><a href="https://github.com/nateb16/VoronUsers/tree/master/printer_mods/nateb16/THE_FILTER">The Filter</a></h3>
   <a href="https://github.com/nateb16/VoronUsers/tree/master/printer_mods/nateb16/THE_FILTER"> 
@@ -828,7 +833,7 @@
    
    <td></td>  </tr> 
   
-   <tr> <th colspan="3" align=center> <h3>Z Axis</h3> </th> </tr> <!--Z -->
+   <tr> <th colspan="3" align=center> <h3>Z Joints</h3> </th> </tr> <!--Z Joint-->
      <tr>
     <td align=center> <h3><a href="https://mods.vorondesign.com/details/eB5T2RNQcYI4o6cilhpXEg">[GE5C]</a></h3>
   <a href="https://mods.vorondesign.com/details/eB5T2RNQcYI4o6cilhpXEg"> 
@@ -836,12 +841,19 @@
 
   <td align=center><h3><a href="https://github.com/Ramalama2/Voron-2-Mods/tree/main/Misumi_RBPB5">Rama GE5C Misumi</a></h3>
   <a href="https://github.com/Ramalama2/Voron-2-Mods/tree/main/Misumi_RBPB5"> 
-  <img src="https://github.com/Ramalama2/Voron-2-Mods/raw/main/Misumi_RBPB5/Screw_Version-Rendering.jpg" style="height: 150px; width: auto;" alt="Rama GE5C"></a></td>
-      
-  <td align=center> <h3><a href="https://github.com/JaredC01/Galileo2/tree/main/galileo2_z">[G2Z]</a></h3>
-  <a href="https://github.com/JaredC01/Galileo2/tree/main/galileo2_z"> 
-  <img src="https://github.com/JaredC01/Galileo2/raw/main/images/g2z.png" style="height: 150px; width: auto;" alt="G2Z"></a> </td> </tr>
+  <img src="https://github.com/Ramalama2/Voron-2-Mods/raw/main/Misumi_RBPB5/Screw_Version-Rendering.jpg" style="height: 150px; width: auto;" alt="Rama GE5C"></a></td> </tr>
+
+ <tr> <th colspan="3" align=center> <h3>Z Drives</h3> </th> </tr> <!--Z Drives-->
+   <tr> 
+    <td></td>
   
+   <td align=center> <h3><a href="https://github.com/JaredC01/Galileo2/tree/main/galileo2_z">[G2Z]</a></h3>
+  <a href="https://github.com/JaredC01/Galileo2/tree/main/galileo2_z"> 
+  <img src="https://github.com/JaredC01/Galileo2/raw/main/images/g2z.png" style="height: 150px; width: auto;" alt="G2Z"></a> </td> 
+   
+   <td></td></tr>
+
+   <tr> <th colspan="3" align=center> <h3>Z Idlers</h3> </th> </tr> <!--Z Idlers-->
   <tr> 
    <td align=center> <h3><a href="https://github.com/clee/VoronBFI">[BZI]</a></h3>
   <a href="https://github.com/clee/VoronBFI"> 
@@ -867,9 +879,19 @@
     
 <table align=center>
  <tr> 
-  <td align=center> <h3><a href="">TMC2209</a></h3>
-  <a href=""> 
-  <img src="" style="height: 150px; width: auto;" alt="TMC2209"></a> </td> </tr> </table> </details>
+  <td align=center> <a href="https://github.com/Monolith3D/Monolith_Gantry/tree/main"><img src="https://github.com/hdgreef/Riton-Github/raw/main/docs/images/Monolith_logo.png" style="height: 40px; width: auto;" alt="Monolith"></a>
+  <h3><a href="https://github.com/Monolith3D/Monolith_Panels">Monolith Panel</a></h3>
+  <a href="https://github.com/Monolith3D/Monolith_Panels"> 
+  <img src="https://github.com/Monolith3D/Monolith_Panels/raw/main/Images/monolith_panels_render.png" style="height: 150px; width: auto;" alt="MonolithPanel"></a> </td> 
+
+  <td align=center> <a href="https://github.com/DraftShift/DoorBuffer"><img src="https://github.com/Stealthchanger/DoorBuffer/raw/main/Media/DoorBuffer_logo.png" style="height: 40px; width: auto;" alt="DraftShift"></a>
+  <h3><a href="https://github.com/DraftShift/DoorBuffer">DoorBuffer</a></h3>
+  <a href="https://github.com/DraftShift/DoorBuffer"> 
+  <img src="https://github.com/DraftShift/DoorBuffer/raw/main/Media/V2_frames.png" style="height: 150px; width: auto;" alt="DoorBuffer"></a> </td> 
+
+   <h3><a href="https://github.com/tanaes/whopping_Voron_mods/tree/main/clickyclacky_door">Clicky-Clack Fridge Door</a></h3>
+  <a href="https://github.com/tanaes/whopping_Voron_mods/tree/main/clickyclacky_door"> 
+  <img src="https://github.com/tanaes/whopping_Voron_mods/raw/main/clickyclacky_door/Images/render.png" style="height: 150px; width: auto;" alt="Clicky-Clack Fridge door"></a> </td> </tr> </table> </details>
 
 
 [VoronPedia](https://github.com/LegionPleingaz/Voronpedia/tree/main)
@@ -879,10 +901,6 @@
 [Bed](https://github.com/LegionPleingaz/Voronpedia/blob/main/mechanical/bed.md)
 
 [Bed Kinematic upgrade](https://github.com/tanaes/whopping_Voron_mods/blob/main/kinematic_bed/README_v2_assembly.md)
-
-[Panels](https://github.com/LegionPleingaz/Voronpedia/blob/main/mechanical/panels.md)
-
-[Z](https://github.com/LegionPleingaz/Voronpedia/blob/main/mechanical/z-axis.md)
 
 [Crownest](https://github.com/LegionPleingaz/Voronpedia/blob/main/software/crowsnest.md)
 
