@@ -553,9 +553,7 @@
 <details> <summary align=center><h4>5. Screen</h4></summary> <!-- Screen -->
     
 <table align=center>
- <tr><th colspan="3" align=center><h3><a href="https://github.com/KlipperScreen/KlipperScreen">KlipperScreen</a></h3>
-  <a href="https://github.com/KlipperScreen/KlipperScreen">
-  <img src="https://github.com/KlipperScreen/KlipperScreen/raw/master/docs/img/panels/main_panel.png" style="height: 150px; width: auto;" alt="Mini12864"></th></tr>
+ <tr><th colspan="3" align=center><h4><a href="https://github.com/KlipperScreen/KlipperScreen">=> KlipperScreen</a></h4></th></tr>
  <tr> 
   <td align=center><a href="http://wiki.fysetc.com/docs/Mini12864Panel"><img src="https://avatars.githubusercontent.com/u/36067086?s=200&v=4" style="height: 40px; width: auto;" alt="Fysetc"></a> <a href="https://mellow-3d.github.io/fly_mini12864_general.html"><img src="https://mellow-3d.github.io/images/company_logo.png" style="height: 40px; width: auto;" alt="Mellow"></a>
   <h3><a href="http://wiki.fysetc.com/docs/Mini12864Panel">Mini12864</a></h3>
@@ -578,15 +576,18 @@
     
   <tr><th colspan="3"> <h4>Inductive probe</h4></th></tr>
  <tr> 
-  <td align=center> <h3><a href="https://beacon3d.com/">Beacon</a></h3>
+  <td align=center> <a href="https://github.com/beacon3d"><img src="https://avatars.githubusercontent.com/u/119445204?s=200&v=4" style="height: 40px; width: auto;" alt="Beacon">
+   <h3><a href="https://beacon3d.com/">Beacon</a></h3>
   <a href="https://beacon3d.com/"> 
   <img src="https://beacon3d.com/wp-content/uploads/2023/11/RevD-her.png" style="height: 150px; width: auto;" alt="Beacon"></a> </td>
 
-  <td align=center><h3><a href="https://github.com/Cartographer3D/docs">Cartographer</a></h3>
+  <td align=center> <a href="https://github.com/Cartographer3D"><img src="https://avatars.githubusercontent.com/u/146686607?s=200&v=4" style="height: 40px; width: auto;" alt="Carto">
+   <h3><a href="https://github.com/Cartographer3D/docs">Cartographer</a></h3>
   <a href="https://github.com/Cartographer3D/docs"> 
   <img src="https://github.com/Cartographer3D/docs/blob/main/.gitbook/assets/CartographerProbe-LowProfileV2.gif" style="height: 150px; width: auto;" alt="Carto"></a> </td>
 
-  <td align=center><h3><a href="https://global.bttwiki.com/Eddy.html">BTT Eddy</a></h3>
+  <td align=center> <a href="https://global.bttwiki.com/Eddy.html"><img src="https://github.com/bigtreetech/docs/blob/master/docs/img/BQ-LOGO.svg" style="height: 40px; width: auto;" alt="BTT">
+   <h3><a href="https://global.bttwiki.com/Eddy.html">Eddy</a></h3>
   <a href="https://global.bttwiki.com/Eddy.html"> 
   <img src="https://global.bttwiki.com/img/Eddy/eddy_title_1.webp" style="height: 150px; width: auto;" alt="Eddy"></a> </td></tr>
 
@@ -768,7 +769,7 @@
 <details> <summary align=center><h4>Filter</h4></summary>
 
 <table align=center>
-  <th colspan="2" align=center>  <h3><a href="https://github.com/nevermore3d/Reseller">=> Carbon & Scorch Reseller</a></h3> </th>
+  <th colspan="3" align=center>  <h3><a href="https://github.com/nevermore3d/Reseller">=> Carbon & Scorch Reseller</a></h3> </th>
 
 <tr>
   <td align=center>
@@ -841,7 +842,9 @@
 
   <td align=center><h3><a href="https://github.com/Ramalama2/Voron-2-Mods/tree/main/Misumi_RBPB5">Rama GE5C Misumi</a></h3>
   <a href="https://github.com/Ramalama2/Voron-2-Mods/tree/main/Misumi_RBPB5"> 
-  <img src="https://github.com/Ramalama2/Voron-2-Mods/raw/main/Misumi_RBPB5/Screw_Version-Rendering.jpg" style="height: 150px; width: auto;" alt="Rama GE5C"></a></td> </tr>
+  <img src="https://github.com/Ramalama2/Voron-2-Mods/raw/main/Misumi_RBPB5/Screw_Version-Rendering.jpg" style="height: 150px; width: auto;" alt="Rama GE5C"></a></td>
+  
+  <td></td></tr>
 
  <tr> <th colspan="3" align=center> <h3>Z Drives</h3> </th> </tr> <!--Z Drives-->
    <tr> 
@@ -884,14 +887,14 @@
   <a href="https://github.com/Monolith3D/Monolith_Panels"> 
   <img src="https://github.com/Monolith3D/Monolith_Panels/raw/main/Images/monolith_panels_render.png" style="height: 150px; width: auto;" alt="MonolithPanel"></a> </td> 
 
+  <td align=center> <h3><a href="https://github.com/tanaes/whopping_Voron_mods/tree/main/clickyclacky_door">Clicky-Clack Fridge Door</a></h3>
+  <a href="https://github.com/tanaes/whopping_Voron_mods/tree/main/clickyclacky_door"> 
+  <img src="https://github.com/tanaes/whopping_Voron_mods/raw/main/clickyclacky_door/Images/render.png" style="height: 150px; width: auto;" alt="Clicky-Clack Fridge door"></a> </td>
+  
   <td align=center> <a href="https://github.com/DraftShift/DoorBuffer"><img src="https://github.com/Stealthchanger/DoorBuffer/raw/main/Media/DoorBuffer_logo.png" style="height: 40px; width: auto;" alt="DraftShift"></a>
   <h3><a href="https://github.com/DraftShift/DoorBuffer">DoorBuffer</a></h3>
   <a href="https://github.com/DraftShift/DoorBuffer"> 
-  <img src="https://github.com/DraftShift/DoorBuffer/raw/main/Media/V2_frames.png" style="height: 150px; width: auto;" alt="DoorBuffer"></a> </td> 
-
-   <h3><a href="https://github.com/tanaes/whopping_Voron_mods/tree/main/clickyclacky_door">Clicky-Clack Fridge Door</a></h3>
-  <a href="https://github.com/tanaes/whopping_Voron_mods/tree/main/clickyclacky_door"> 
-  <img src="https://github.com/tanaes/whopping_Voron_mods/raw/main/clickyclacky_door/Images/render.png" style="height: 150px; width: auto;" alt="Clicky-Clack Fridge door"></a> </td> </tr> </table> </details>
+  <img src="https://github.com/DraftShift/DoorBuffer/raw/main/Media/V2_frames.png" style="height: 150px; width: auto;" alt="DoorBuffer"></a> </td>  </tr> </table> </details>
 
 
 [VoronPedia](https://github.com/LegionPleingaz/Voronpedia/tree/main)
