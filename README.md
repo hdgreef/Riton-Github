@@ -177,12 +177,12 @@
    
 <tr>
   <td align=center> <a href="https://bigtree-tech.com/"><img src="https://github.com/bigtreetech/docs/blob/master/docs/img/BQ-LOGO.svg" style="height: 40px; width: auto;" alt="BTT"></a>
-  <h3><a href="https://global.bttwiki.com/Octopus%20Pro.html">Octopus</a></h3>
+  <h3><a href="https://global.bttwiki.com/Octopus.html">Octopus V1.0</a> & <a href="https://global.bttwiki.com/Octopus%20Pro.html">Pro</a> & <a href="https://global.bttwiki.com/Octopus%20MAX%20EZ.html">Max EZ</a></h3>
     <a href="https://global.bttwiki.com/Octopus%20Pro.html"> 
     <img src="https://global.bttwiki.com/img/Octopus_Pro/Octopus_Pro_Title.webp" style="height: 150px; width: auto;" alt="Octopus"></a> </td>
 
    <td align=center> <a href="https://bigtree-tech.com/"><img src="https://github.com/bigtreetech/docs/blob/master/docs/img/BQ-LOGO.svg" style="height: 40px; width: auto;" alt="BTT"></a>
-  <h3><a href="https://global.bttwiki.com/M8P-V2_0.html">Manta 8P V2</a></h3>
+  <h3>Manta <a href="https://global.bttwiki.com/M4P.html">M4P</a> & <a href="https://global.bttwiki.com/M5P.html">M5P</a> & <a href="https://global.bttwiki.com/M8P.html">M8P</a> & <a href="https://global.bttwiki.com/M8P-V2_0.html">M8P V2.0</a> & <a href="https://github.com/bigtreetech/Manta-E3EZ">E3EZ</a></h3>
     <a href="https://global.bttwiki.com/M8P-V2_0.html"> 
    <img src="https://global.bttwiki.com/img/m8p-v2_0/m8p_v2_0_title.webp" style="height: 150px; width: auto;" alt="Manta"></a> </td>
 
@@ -193,35 +193,51 @@
 
 <tr>
   <td align=center> <a href="https://mellow-3d.github.io/index.html"><img src="https://mellow-3d.github.io/images/company_logo.png" style="height: 40px; width: auto;" alt="Mellow"></a>
-  <h3><a href="https://mellow-3d.github.io/fly_super8_pro_h723_general.html">Fly Super8Pro</a></h3>
-    <a href="https://mellow-3d.github.io/fly_super8_pro_h723_general.html"> 
+  <h3>Fly Super <a href="https://mellow-3d.github.io/fly_super5_pro_general.html">5Pro</a> & <a href="https://github.com/Mellow-3D/Fly-Super8">8</a> & <a href="https://mellow-3d.github.io/fly_super8_pro_h723_general.html">8Pro</a></h3>
+    <a href="https://github.com/orgs/Mellow-3D/repositories?q=Fly-super"> 
    <img src="https://github.com/hdgreef/Riton-Github/blob/main/docs/images/FlySuper8Pro.png" style="height: 150px; width: auto;" alt="Fly Super8"></a> </td>
 
-  <td align=center> <a href="https://mellow-3d.github.io/index.html"><img src="https://mellow-3d.github.io/images/company_logo.png" style="height: 40px; width: auto;" alt="Mellow"></a>
-  <h3><a href="https://mellow-3d.github.io/fly_dp5.html">Fly DP5</a></h3>
-    <a href="https://mellow-3d.github.io/fly_dp5.html"> 
-   <img src="https://mellow-3d.github.io/images/fly-dp5/fly_dp5.png" style="height: 150px; width: auto;" alt="Fly DP5"></a> </td> 
+  <td align=center> <a href="https://www.fysetc.com/collections/controllers"><img src="https://avatars.githubusercontent.com/u/36067086?s=200&v=4" style="height: 40px; width: auto;" alt="Fysetc"></a>
+  <h3>Spider <a href="https://github.com/FYSETC/FYSETC-SPIDER">V1.x/V2.x/V3.x</a> & <a href="https://github.com/FYSETC/FYSETC-SPIDER-H7">H7</a> & <a href="https://github.com/FYSETC/Spider_Pro">Pro</a> & <a href="https://github.com/FYSETC/FYSETC-SPIDER-KING">King</a></h3>
+    <a href="https://github.com/orgs/FYSETC/repositories?q=spider"> 
+   <img src="https://github.com/FYSETC/FYSETC-SPIDER/blob/main/images/Spider.png" style="height: 150px; width: auto;" alt="Spider V3"></a> </td> 
+   
+ <td align=center> <a href="https://ldomotion.com/products?category=3D%20Printing"><img src="https://github.com/KlipperScreen/KlipperScreen/raw/master/docs/img/sponsors/LDO.png" style="height: 40px; width: auto;" alt="LDO"></a>
+   <h3><a href="https://github.com/MotorDynamicsLab/Leviathan">Leviathan</a></h3>
+    <a href="https://github.com/MotorDynamicsLab/Leviathan"> 
+   <img src="https://raw.githubusercontent.com/MotorDynamicsLab/Leviathan/refs/heads/master/Media/product_img_web2.avif" style="height: 150px; width: auto;" alt="Leviathan"></a> </td> </tr>
 
+<tr> 
    <td align=center> <a href="https://github.com/makerbase-mks/mks-monster8"><img src="https://avatars.githubusercontent.com/u/12979070?v=4" style="height: 40px; width: auto;" alt="Mellow"></a>
   <h3><a href="https://github.com/makerbase-mks/mks-monster8">Monster 8 V2</a></h3>
     <a href="https://github.com/makerbase-mks/mks-monster8"> 
-   <img src="https://github.com/makerbase-mks/MKS-Monster8/blob/main/hardware/Image/MKS%20Monster8%20V1.0_002.jpg" style="height: 150px; width: auto;" alt="MKS Monter 8"></a> </td> </tr>
-
-<tr>
-  <td align=center> <a href="https://www.fysetc.com/collections/controllers"><img src="https://avatars.githubusercontent.com/u/36067086?s=200&v=4" style="height: 40px; width: auto;" alt="Fysetc"></a>
-  <h3><a href="https://github.com/FYSETC/FYSETC-SPIDER">Spider V3.0</a> & <a href="https://github.com/FYSETC/FYSETC-SPIDER-H7">H7</a></h3>
-    <a href="https://github.com/FYSETC/FYSETC-SPIDER"> 
-   <img src="https://github.com/FYSETC/FYSETC-SPIDER/blob/main/images/Spider.png" style="height: 150px; width: auto;" alt="Spider V3"></a> </td>
+   <img src="https://github.com/makerbase-mks/MKS-Monster8/blob/main/hardware/Image/MKS%20Monster8%20V1.0_002.jpg" style="height: 150px; width: auto;" alt="MKS Monter 8"></a> </td>
+ 
+  <td align=center> <a href="https://mellow-3d.github.io/index.html"><img src="https://mellow-3d.github.io/images/company_logo.png" style="height: 40px; width: auto;" alt="Mellow"></a>
+  <h3><a href="https://mellow-3d.github.io/fly_dp5.html">Fly D5P</a></h3>
+    <a href="https://mellow-3d.github.io/fly_dp5.html"> 
+   <img src="https://mellow-3d.github.io/images/fly-dp5/fly_dp5.png" style="height: 150px; width: auto;" alt="Fly D5P"></a> </td>
 
    <td align=center> <a href="https://www.fysetc.com/collections/controllers"><img src="https://avatars.githubusercontent.com/u/36067086?s=200&v=4" style="height: 40px; width: auto;" alt="Fysetc"></a>
-  <h3><a href="https://github.com/FYSETC/FYSETC-SPIDER-KING">Spider King</a></h3>
-    <a href="https://github.com/FYSETC/FYSETC-SPIDER-KING"> 
-   <img src="https://github.com/FYSETC/FYSETC-SPIDER-KING/blob/main/images/SpiderKing.jpg" style="height: 150px; width: auto;" alt="Spider"></a> </td> 
- 
-  <td align=center> <a href="https://ldomotion.com/products?category=3D%20Printing"><img src="https://github.com/KlipperScreen/KlipperScreen/raw/master/docs/img/sponsors/LDO.png" style="height: 40px; width: auto;" alt="LDO"></a>
-   <h3><a href="https://github.com/MotorDynamicsLab/Leviathan">Leviathan V3</a></h3>
-    <a href="https://github.com/MotorDynamicsLab/Leviathan"> 
-   <img src="https://raw.githubusercontent.com/MotorDynamicsLab/Leviathan/refs/heads/master/Media/product_img_web2.avif" style="height: 150px; width: auto;" alt="Leviathan"></a> </td> </tr> </table> </details>
+  <h3><a href="https://github.com/orgs/FYSETC/repositories?q=cheetah">Cheetah</a></h3>
+    <a href="https://github.com/orgs/FYSETC/repositories?q=cheetah"> 
+   <img src="https://github.com/FYSETC/Cheetah_V3.0/raw/main/images/Cheetah_Top.jpg" style="height: 150px; width: auto;" alt="Cheetah"></a> </td> </tr>
+   
+   <tr>
+      <td align=center> <a href="https://github.com/bigtreetech?tab=repositories&q=skr&type=&language=&sort="><img src="https://github.com/bigtreetech/docs/blob/master/docs/img/BQ-LOGO.svg" style="height: 40px; width: auto;" alt="BTT"></a>
+  <h3>SKR <a href="https://github.com/bigtreetech/BIGTREETECH-SKR-V1.3">V1.x</a> & <a href="https://github.com/bigtreetech/SKR-2">2</a> & <a href="https://github.com/bigtreetech/SKR-3">3/3EZ</a> & <a href="https://github.com/bigtreetech/BIGTREETECH-SKR-mini-E3">Mini E3 Vx</a> & <a href="https://github.com/bigtreetech/SKR-Pico">Pico</a> & <a href="https://github.com/bigtreetech/BIGTREETECH-SKR-PRO-V1.1">Pro</a></h3>
+    <a href="https://github.com/bigtreetech?tab=repositories&q=skr&type=&language=&sort="> 
+   <img src="https://global.bttwiki.com/img/SKR3/SKR3_Title.webp" style="height: 150px; width: auto;" alt="SKR"></a> </td> 
+   
+   <td align=center> <a href="https://www.fysetc.com/collections/controllers"><img src="https://avatars.githubusercontent.com/u/36067086?s=200&v=4" style="height: 40px; width: auto;" alt="Fysetc"></a>
+  <h3>Catalyst <a href="https://github.com/FYSETC/Catalyst_Kit">V1.0</a> & <a href="https://github.com/FYSETC/Catalyst_Kit_V2.0">V2.0</a> & <a href="https://github.com/FYSETC/Catalyst.K_Kit">K</a></h3>
+    <a href="https://github.com/FYSETC/Catalyst.K_Kit"> 
+   <img src="https://github.com/FYSETC/Catalyst.K_Kit/raw/main/image/image-1.png" style="height: 150px; width: auto;" alt="Catalyst"></a> </td> 
+   
+   <td align=center> <a href="https://mellow-3d.github.io/index.html"><img src="https://mellow-3d.github.io/images/company_logo.png" style="height: 40px; width: auto;" alt="Mellow"></a>
+  <h3>Gemini <a href="https://github.com/Mellow-3D/Fly-Gemini-V2">V2</a> & <a href="https://github.com/Mellow-3D/Fly-Gemini-V3">V3</a></h3>
+    <a href="https://github.com/orgs/Mellow-3D/repositories?q=gemini"> 
+   <img src="https://mellow-3d.github.io/images/fly-gemini-v2/gemini_v2_pins.png" style="height: 150px; width: auto;" alt="Gemini"></a> </td> </tr></table> </details>
 
    <!--## RPi-->
 <details> <summary align=center><h3>2. RPi</h3></summary>
