@@ -15,6 +15,8 @@
 <!--## Firmware-->
 <details> <summary align=center><h3>1. Printer Firmware</h3></summary>
 
+---
+
 <table align=center>
 <tr>
  <td align=center>
@@ -166,9 +168,8 @@
 
 ---
 
-<details> <summary><h3> MCU</h3></summary>
+<details> <summary><h3> MCU</h3></summary>    <!--## MCU-->
 
-   <!--## MCU-->
 <details> <summary align=center><h3>1. MotherBoard</h3></summary>
 
 <table align=center>
@@ -273,8 +274,43 @@
    <td align=center> <a href="https://mellow-3d.github.io/fly_pi_general.html"><img src="https://mellow-3d.github.io/images/company_logo.png" style="height: 40px; width: auto;" alt="Mellow"></a>
   <h3><a href="https://mellow-3d.github.io/fly_pi_general.html">Fly Pi</a></h3>
   <a href="https://mellow-3d.github.io/fly_pi_general.html">
-  <img src="https://mellow-3d.github.io/images/fly-pi/fly_pi_front.webp" style="height: 150px; width: auto;" alt="Fly Pi"></a> </td> </tr> </table> </details> </details>
+  <img src="https://mellow-3d.github.io/images/fly-pi/fly_pi_front.webp" style="height: 150px; width: auto;" alt="Fly Pi"></a> </td> </tr> </table> </details>
 
+   <!--## Other Boards -->
+<details> <summary align=center><h3>3. Expansion & Mluti-Material Board</h3></summary>
+
+<table align=center>
+  <tr>
+   <td align=center> <a href="https://www.fysetc.com/collections/controllers"><img src="https://avatars.githubusercontent.com/u/36067086?s=200&v=4" style="height: 40px; width: auto;" alt="Fysetc"></a>
+  <h3><a href="https://github.com/FYSETC/CHAMELEON_X5">Chameleon</a></h3>
+  <a href="https://wiki.fysetc.com/docs/CHAMELEON-X5">
+  <img src="https://resource-wangsu.helplook.net/docker_production/r1hy6v/article/vwHKrP9T/695a268e4b882.png" style="height: 150px; width: auto;" alt="Chameleon"></a> </td>
+
+ <td align=center> <a href="https://bigtree-tech.com/"><img src="https://github.com/bigtreetech/docs/blob/master/docs/img/BQ-LOGO.svg" style="height: 40px; width: auto;" alt="BTT"></a>
+  <h3>MMB Can<a href="https://global.bttwiki.com/MMB%20CAN%20V1.0.html"> V1</a> & <a href="https://global.bttwiki.com/MMB%20CAN%20V2.0.html"> V2</a></h3>
+  <a href="https://global.bttwiki.com/BIGTREETECH_ViViD.html"> 
+  <img src="https://global.bttwiki.com/img/mmb_can_v2_0/mmb_can_v2_0_title1.webp" style="height: 150px; width: auto;" alt="MMB Can V2"></a> </td>
+
+   <td align=center> <a href="https://www.fysetc.com/collections/controllers"><img src="https://avatars.githubusercontent.com/u/36067086?s=200&v=4" style="height: 40px; width: auto;" alt="Fysetc"></a>
+  <h3><a href="https://wiki.fysetc.com/docs/hexa_distro_fusion">Hexa Distro Fusion</a></h3>
+  <a href="https://wiki.fysetc.com/docs/hexa_distro_fusion">
+  <img src="https://resource-wangsu.helplook.net/docker_production/r1hy6v/article/MsYx9Vdt/685a6a0eb2240.png?x-oss-process=image/watermark,text_RllTRVRD,color_FFFFFF,g_center,size_26,t_25,shadow_15" style="height: 150px; width: auto;" alt="Fysetc HexaDistro"></a>  </td> </tr>
+  
+<tr>
+   <td align=center><a href="https://mellow-3d.github.io/fly_pi_general.html"><img src="https://mellow-3d.github.io/images/company_logo.png" style="height: 40px; width: auto;" alt="Mellow"></a>
+  <h3><a href="https://mellow-3d.github.io/fly-utoc_general.html">Fly UTOC</a></h3>
+  <a href="https://mellow-3d.github.io/fly-utoc_general.html">
+  <img src="https://mellow-3d.github.io/images/fly-utoc/fly_utoc-1_3_front_back.png" style="height: 150px; width: auto;" alt="Fly UTOC"></a> </td> 
+
+   <td align=center><a href="https://mellow-3d.github.io/fly_pi_general.html"><img src="https://mellow-3d.github.io/images/company_logo.png" style="height: 40px; width: auto;" alt="Mellow"></a>
+  <h3><a href="https://mellow-3d.github.io/fly_rpfmex.html">Fly RPFMex</a></h3>
+  <a href="https://mellow-3d.github.io/fly_rpfmex.html">
+  <img src="https://mellow-3d.github.io/images/fly-rpfmex/fly_rpfmex.png" style="height: 150px; width: auto;" alt="Fly RFFMex"></a> </td> 
+
+   <td align=center> <a href="https://mellow-3d.github.io/fly_pi_general.html"><img src="https://mellow-3d.github.io/images/company_logo.png" style="height: 40px; width: auto;" alt="Mellow"></a>
+  <h3><a href="https://mellow-3d.github.io/fly_ercf_v1.1_general.html">Fly ERCF Easy BRD</a></h3>
+  <a href="https://mellow-3d.github.io/fly_ercf_v1.1_general.html">
+  <img src="https://mellow-3d.github.io/images/ercf_easy_v1.1/front_back.png" style="height: 150px; width: auto;" alt="Fly ERCF"></a> </td> </tr> </table> </details> </details>
 
  <details> <summary><h3> PrintHeads</h3></summary>
 
@@ -627,7 +663,9 @@
 <!-----------------------------------------------------ADVANCED------------------------------------------------------->
 
 
-<details> <summary><h2>3. Advanced Features</h2></summary>
+<details> <summary><h2>3. Advanced Features & Mods</h2></summary>
+
+---
 
 <!--## MMU-->
 <details> <summary align=center><h3>1. Multi-Material Unit [MMU]</h3></summary>
@@ -758,7 +796,7 @@
   <img src="https://tse4.mm.bing.net/th/id/OIP.UfNB6ZmGbUi8fhNlAUxULgHaE8?pid=Api" style="height: 150px; width: auto;" alt="INDX"></a> </td> </tr> </table> </details>
 
 <!--## Mods-->
-<details open> <summary align=center><h3>3. Voron Mods</h3></summary>
+<details> <summary align=center><h3>3. Voron 2.4 Mods</h3></summary>
 
   <th> <h3 align=center> <a href="https://mods.vorondesign.com/"><img src="https://github.com/hdgreef/Riton-Github/raw/main/docs/images/voron_design_logo.png" style="height: 40px; width: auto;" alt="VoronUsers Mod"></a> <a href="https://github.com/VoronDesign/VoronUsers">Official VoronUsers Mods<a href="https://mods.vorondesign.com/"><img src="https://github.com/hdgreef/Riton-Github/raw/main/docs/images/voron_design_logo.png" style="height: 40px; width: auto;" alt="VoronUsers Mod"></a></a> </h3> </th>
 
@@ -842,25 +880,15 @@
 
   <tr> <th colspan="3" align=center> <h3>AB Drives related</h3> </th> </tr> <!--AB Drives-->
   <tr>
-  <td></td>
+  <td align=center><h3><a href="https://github.com/falcon14141/Voron_Mods/tree/master/Endstops/Z_Chainguard_YEndstop">Y Endstop</a></h3>
+  <a href="https://github.com/VoronDesign/VoronUsers/tree/main/printer_mods/hartk1213/Voron2.4_Trident_Pins_Mod"> 
+  <img src="https://github.com/falcon14141/Voron_Mods/blob/master/Endstops/Z_Chainguard_YEndstop/images/1.png?raw=true" style="height: 150px; width: auto;" alt="Y endstop"></a></td>
    
    <td align=center> <h3><a href="https://github.com/VoronDesign/VoronUsers/tree/main/printer_mods/hartk1213/Voron2.4_Trident_Pins_Mod">XY Joints Pin mod</a></h3>
   <a href="https://github.com/VoronDesign/VoronUsers/tree/main/printer_mods/hartk1213/Voron2.4_Trident_Pins_Mod"> 
   <img src="https://github.com/VoronDesign/VoronUsers/raw/main/printer_mods/hartk1213/Voron2.4_Trident_Pins_Mod/Images/2.jpg" style="height: 150px; width: auto;" alt="XY Pin mod"></a> </td>
    
-   <td></td>  </tr> 
-  
-   <tr> <th colspan="3" align=center> <h3>Z Joints</h3> </th> </tr> <!--Z Joint-->
-     <tr>
-    <td align=center> <h3><a href="https://mods.vorondesign.com/details/eB5T2RNQcYI4o6cilhpXEg">[GE5C]</a></h3>
-  <a href="https://mods.vorondesign.com/details/eB5T2RNQcYI4o6cilhpXEg"> 
-  <img src="https://raw.githubusercontent.com/VoronDesign/VoronUsers/main/printer_mods/hartk1213/Voron2.4_GE5C/Images/6.png" style="height: 150px; width: auto;" alt="GE5C"></a> </td> 
-
-  <td align=center><h3><a href="https://github.com/Ramalama2/Voron-2-Mods/tree/main/Misumi_RBPB5">Rama GE5C Misumi</a></h3>
-  <a href="https://github.com/Ramalama2/Voron-2-Mods/tree/main/Misumi_RBPB5"> 
-  <img src="https://github.com/Ramalama2/Voron-2-Mods/raw/main/Misumi_RBPB5/Screw_Version-Rendering.jpg" style="height: 150px; width: auto;" alt="Rama GE5C"></a></td>
-  
-  <td></td></tr>
+   <td></td>  </tr>
 
  <tr> <th colspan="3" align=center> <h3>Z Drives</h3> </th> </tr> <!--Z Drives-->
    <tr> 
@@ -882,7 +910,21 @@
   <a href="https://github.com/falcon14141/Voron_Mods/tree/master/Lovely%20Frog%20Z%20Idler"> 
   <img src="https://github.com/falcon14141/Voron_Mods/raw/master/Lovely%20Frog%20Z%20Idler/images/lovely_frog_front.png" style="height: 150px; width: auto;" alt="LFZI"></a> </td>
 
-   <td align=center> <h3><a href="https://github.com/Chaoticlab/CNC_Tool-free_Tensioner_for_Voron2.4_Z-Axis/tree/main">CNC ChaoticLab</a></h3> </td> </tr> </table> </details>
+   <td align=center> <h3><a href="https://github.com/Chaoticlab/CNC_Tool-free_Tensioner_for_Voron2.4_Z-Axis/tree/main">CNC ChaoticLab</a></h3> </td> </tr> 
+   
+   <tr> <th colspan="3" align=center> <h3>Z Joints</h3> </th> </tr> <!--Z Joint-->
+     <tr>
+    <td align=center> <h3><a href="https://mods.vorondesign.com/details/eB5T2RNQcYI4o6cilhpXEg">[GE5C]</a></h3>
+  <a href="https://mods.vorondesign.com/details/eB5T2RNQcYI4o6cilhpXEg"> 
+  <img src="https://raw.githubusercontent.com/VoronDesign/VoronUsers/main/printer_mods/hartk1213/Voron2.4_GE5C/Images/6.png" style="height: 150px; width: auto;" alt="GE5C"></a> </td> 
+
+  <td align=center><h3><a href="https://github.com/Ramalama2/Voron-2-Mods/tree/main/Misumi_RBPB5">Rama GE5C Misumi</a></h3>
+  <a href="https://github.com/Ramalama2/Voron-2-Mods/tree/main/Misumi_RBPB5"> 
+  <img src="https://github.com/Ramalama2/Voron-2-Mods/raw/main/Misumi_RBPB5/Screw_Version-Rendering.jpg" style="height: 150px; width: auto;" alt="Rama GE5C"></a></td>
+  
+  <td align=center><h3><a href="https://github.com/VoronDesign/VoronUsers/tree/main/printer_mods/ZZP8202/Double_GEAR_ratio_Z">Double Gear</a></h3>
+  <a href="https://github.com/VoronDesign/VoronUsers/tree/main/printer_mods/ZZP8202/Double_GEAR_ratio_Z"> 
+  <img src="https://github.com/VoronDesign/VoronUsers/blob/main/printer_mods/ZZP8202/Double_GEAR_ratio_Z/Images/Photo.jpg?raw=true" style="height: 150px; width: auto;" alt="Double Gear"></a></td></tr></table> </details>
 
    <!--Lubrification -->
 <details> <summary align=center><h4>Lubricant</h4></summary>
@@ -910,7 +952,20 @@
   <td align=center> <a href="https://github.com/DraftShift/DoorBuffer"><img src="https://github.com/Stealthchanger/DoorBuffer/raw/main/Media/DoorBuffer_logo.png" style="height: 40px; width: auto;" alt="DraftShift"></a>
   <h3><a href="https://github.com/DraftShift/DoorBuffer">DoorBuffer</a></h3>
   <a href="https://github.com/DraftShift/DoorBuffer"> 
-  <img src="https://github.com/DraftShift/DoorBuffer/raw/main/Media/V2_frames.png" style="height: 150px; width: auto;" alt="DoorBuffer"></a> </td>  </tr> </table> </details>
+  <img src="https://github.com/DraftShift/DoorBuffer/raw/main/Media/V2_frames.png" style="height: 150px; width: auto;" alt="DoorBuffer"></a> </td> </tr>
+  
+  <tr>
+     <td align=center> <h3><a href="https://github.com/elpopo-eng/VoronFrenchUsers/tree/main/Mod/RemovableDoor">Removable Door</a></h3>
+  <a href="https://github.com/elpopo-eng/VoronFrenchUsers/tree/main/Mod/RemovableDoor"> 
+  <img src="https://github.com/elpopo-eng/VoronFrenchUsers/raw/main/Mod/RemovableDoor/Images/Charniere_Av.jpg" style="height: 150px; width: auto;" alt="RemovableDoor"></a> </td>
+
+   <td align=center>  <h3><a href="https://github.com/VoronDesign/VoronUsers/tree/main/printer_mods/richardjm/snap-latch-2020">SnapLatch</a></h3>
+  <a href="https://github.com/VoronDesign/VoronUsers/tree/main/printer_mods/richardjm/snap-latch-2020"> 
+  <img src="https://github.com/VoronDesign/VoronUsers/raw/main/printer_mods/richardjm/snap-latch-2020/Images/Assembly.gif" style="height: 150px; width: auto;" alt="Snaplatch"></a> </td>
+
+   <td align=center>  <h3><a href="https://github.com/VoronDesign/VoronUsers/tree/main/printer_mods/Le0n/Magnetic_Panels_with_Magnet_Inserts">Magnetic Panel</a></h3>
+  <a href="https://github.com/VoronDesign/VoronUsers/tree/main/printer_mods/Le0n/Magnetic_Panels_with_Magnet_Inserts"> 
+  <img src="https://github.com/VoronDesign/VoronUsers/raw/main/printer_mods/Le0n/Magnetic_Panels_with_Magnet_Inserts/Images/magnetic-panel-and-inserts-0-installed-2.jpg" style="height: 150px; width: auto;" alt="MagPanel"></a> </td> </tr></table> </details>
 
 
 [VoronPedia](https://github.com/LegionPleingaz/Voronpedia/tree/main)
