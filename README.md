@@ -82,7 +82,7 @@
   <img src="https://github.com/fluidd-core/fluidd/blob/develop/docs/docs/assets/images/fluidd_icon.svg" style="height: 150px; width: auto;" alt="Fluidd"></a> </td>
 
  <td align=center>
-  <h3><a href="https://github.com/Arksine/moonraker">Moonracker</a></h3> & <h3><a href="https://github.com/Arksine/katapult">Katapult</a> </h3> </td> </tr>
+  <h3><a href="https://github.com/Arksine/moonraker">Moonracker</a></h3> & <h3><a href="https://github.com/Arksine/katapult">Katapult</a> </h3> & <h3><a href="https://docs.vorondesign.com/community/howto/EricZimmerman/BackupConfigToGithub.html">Printer Config Back-Up</a> </h3> </td> </tr>
 
 <tr>
  <td align=center>
@@ -151,8 +151,12 @@
  <td align=center><h3><a href="https://github.com/Frix-x/klippain-shaketune">Shake & Tune</a></h3></td>
  
  <td align=center> <h3><a href="https://github.com/andrewmcgr/klipper_tmc_autotune">TMC Autotune</a></h3></td>
+ </tr>
 
+<tr>
  <td align=center> <h3><a href="https://wiki.bambulab.com/en/x1/troubleshooting/nozzle-clog">Hotend Unclog</a></h3></td>
+
+ <td align=center> <h3><a href="https://www.printables.com/model/480907-shrinkage-calculator-dimensional-calibration-tool">Schrink Calculator</a></h3></td>
 
 <!--## Others-->
  <td align=center><h3><a href=https://github.com/CNCKitchen/stlTexturizer>Stl Texturizer</a></h3></td>
@@ -792,13 +796,15 @@
   <img src="https://camo.githubusercontent.com/5f7d6ceaf5e6f880fcc422d4c3b91b81ea9832bbe0c5d552c838fe523ec2b2a0/68747470733a2f2f696d672e796f75747562652e636f6d2f76692f3557654c6f496e335554772f302e6a7067" style="height: 150px; width: auto;" alt="daksh"></a> </td> </tr>
 
 <tr>
-  <td colspan="3" align=center><h3><a href="https://github.com/BondtechAB/INDX">INDX</a></h3>
-  <a href="https://github.com/BondtechAB/INDX"> 
-  <img src="https://tse4.mm.bing.net/th/id/OIP.UfNB6ZmGbUi8fhNlAUxULgHaE8?pid=Api" style="height: 150px; width: auto;" alt="INDX"></a> </td> </tr> 
+  <td align=center><h3><a href="https://github.com/cx330-TXY/CxChanger">CxChanger</a></h3>
+  <a href="https://github.com/cx330-TXY/CxChanger"> 
+  <img src="https://private-user-images.githubusercontent.com/198423717/573817506-bb0c0aa7-5b82-490f-add7-e86a71225352.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODQ3OTU2NDksIm5iZiI6MTc4NDc5NTM0OSwicGF0aCI6Ii8xOTg0MjM3MTcvNTczODE3NTA2LWJiMGMwYWE3LTViODItNDkwZi1hZGQ3LWU4NmE3MTIyNTM1Mi5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwNzIzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDcyM1QwODI5MDlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wMzMzMGMxOTI4Nzc1YTlhZTc2YmE5M2VkYjUzZWJmNzkxYWM4NzJjODYxOWUyOTUwOGY5ODRlYmI5MmZjMTIzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZnaWYifQ.0QPZuelpPbzSahTtGPPTOGkOqEix0Ezn1xnBMKI6qiU" style="height: 150px; width: auto;" alt="CX"></a> </td>
 
-  <tr> <th colspan="3" align=center> <h3>CAN Distro Board</h3> </th> </tr> <!--Can Distro Board-->
-  <tr> 
-   <td colspan="3" align=center> <a href="https://www.fysetc.com/collections/controllers"><img src="https://avatars.githubusercontent.com/u/36067086?s=200&v=4" style="height: 40px; width: auto;" alt="Fysetc"></a>
+ <td align=center><h3><a href="https://github.com/BondtechAB/INDX">INDX</a></h3>
+  <a href="https://github.com/BondtechAB/INDX"> 
+  <img src="https://tse4.mm.bing.net/th/id/OIP.UfNB6ZmGbUi8fhNlAUxULgHaE8?pid=Api" style="height: 150px; width: auto;" alt="INDX"></a> </td>
+
+   <td align=center> <a href="https://www.fysetc.com/collections/controllers"><img src="https://avatars.githubusercontent.com/u/36067086?s=200&v=4" style="height: 40px; width: auto;" alt="Fysetc"></a>
   <h3><a href="https://wiki.fysetc.com/docs/hexa_distro_fusion">Hexa Distro Fusion</a></h3>
   <a href="https://wiki.fysetc.com/docs/hexa_distro_fusion">
   <img src="https://resource-wangsu.helplook.net/docker_production/r1hy6v/article/MsYx9Vdt/685a6a0eb2240.png?x-oss-process=image/watermark,text_RllTRVRD,color_FFFFFF,g_center,size_26,t_25,shadow_15" style="height: 150px; width: auto;" alt="Fysetc HexaDistro"></a> </td> </tr> </table> </details>
