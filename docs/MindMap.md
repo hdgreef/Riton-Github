@@ -1,6 +1,6 @@
 # Riton MindMap
 
-<p align=center><img src=https://github.com/hdgreef/Riton-Github/blob/main/docs/images/markmap.svg alt='Riton's Mind' width='30%'></p>
+<p align=center><img src=https://github.com/hdgreef/Riton-Github/blob/main/docs/images/markmap.png alt='Riton's Mind' width='30%'></p>
 
 Run it here : [Markmap](https://markmap.js.org/repl)
 
