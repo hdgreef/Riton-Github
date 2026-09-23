@@ -33,6 +33,7 @@ markmap:
 #### **TO DO** 
 - [ ] UKAM
 #### **DONE**
+- [x] Back to Klippain 
 
 ### **RitonVZ**
 #### **TO DO**
@@ -54,29 +55,42 @@ markmap:
 #### **DONE**
 - [x] Order V1E µP
 
-## ![SLA](https://eu.elegoo.com/cdn/shop/files/saturn-4-ultra-16k-right-side-open.jpg?v=1743676935)
-#### **Plan**
-#### **TO DO**
-
 
 ## ![Linux](https://tse2.mm.bing.net/th/id/OIP.klBVUD2x6Nv-WstmOTzz6AHaEK?r=0&pid=Api)
 ### **RitonRPi**
 #### **TO DO**
-- [ ] FileBrowser (Google Drive alt)
-- [ ] Docker
+- [ ] OpenMediaVault (NAS)
+- [ ] Podman  (Docker alt)
+- [ ] Portainer ou Cockpit (Gestion des conteneurs)
 - [ ] Netdata (Monitoring data)
+- [ ] Nginx Proxy Manager + Let's Encrypt (https)
 - [ ] Tailscale (Réseau VPN)
-- [ ] Sonar
-- [ ] Radar
+- [ ] iptables ou UFW (Firewall pour bloquer les ports inutiles)
+- [ ] Servarr
+- [ ] Plex/Jellyfin
+- [ ] Pi-Hole
+- [ ] Syncthing
+- [ ] VaultWarden (BitWarden alt)
+- [ ] rsync ou BorgBackup (sauvegarde)
+#### **Optional**
+- [ ] HomeAssistant
+- [ ] NextCloud (Drive alt)
 - [ ] AppFlowy (Notion alt)
 - [ ] Taiga (Gestion Projet Agile)
 - [ ] Node-RED (Automatisation domotique)
 #### **DONE**
 - [x] RpiOS 64bits
 - [x] Install git, python3,-pip,-venv, Nodejs, npm, curl, wget
+
+
+## ![SLA](https://eu.elegoo.com/cdn/shop/files/saturn-4-ultra-16k-right-side-open.jpg?v=1743676935)
+#### **Plan**
+#### **TO DO**
+
       
 ## ![Piano](https://tse2.mm.bing.net/th/id/OIP.OvYZjc7T8rhp9wezDZmMLAHaE7?r=0&pid=Api)
 #### **TO DO**
 #### **DONE**
+
 
 ``` 
