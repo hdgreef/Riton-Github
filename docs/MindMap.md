@@ -61,11 +61,12 @@ markmap:
 #### **TO DO**
 - [ ] OpenMediaVault (NAS)
 - [ ] Podman  (Docker alt)
-- [ ] Portainer ou Cockpit (Gestion des conteneurs)
+- [ ] Cockpit (Gestion des conteneurs, éventuellement Portainer)
 - [ ] Netdata (Monitoring data)
-- [ ] Nginx Proxy Manager + Let's Encrypt (https)
-- [ ] Tailscale (Réseau VPN)
-- [ ] iptables ou UFW (Firewall pour bloquer les ports inutiles)
+- [ ] NPM (Nginx Proxy Manager) ou Traefik + Let's Encrypt via Certbot (https)
+- [ ] WireGuard ou Tailscale (Réseau VPN)
+- [ ] UFW ou iptables (Firewall pour bloquer les ports inutiles)
+- [ ] Fail2Ban 
 - [ ] Servarr
 - [ ] Plex/Jellyfin
 - [ ] Pi-Hole
@@ -91,6 +92,8 @@ markmap:
 ## ![Piano](https://tse2.mm.bing.net/th/id/OIP.OvYZjc7T8rhp9wezDZmMLAHaE7?r=0&pid=Api)
 #### **TO DO**
 #### **DONE**
+
+
 
 
 ``` 
