@@ -57,21 +57,27 @@ markmap:
 
 
 ## ![Linux](https://tse2.mm.bing.net/th/id/OIP.klBVUD2x6Nv-WstmOTzz6AHaEK?r=0&pid=Api)
-### **RitonRPi**
+### **AcerBuntu**
 #### **TO DO**
-- [ ] OpenMediaVault (NAS)
-- [ ] Podman  (Docker alt)
-- [ ] Cockpit (Gestion des conteneurs, éventuellement Portainer)
-- [ ] Netdata (Monitoring data)
+#####
+- [x] [Cockpit](https://cockpit-project.org/running.html) (Gestion des conteneurs, éventuellement Portainer)
+  - [x] [MonCockpit](https://localhost:9090)
+  - [x] Cockpit App (cockpit-podman, cockpit-storage, cockpit-networkmanager, cockpit-machines (VM), cockpit-pcp (CPU performance))
+  - [ ] Cockpit App non-installées (cockpit-files, cockpit-tailscale)
+- [x] Podman  (Docker alt)
+  - [x] [Flatpak & FlatHub install](https://flathub.org/fr/setup/Ubuntu)
+  - [x] Podman Desktop + Compose (via FlatHub)
+  - [x] Podman Containers (via cockpit-podman)
+- [x] UFW (ou iptables (complexe)) (Firewall pour bloquer les ports inutiles)
+- [x] Tailscale (ou WireGuard (complexe)) (Réseau VPN)
 - [ ] NPM (Nginx Proxy Manager) ou Traefik + Let's Encrypt via Certbot (https)
-- [ ] WireGuard ou Tailscale (Réseau VPN)
-- [ ] UFW ou iptables (Firewall pour bloquer les ports inutiles)
+- [ ] Netdata (Monitoring data)
 - [ ] Fail2Ban 
 - [ ] Servarr
 - [ ] Plex/Jellyfin
 - [ ] Pi-Hole
 - [ ] Syncthing
-- [ ] VaultWarden (BitWarden alt)
+- [ ] VaultWarden (Gestion MDP, BitWarden alt)
 - [ ] rsync ou BorgBackup (sauvegarde)
 #### **Optional**
 - [ ] HomeAssistant
@@ -80,9 +86,14 @@ markmap:
 - [ ] Taiga (Gestion Projet Agile)
 - [ ] Node-RED (Automatisation domotique)
 #### **DONE**
+
+
+### **RitonPi**
+#### **ToDo**
+- [ ] OpenMediaVault (NAS)
+#### **Done**
 - [x] RpiOS 64bits
 - [x] Install git, python3,-pip,-venv, Nodejs, npm, curl, wget
-
 
 ## ![SLA](https://eu.elegoo.com/cdn/shop/files/saturn-4-ultra-16k-right-side-open.jpg?v=1743676935)
 #### **Plan**
@@ -92,8 +103,35 @@ markmap:
 ## ![Piano](https://tse2.mm.bing.net/th/id/OIP.OvYZjc7T8rhp9wezDZmMLAHaE7?r=0&pid=Api)
 #### **TO DO**
 #### **DONE**
+```
 
-
-
+--- 
+```
+Home Lab Network
+├── 🖥️ Gateway: RPi 5 8Go
+│   ├── 🔒 Sécurité & Gestion
+│   │   ├── UFW Firewall
+│   │   ├── Fail2Ban
+│   │   ├── SSH Clés
+│   │   ├── Cockpit
+│   │   └── Tailscale
+│   ├── 🌐 Services Core
+│   │   ├── OMV NAS
+│   │   ├── Pi-hole DNS
+│   │   ├── Vaultwarden
+│   │   └── Nginx Proxy Manager
+│   └── 🎬 Services Médias
+│       ├── Plex / Jellyfin
+│       └── Servarr Stack
+├── 🔌 Réseau Local: Switch
+│   ├── PC Linux: Acer Aspire S5 Ubuntu
+│   ├── PC Windows: Lenovo Windows 11
+│   ├── Voron 1: RPi4 + Octopus
+│   ├── Voron 2: RPi4 + Manta 8P
+│   └── VzBot: RPi3b + SKR v1.3
+├── 📶 Réseau Sans Fil / WAN
+│   ├── Fairphone 4
+│   └── Bambulab P1S AMS
+└── 🤔 RPi 3b: À définir
 
 ``` 
