@@ -108,30 +108,55 @@ markmap:
 --- 
 ```
 Home Lab Network
-├── 🖥️ Gateway: RPi 5 8Go
-│   ├── 🔒 Sécurité & Gestion
-│   │   ├── UFW Firewall
-│   │   ├── Fail2Ban
-│   │   ├── SSH Clés
-│   │   ├── Cockpit
-│   │   └── Tailscale
-│   ├── 🌐 Services Core
-│   │   ├── OMV NAS
-│   │   ├── Pi-hole DNS
-│   │   ├── Vaultwarden
-│   │   └── Nginx Proxy Manager
-│   └── 🎬 Services Médias
-│       ├── Plex / Jellyfin
-│       └── Servarr Stack
+├── 🖥️ Gateway: PC Linux: Riton-Acer Aspire S5-371 Ubuntu 26.04.1 LTS
+│   │   ├── 🔒 Sécurité & Gestion
+│   │   │   ├── UFW Firewall
+│   │   │   ├── Fail2Ban
+│   │   │   ├── SSH Clés
+│   │   │   ├── Cockpit
+│   │   │   └── Tailscale
+│   │   ├── 🌐 Services Core
+│   │   │   ├── Podman
+│   │   │   ├── Pi-hole DNS
+│   │   │   ├── Vaultwarden
+│   │   │   └── Nginx Proxy Manager
+│   │   └── 🎬 Services Médias
+│   │   │   └── Plex / Jellyfin
 ├── 🔌 Réseau Local: Switch
-│   ├── PC Linux: Acer Aspire S5 Ubuntu
-│   ├── PC Windows: Lenovo Windows 11
-│   ├── Voron 1: RPi4 + Octopus
-│   ├── Voron 2: RPi4 + Manta 8P
-│   └── VzBot: RPi3b + SKR v1.3
-├── 📶 Réseau Sans Fil / WAN
-│   ├── Fairphone 4
+│   ├── PC Windows: Riton-Lenovo Windows 11
+│   ├── Rpi 5 8Go: Riton-Pi5
+│   │   ├── 🌐 Services Core
+│   │   │   └── OMV NAS
+│   │   └── 🎬 Services Médias
+│   │   │   ├── Plex / Jellyfin
+│   │   │   └── Servarr Stack
+│   ├── RitonVoron1:
+│   │   ├── hardware/
+│   │   │   ├── rpi4/
+│   │   │   └── octopus-v1-1/
+│   │   ├── firmware/
+│   │   │   └── klippain/
+│   │   └── interface/
+│   │       └── mainsail/
+│   ├── RitonVoron2:
+│   │   ├── hardware/
+│   │   │   ├── manta-8p/
+│   │   │   └── cb1/
+│   │   ├── firmware/
+│   │   │   └── klippain/
+│   │   └── interface/
+│   │       └── mainsail/
+│   ├── RitonVz:
+│   │   ├── hardware/
+│   │   │   ├── rpi3b/
+│   │   │   └── skr-v1-3/
+│   │   └── firmware/
+│   │   │   └── klipper/
+│   │   └── interface/
+│   │       └── mainsail/
 │   └── Bambulab P1S AMS
+├── 📶 Réseau Sans Fil / WAN
+│   └── Fairphone 4
 └── 🤔 RPi 3b: À définir
 
 ``` 
