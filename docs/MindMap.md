@@ -3,7 +3,8 @@
 <p align=center><img src=https://github.com/hdgreef/Riton-Github/blob/main/docs/images/markmap.png alt='Riton's Mind' width='30%'></p>
 
 Run it here : [Markmap](https://markmap.js.org/repl)
-
+<details> <summary><h3>Mindmap Code</h3></summary>
+  
 ```
 ---
 title: Riton Mind
@@ -57,19 +58,8 @@ markmap:
 
 
 ## ![Linux](https://tse2.mm.bing.net/th/id/OIP.klBVUD2x6Nv-WstmOTzz6AHaEK?r=0&pid=Api)
-### **AcerBuntu**
+### **RItonAcer**
 #### **TO DO**
-#####
-- [x] [Cockpit](https://cockpit-project.org/running.html) (Gestion des conteneurs, éventuellement Portainer)
-  - [x] [MonCockpit](https://localhost:9090)
-  - [x] Cockpit App (cockpit-podman, cockpit-storage, cockpit-networkmanager, cockpit-machines (VM), cockpit-pcp (CPU performance))
-  - [ ] Cockpit App non-installées (cockpit-files, cockpit-tailscale)
-- [x] Podman  (Docker alt)
-  - [x] [Flatpak & FlatHub install](https://flathub.org/fr/setup/Ubuntu)
-  - [x] Podman Desktop + Compose (via FlatHub)
-  - [x] Podman Containers (via cockpit-podman)
-- [x] UFW (ou iptables (complexe)) (Firewall pour bloquer les ports inutiles)
-- [x] Tailscale (ou WireGuard (complexe)) (Réseau VPN)
 - [ ] NPM (Nginx Proxy Manager) ou Traefik + Let's Encrypt via Certbot (https)
 - [ ] Netdata (Monitoring data)
 - [ ] Fail2Ban 
@@ -86,12 +76,30 @@ markmap:
 - [ ] Taiga (Gestion Projet Agile)
 - [ ] Node-RED (Automatisation domotique)
 #### **DONE**
+##### **Serveur**
+- [x] [Cockpit](https://cockpit-project.org/running.html) (Gestion des conteneurs, éventuellement Portainer)
+  - [x] [MonCockpit](https://localhost:9090)
+  - [x] Cockpit App (cockpit-podman, cockpit-storage, cockpit-networkmanager, cockpit-machines (VM), cockpit-pcp (CPU performance))
+  - [ ] Cockpit App non-installées (cockpit-files, cockpit-tailscale)
+- [x] Podman  (Docker alt)
+  - [x] [Flatpak & FlatHub install](https://flathub.org/fr/setup/Ubuntu)
+  - [x] Podman Desktop + Compose (via FlatHub)
+  - [x] Podman Containers (via cockpit-podman)
+- [x] UFW (ou iptables (complexe)) (Firewall pour bloquer les ports inutiles)
+- [x] Tailscale (ou WireGuard (complexe)) (Réseau VPN)
+##### **App**
+- [x] BalenaEtcher
+- [x] OrcaSlicer (Snap)
+- [x] SuSie (.tgz)
 
-
-### **RitonPi**
+### **RitonPi5**
 #### **ToDo**
 - [ ] OpenMediaVault (NAS)
 #### **Done**
+
+### **RitonPi3b**
+#### **ToDo**
+#### **DONE**
 - [x] RpiOS 64bits
 - [x] Install git, python3,-pip,-venv, Nodejs, npm, curl, wget
 
@@ -103,7 +111,9 @@ markmap:
 ## ![Piano](https://tse2.mm.bing.net/th/id/OIP.OvYZjc7T8rhp9wezDZmMLAHaE7?r=0&pid=Api)
 #### **TO DO**
 #### **DONE**
+
 ```
+</details>
 
 --- 
 ```
